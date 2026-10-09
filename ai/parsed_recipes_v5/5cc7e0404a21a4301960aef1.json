@@ -1,0 +1,665 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5cc7e0404a21a4301960aef1",
+  "name": "糯米烧麦",
+  "ingredients_raw": "A料：糯米400g；煮熟五花肉100g；饺子皮40张；B料：松子20g；干香菇10g；水煮笋50g；食用油3T；香葱5g；生姜5g；料酒2T；白糖1T；老抽10g；生抽10g；香油1/2t；肉汤50g；味精1/2t",
+  "ingredients": [
+    {
+      "name": "糯米",
+      "amount_text": "400g",
+      "quantity": 400,
+      "unit": "g",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "A料：糯米400g"
+    },
+    {
+      "name": "煮熟五花肉",
+      "amount_text": "100g",
+      "quantity": 100,
+      "unit": "g",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "煮熟五花肉100g"
+    },
+    {
+      "name": "饺子皮",
+      "amount_text": "40张",
+      "quantity": 40,
+      "unit": "张",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "饺子皮40张"
+    },
+    {
+      "name": "松子",
+      "amount_text": "20g",
+      "quantity": 20,
+      "unit": "g",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "B料：松子20g"
+    },
+    {
+      "name": "干香菇",
+      "amount_text": "10g",
+      "quantity": 10,
+      "unit": "g",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "干香菇10g"
+    },
+    {
+      "name": "水煮笋",
+      "amount_text": "50g",
+      "quantity": 50,
+      "unit": "g",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "水煮笋50g"
+    },
+    {
+      "name": "食用油",
+      "amount_text": "3T",
+      "quantity": 3,
+      "unit": "T",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "食用油3T"
+    },
+    {
+      "name": "香葱",
+      "amount_text": "5g",
+      "quantity": 5,
+      "unit": "g",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "香葱5g"
+    },
+    {
+      "name": "生姜",
+      "amount_text": "5g",
+      "quantity": 5,
+      "unit": "g",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生姜5g"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "2T",
+      "quantity": 2,
+      "unit": "T",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒2T"
+    },
+    {
+      "name": "白糖",
+      "amount_text": "1T",
+      "quantity": 1,
+      "unit": "T",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白糖1T"
+    },
+    {
+      "name": "老抽",
+      "amount_text": "10g",
+      "quantity": 10,
+      "unit": "g",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "老抽10g"
+    },
+    {
+      "name": "生抽",
+      "amount_text": "10g",
+      "quantity": 10,
+      "unit": "g",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生抽10g"
+    },
+    {
+      "name": "香油",
+      "amount_text": "1/2t",
+      "quantity": 0.5,
+      "unit": "t",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "香油1/2t"
+    },
+    {
+      "name": "肉汤",
+      "amount_text": "50g",
+      "quantity": 50,
+      "unit": "g",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "肉汤50g"
+    },
+    {
+      "name": "味精",
+      "amount_text": "1/2t",
+      "quantity": 0.5,
+      "unit": "t",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "味精1/2t"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "提前把糯米温水浸泡4小时，蒸时，浸泡过的米加水总重820克。"
+    },
+    {
+      "no": 2,
+      "text": "糯米沥去水分（糯米吸水后加上后加的水总重量在820克左右）放入无孔蒸盘，选择普通蒸模式，100度蒸制40分钟；使其成熟。取出放凉。"
+    },
+    {
+      "no": 3,
+      "text": "将猪五花肉、笋，放入水锅中煮熟。"
+    },
+    {
+      "no": 4,
+      "text": "去掉猪皮改刀切成小丁，笋切成丁。"
+    },
+    {
+      "no": 5,
+      "text": "炒锅烧热，放猪油，将肉丁下锅煸炒；然后加葱姜末炒香，加入料酒、老抽，白糖，味精，煮肉的汤烧沸。"
+    },
+    {
+      "no": 6,
+      "text": "将糯米饭拨散，倒入炒锅内拌匀。"
+    },
+    {
+      "no": 7,
+      "text": "待汤汁被糯米吸干时，加猪油、松子拌和，出锅拌入香油冷却，即成松子糯米馅心。"
+    },
+    {
+      "no": 8,
+      "text": "将饺子皮擀成直径9厘米左右，中间较厚的皮子。"
+    },
+    {
+      "no": 9,
+      "text": "皮子摊在左手掌中，糯米馅心约30克放在皮子中间，然后左手将皮子齐腰捏拢，右手用刮板在皮子口上将糯米压平，即成糯米烧卖生坯40个；将生坯20个放入有孔蒸盘。40个生坯分两次蒸制。"
+    },
+    {
+      "no": 10,
+      "text": "将蒸盘放入蒸箱中间层，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "糯米用温水浸泡4小时并准备加水至总重820克",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 240,
+      "duration_source": "explicit",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "提前把糯米温水浸泡4小时，蒸时，浸泡过的米加水总重820克。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "糯米沥水后加水至约820克，放入无孔蒸盘，用蒸箱普通蒸100℃蒸40分钟，取出放凉",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": "普通蒸",
+      "mode": "普通蒸",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 52,
+      "duration_source": "estimated",
+      "device_active_start_min": 2,
+      "device_active_min": 41,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        },
+        {
+          "start_min": 42,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "explicit",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "糯米沥去水分（糯米吸水后加上后加的水总重量在820克左右）放入无孔蒸盘，选择普通蒸模式，100度蒸制40分钟；使其成熟。取出放凉。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "猪五花肉和笋放入水锅煮熟",
+      "device_raw": "水锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": 4,
+      "humidity": null,
+      "duration_min": 30,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 30,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将猪五花肉、笋，放入水锅中煮熟。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "煮熟的猪五花肉去猪皮切小丁，笋切丁",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "去掉猪皮改刀切成小丁，笋切成丁。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "炒锅烧热放猪油，下肉丁煸炒，加葱姜末炒香，再下料酒、老抽、白糖、味精和肉汤烧沸",
+      "device_raw": "炒锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 4,
+      "humidity": null,
+      "duration_min": 8,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 8,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 8,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 8,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "炒锅烧热，放猪油，将肉丁下锅煸炒；然后加葱姜末炒香，加入料酒、老抽，白糖，味精，煮肉的汤烧沸。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "将糯米饭拨散倒入炒锅，与肉丁汤汁拌匀",
+      "device_raw": "炒锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 3,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 3,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2",
+        "s5"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将糯米饭拨散，倒入炒锅内拌匀。"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "待汤汁吸干，加猪油、松子拌和，出锅拌香油冷却成馅",
+      "device_raw": null,
+      "device": "灶具",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 2,
+      "humidity": null,
+      "duration_min": 20,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 20.0,
+      "human_intervals": [
+        {
+          "start_min": 15,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s6"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "待汤汁被糯米吸干时，加猪油、松子拌和，出锅拌入香油冷却，即成松子糯米馅心。"
+    },
+    {
+      "step_id": "s8",
+      "source_step_no": 8,
+      "action": "将饺子皮擀成直径约9厘米、中间较厚的皮子",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 10,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 10,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 10,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将饺子皮擀成直径9厘米左右，中间较厚的皮子。"
+    },
+    {
+      "step_id": "s9",
+      "source_step_no": 9,
+      "action": "用饺子皮包入约30克糯米馅，捏拢压平做成40个生坯，将20个生坯放入有孔蒸盘，分两次蒸制",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 25,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 25,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s7",
+        "s8"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 25,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "皮子摊在左手掌中，糯米馅心约30克放在皮子中间，然后左手将皮子齐腰捏拢，右手用刮板在皮子口上将糯米压平，即成糯米烧卖生坯40个；将生坯20个放入有孔蒸盘。40个生坯分两次蒸制。"
+    },
+    {
+      "step_id": "s10",
+      "source_step_no": 10,
+      "action": "将蒸盘放入蒸箱中间层，水箱加满水，选择开始烹饪，按屏幕提示蒸制",
+      "device_raw": "蒸箱",
+      "device": "蒸箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": "普通蒸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 20,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 20,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s9"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将蒸盘放入蒸箱中间层，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作。"
+    }
+  ]
+}

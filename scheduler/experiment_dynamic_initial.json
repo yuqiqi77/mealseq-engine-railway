@@ -1,0 +1,486 @@
+﻿{
+    "overview":  {
+                     "finishTime":  "10:49",
+                     "timeSpent":  "55",
+                     "timeSave":  "20",
+                     "recipeCount":  2
+                 },
+    "cookingTimeline":  [
+                            {
+                                "name":  "鸡翅包饭",
+                                "product":  "烤箱",
+                                "startTime":  "09:54",
+                                "endTime":  "10:49",
+                                "timeSpent":  "55"
+                            },
+                            {
+                                "name":  "家常鲈鱼",
+                                "product":  "蒸箱",
+                                "startTime":  "10:14",
+                                "endTime":  "10:48",
+                                "timeSpent":  "34"
+                            }
+                        ],
+    "ingredientsSummary":  [
+                               {
+                                   "type":  "荤菜",
+                                   "list":  [
+                                                {
+                                                    "name":  "鸡翅",
+                                                    "unit":  "3个"
+                                                },
+                                                {
+                                                    "name":  "火腿肠",
+                                                    "unit":  "1根"
+                                                },
+                                                {
+                                                    "name":  "鲈鱼",
+                                                    "unit":  "600克"
+                                                }
+                                            ]
+                               },
+                               {
+                                   "type":  "素菜",
+                                   "list":  [
+                                                {
+                                                    "name":  "去皮胡萝卜",
+                                                    "unit":  "60克"
+                                                },
+                                                {
+                                                    "name":  "洋葱",
+                                                    "unit":  "1个"
+                                                },
+                                                {
+                                                    "name":  "米饭",
+                                                    "unit":  "150克"
+                                                },
+                                                {
+                                                    "name":  "姜丝",
+                                                    "unit":  "10克"
+                                                },
+                                                {
+                                                    "name":  "姜片",
+                                                    "unit":  "15克"
+                                                },
+                                                {
+                                                    "name":  "葱段",
+                                                    "unit":  "10克"
+                                                },
+                                                {
+                                                    "name":  "葱丝",
+                                                    "unit":  "10克"
+                                                }
+                                            ]
+                               },
+                               {
+                                   "type":  "调味品",
+                                   "list":  [
+                                                {
+                                                    "name":  "韩式辣椒酱",
+                                                    "unit":  "20克"
+                                                },
+                                                {
+                                                    "name":  "食用油",
+                                                    "unit":  "20毫升"
+                                                },
+                                                {
+                                                    "name":  "料酒",
+                                                    "unit":  "5毫升"
+                                                },
+                                                {
+                                                    "name":  "盐",
+                                                    "unit":  "3克"
+                                                },
+                                                {
+                                                    "name":  "胡椒粉",
+                                                    "unit":  "8克"
+                                                },
+                                                {
+                                                    "name":  "干辣椒段",
+                                                    "unit":  "8克"
+                                                },
+                                                {
+                                                    "name":  "蒸鱼豉油",
+                                                    "unit":  "20毫升"
+                                                }
+                                            ]
+                               }
+                           ],
+    "detailTimeline":  [
+                           {
+                               "timeInterval":  "0-6",
+                               "title":  "食材处理",
+                               "type":  1,
+                               "list":  [
+                                            "准备：鸡翅洗净，去骨，翅尖处留骨，装入碗中，备用"
+                                        ]
+                           },
+                           {
+                               "timeInterval":  "8-13",
+                               "title":  "食材处理",
+                               "type":  1,
+                               "list":  [
+                                            "准备：洋葱、胡萝卜洗净切碎，火腿肠先切细条再切碎，备用"
+                                        ]
+                           },
+                           {
+                               "timeInterval":  "20-22",
+                               "title":  "食材处理",
+                               "type":  1,
+                               "list":  [
+                                            "准备：将宰杀处理干净的鲈鱼两面划一字花刀，备用"
+                                        ]
+                           },
+                           {
+                               "timeInterval":  "22-23",
+                               "title":  "食材处理",
+                               "type":  1,
+                               "list":  [
+                                            "准备：将葱段、姜片一起铺在盘子上，然后将鲈鱼放在上面，备用"
+                                        ]
+                           },
+                           {
+                               "timeInterval":  "23-25",
+                               "title":  "食材处理",
+                               "type":  1,
+                               "list":  [
+                                            "准备：鱼腹中放葱段和姜片，鱼背上放葱段和姜丝，备用"
+                                        ]
+                           },
+                           {
+                               "timeInterval":  "26-31",
+                               "title":  "食材处理",
+                               "type":  1,
+                               "list":  [
+                                            "准备：将炒饭装入鸡翅中，用牙签封口，翅尖用锡纸包住，备用"
+                                        ]
+                           },
+                           {
+                               "timeInterval":  "31-34",
+                               "title":  "食材处理",
+                               "type":  1,
+                               "list":  [
+                                            "准备：烤盘内铺锡纸，在锡纸上刷油，放入鸡翅，鸡翅表面刷油，备用"
+                                        ]
+                           },
+                           {
+                               "timeInterval":  "53-54",
+                               "title":  "食材处理",
+                               "type":  1,
+                               "list":  [
+                                            "准备：再浇上蒸鱼豉油即可，备用"
+                                        ]
+                           },
+                           {
+                               "timeInterval":  "6-26",
+                               "title":  "腌制备料",
+                               "type":  2,
+                               "list":  [
+                                            "在鸡翅碗中加入盐、油、胡椒粉、料酒腌渍"
+                                        ]
+                           },
+                           {
+                               "timeInterval":  "13-18",
+                               "title":  "炒制",
+                               "type":  4,
+                               "list":  [
+                                            "锅中注油烧热，放入蔬菜、火腿肠、米饭炒匀；使用灶具，设置火力档位、中火（估计），设备工作5分钟"
+                                        ],
+                               "recipeNames":  [
+                                                   "鸡翅包饭"
+                                               ],
+                               "parameters":  [
+                                                  {
+                                                      "recipeName":  "鸡翅包饭",
+                                                      "temperature":  "中火（估计）",
+                                                      "time":  5
+                                                  }
+                                              ]
+                           },
+                           {
+                               "timeInterval":  "18-20",
+                               "title":  "炒制",
+                               "type":  4,
+                               "list":  [
+                                            "加盐、胡椒粉、韩式辣椒酱拌炒片刻，盛出装碗；使用灶具，设置火力档位、中火（估计），设备工作2分钟"
+                                        ],
+                               "recipeNames":  [
+                                                   "鸡翅包饭"
+                                               ],
+                               "parameters":  [
+                                                  {
+                                                      "recipeName":  "鸡翅包饭",
+                                                      "temperature":  "中火（估计）",
+                                                      "time":  2
+                                                  }
+                                              ]
+                           },
+                           {
+                               "timeInterval":  "50-53",
+                               "title":  "炒制",
+                               "type":  4,
+                               "list":  [
+                                            "将炒锅中倒入食用油烧热，加热至沸腾后浇在鲈鱼背上；使用灶具，设置火力档位、中火（估计），设备工作2分钟"
+                                        ],
+                               "recipeNames":  [
+                                                   "家常鲈鱼"
+                                               ],
+                               "parameters":  [
+                                                  {
+                                                      "recipeName":  "家常鲈鱼",
+                                                      "temperature":  "中火（估计）",
+                                                      "time":  2
+                                                  }
+                                              ]
+                           },
+                           {
+                               "timeInterval":  "34-36",
+                               "title":  "蒸煮",
+                               "type":  5,
+                               "list":  [
+                                            "将鲈鱼放入蒸盘中，再放入蒸箱"
+                                        ],
+                               "recipeNames":  [
+                                                   "家常鲈鱼"
+                                               ]
+                           },
+                           {
+                               "timeInterval":  "36-37",
+                               "title":  "烘烤",
+                               "type":  5,
+                               "list":  [
+                                            "将烤盘放入烤箱中"
+                                        ],
+                               "recipeNames":  [
+                                                   "鸡翅包饭"
+                                               ]
+                           },
+                           {
+                               "timeInterval":  "37-53",
+                               "title":  "烘烤",
+                               "type":  5,
+                               "list":  [
+                                            "关上烤箱门，选择“常规烘焙”模式，以180℃烤15分钟；使用烤箱，设置上下火、整体180℃，设备工作15分钟"
+                                        ],
+                               "recipeNames":  [
+                                                   "鸡翅包饭"
+                                               ],
+                               "parameters":  [
+                                                  {
+                                                      "recipeName":  "鸡翅包饭",
+                                                      "temperature":  "整体180℃",
+                                                      "time":  15
+                                                  }
+                                              ]
+                           },
+                           {
+                               "timeInterval":  "38-47",
+                               "title":  "蒸煮",
+                               "type":  5,
+                               "list":  [
+                                            "选择“普通蒸”模式，以100℃蒸8分钟至熟；使用蒸箱，设置普通蒸、整体100℃，设备工作8分钟"
+                                        ],
+                               "recipeNames":  [
+                                                   "家常鲈鱼"
+                                               ],
+                               "parameters":  [
+                                                  {
+                                                      "recipeName":  "家常鲈鱼",
+                                                      "temperature":  "整体100℃",
+                                                      "time":  8
+                                                  }
+                                              ]
+                           },
+                           {
+                               "timeInterval":  "47-50",
+                               "title":  "出锅装盘",
+                               "type":  6,
+                               "list":  [
+                                            "出锅/装盘：打开箱门取出蒸好的鲈鱼，倒掉盘底汁水，去掉鱼背上的葱段和姜丝，再撒上葱丝和干辣椒段"
+                                        ]
+                           },
+                           {
+                               "timeInterval":  "54-55",
+                               "title":  "出锅装盘",
+                               "type":  6,
+                               "list":  [
+                                            "出锅/装盘：打开烤箱门，将烤好的鸡翅包饭取出"
+                                        ]
+                           }
+                       ],
+    "recipeDetail":  [
+                         {
+                             "name":  "鸡翅包饭",
+                             "majorIngredients":  [
+                                                      {
+                                                          "name":  "鸡翅",
+                                                          "unit":  "3个"
+                                                      },
+                                                      {
+                                                          "name":  "去皮胡萝卜",
+                                                          "unit":  "60克"
+                                                      },
+                                                      {
+                                                          "name":  "洋葱",
+                                                          "unit":  "1个"
+                                                      },
+                                                      {
+                                                          "name":  "火腿肠",
+                                                          "unit":  "1根"
+                                                      },
+                                                      {
+                                                          "name":  "米饭",
+                                                          "unit":  "150克"
+                                                      }
+                                                  ],
+                             "minorIngredients":  [
+                                                      {
+                                                          "name":  "韩式辣椒酱",
+                                                          "unit":  "20克"
+                                                      },
+                                                      {
+                                                          "name":  "食用油",
+                                                          "unit":  "10毫升"
+                                                      },
+                                                      {
+                                                          "name":  "料酒",
+                                                          "unit":  "5毫升"
+                                                      },
+                                                      {
+                                                          "name":  "盐",
+                                                          "unit":  "3克"
+                                                      },
+                                                      {
+                                                          "name":  "胡椒粉",
+                                                          "unit":  "5克"
+                                                      }
+                                                  ],
+                             "cookingSteps":  [
+                                                  {
+                                                      "describe":  "洋葱、胡萝卜洗净切碎，火腿肠先切细条再切碎"
+                                                  },
+                                                  {
+                                                      "describe":  "鸡翅洗净，去骨，翅尖处留骨，装入碗中"
+                                                  },
+                                                  {
+                                                      "describe":  "在鸡翅碗中加入盐、油、胡椒粉、料酒腌渍"
+                                                  },
+                                                  {
+                                                      "describe":  "锅中注油烧热，放入蔬菜、火腿肠、米饭炒匀",
+                                                      "cookingParameters":  {
+                                                                                "mode":  "灶具",
+                                                                                "temperature":  "中火（估计）",
+                                                                                "time":  "5"
+                                                                            }
+                                                  },
+                                                  {
+                                                      "describe":  "加盐、胡椒粉、韩式辣椒酱拌炒片刻，盛出装碗",
+                                                      "cookingParameters":  {
+                                                                                "mode":  "灶具",
+                                                                                "temperature":  "中火（估计）",
+                                                                                "time":  "2"
+                                                                            }
+                                                  },
+                                                  {
+                                                      "describe":  "将炒饭装入鸡翅中，用牙签封口，翅尖用锡纸包住"
+                                                  },
+                                                  {
+                                                      "describe":  "烤盘内铺锡纸，在锡纸上刷油，放入鸡翅，鸡翅表面刷油"
+                                                  },
+                                                  {
+                                                      "describe":  "将烤盘放入烤箱中"
+                                                  },
+                                                  {
+                                                      "describe":  "关上烤箱门，选择“常规烘焙”模式，以180℃烤15分钟",
+                                                      "cookingParameters":  {
+                                                                                "mode":  "上下火",
+                                                                                "temperature":  "整体180℃",
+                                                                                "time":  "15"
+                                                                            }
+                                                  },
+                                                  {
+                                                      "describe":  "打开烤箱门，将烤好的鸡翅包饭取出"
+                                                  }
+                                              ]
+                         },
+                         {
+                             "name":  "家常鲈鱼",
+                             "majorIngredients":  [
+                                                      {
+                                                          "name":  "鲈鱼",
+                                                          "unit":  "600克（约1条）"
+                                                      }
+                                                  ],
+                             "minorIngredients":  [
+                                                      {
+                                                          "name":  "干辣椒段",
+                                                          "unit":  "8克"
+                                                      },
+                                                      {
+                                                          "name":  "姜丝",
+                                                          "unit":  "10克"
+                                                      },
+                                                      {
+                                                          "name":  "姜片",
+                                                          "unit":  "15克"
+                                                      },
+                                                      {
+                                                          "name":  "葱段",
+                                                          "unit":  "10克"
+                                                      },
+                                                      {
+                                                          "name":  "葱丝",
+                                                          "unit":  "10克"
+                                                      },
+                                                      {
+                                                          "name":  "蒸鱼豉油",
+                                                          "unit":  "20毫升"
+                                                      },
+                                                      {
+                                                          "name":  "胡椒粉",
+                                                          "unit":  "3克"
+                                                      },
+                                                      {
+                                                          "name":  "食用油",
+                                                          "unit":  "10毫升"
+                                                      }
+                                                  ],
+                             "cookingSteps":  [
+                                                  {
+                                                      "describe":  "将宰杀处理干净的鲈鱼两面划一字花刀"
+                                                  },
+                                                  {
+                                                      "describe":  "将葱段、姜片一起铺在盘子上，然后将鲈鱼放在上面"
+                                                  },
+                                                  {
+                                                      "describe":  "鱼腹中放葱段和姜片，鱼背上放葱段和姜丝"
+                                                  },
+                                                  {
+                                                      "describe":  "将鲈鱼放入蒸盘中，再放入蒸箱"
+                                                  },
+                                                  {
+                                                      "describe":  "选择“普通蒸”模式，以100℃蒸8分钟至熟",
+                                                      "cookingParameters":  {
+                                                                                "mode":  "普通蒸",
+                                                                                "temperature":  "整体100℃",
+                                                                                "time":  "8"
+                                                                            }
+                                                  },
+                                                  {
+                                                      "describe":  "打开箱门取出蒸好的鲈鱼，倒掉盘底汁水，去掉鱼背上的葱段和姜丝，再撒上葱丝和干辣椒段"
+                                                  },
+                                                  {
+                                                      "describe":  "将炒锅中倒入食用油烧热，加热至沸腾后浇在鲈鱼背上",
+                                                      "cookingParameters":  {
+                                                                                "mode":  "灶具",
+                                                                                "temperature":  "中火（估计）",
+                                                                                "time":  "2"
+                                                                            }
+                                                  },
+                                                  {
+                                                      "describe":  "再浇上蒸鱼豉油即可"
+                                                  }
+                                              ]
+                         }
+                     ]
+}

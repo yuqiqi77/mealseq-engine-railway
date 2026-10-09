@@ -1,0 +1,483 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5dad41646601a865649f9c06",
+  "name": "蔬菜塔",
+  "ingredients_raw": "主料：薄切土豆片150克；西葫芦150克；胡萝卜150克；红彩椒50克；辅料：盐2克；黑胡椒3克；橄榄油10毫升；黄油20克",
+  "ingredients": [
+    {
+      "name": "薄切土豆片",
+      "amount_text": "150克",
+      "quantity": 150,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "主料：薄切土豆片150克"
+    },
+    {
+      "name": "西葫芦",
+      "amount_text": "150克",
+      "quantity": 150,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "西葫芦150克"
+    },
+    {
+      "name": "胡萝卜",
+      "amount_text": "150克",
+      "quantity": 150,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "胡萝卜150克"
+    },
+    {
+      "name": "红彩椒",
+      "amount_text": "50克",
+      "quantity": 50,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "红彩椒50克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "辅料：盐2克"
+    },
+    {
+      "name": "黑胡椒",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "黑胡椒3克"
+    },
+    {
+      "name": "橄榄油",
+      "amount_text": "10毫升",
+      "quantity": 10,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "橄榄油10毫升"
+    },
+    {
+      "name": "黄油",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "黄油20克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "在烤箱容器中刷上橄榄油，铺上薄切土豆片，撒上黑胡椒和盐，淋上橄榄油。"
+    },
+    {
+      "no": 2,
+      "text": "将处理好的土豆片放入预热好的烤箱。"
+    },
+    {
+      "no": 3,
+      "text": "选择“鼓风烧烤”模式，以200℃烤25分钟。"
+    },
+    {
+      "no": 4,
+      "text": "西葫芦、胡萝卜、红彩椒均切丁备用。"
+    },
+    {
+      "no": 5,
+      "text": "把所有蔬菜放入沸水中汆烫片刻后捞出沥干备用。"
+    },
+    {
+      "no": 6,
+      "text": "平底锅烧热，放入黄油。"
+    },
+    {
+      "no": 7,
+      "text": "黄油融化时加入所有蔬菜，再加入盐和黑胡椒翻搅片刻。"
+    },
+    {
+      "no": 8,
+      "text": "将炒好的蔬菜丁装入烤好的土豆塔中即可。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "在烤箱容器中刷橄榄油，铺土豆片，撒黑胡椒和盐，淋橄榄油",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "在烤箱容器中刷上橄榄油，铺上薄切土豆片，撒上黑胡椒和盐，淋上橄榄油。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将处理好的土豆片放入预热好的烤箱",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": true,
+        "duration_min": 8,
+        "source": "estimated",
+        "whole_device_exclusive": true,
+        "placement": "before_step"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将处理好的土豆片放入预热好的烤箱。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "选择鼓风烧烤模式，以200℃烤25分钟",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": "鼓风烧烤",
+      "mode": "鼓风烤",
+      "mode_source": "normalized",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 200,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 26,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 26,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": 200,
+      "temperature_source": "explicit",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "选择“鼓风烧烤”模式，以200℃烤25分钟。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将西葫芦、胡萝卜、红彩椒切丁备用",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "西葫芦、胡萝卜、红彩椒均切丁备用。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将蔬菜放入沸水中汆烫片刻后捞出沥干",
+      "device_raw": null,
+      "device": "灶具",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 6,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 3,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 2,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "把所有蔬菜放入沸水中汆烫片刻后捞出沥干备用。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "平底锅烧热后放入黄油",
+      "device_raw": "平底锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 4,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 2,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "平底锅烧热，放入黄油。"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "黄油融化后加入蔬菜、盐和黑胡椒翻搅片刻",
+      "device_raw": null,
+      "device": "灶具",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 4,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 3,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s6",
+        "s5"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "黄油融化时加入所有蔬菜，再加入盐和黑胡椒翻搅片刻。"
+    },
+    {
+      "step_id": "s8",
+      "source_step_no": 8,
+      "action": "将炒好的蔬菜丁装入烤好的土豆塔中",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s7",
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将炒好的蔬菜丁装入烤好的土豆塔中即可。"
+    }
+  ]
+}

@@ -1,0 +1,688 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5cc5508e01ea5c2931c919f5",
+  "name": "黑森林蛋糕",
+  "ingredients_raw": "A料：鸡蛋清2个；细砂糖32g；柠檬汁6滴；低筋面粉35g；可可粉10g；玉米淀粉6g；鸡蛋黄2个；牛奶32g；朗姆酒4g；盐0.5g；香草精2滴；玉米油20g；B料：淡奶油300g；细砂糖30g；黑樱桃15颗；红樱桃6颗；樱桃酒10g；巧克力粉20g；巧克力碎片20g",
+  "ingredients": [
+    {
+      "name": "鸡蛋清",
+      "amount_text": "2个",
+      "quantity": 2,
+      "unit": "个",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "A料：鸡蛋清2个"
+    },
+    {
+      "name": "细砂糖",
+      "amount_text": "32g",
+      "quantity": 32,
+      "unit": "g",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "细砂糖32g"
+    },
+    {
+      "name": "柠檬汁",
+      "amount_text": "6滴",
+      "quantity": 6,
+      "unit": "滴",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "柠檬汁6滴"
+    },
+    {
+      "name": "低筋面粉",
+      "amount_text": "35g",
+      "quantity": 35,
+      "unit": "g",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "低筋面粉35g"
+    },
+    {
+      "name": "可可粉",
+      "amount_text": "10g",
+      "quantity": 10,
+      "unit": "g",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "可可粉10g"
+    },
+    {
+      "name": "玉米淀粉",
+      "amount_text": "6g",
+      "quantity": 6,
+      "unit": "g",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "玉米淀粉6g"
+    },
+    {
+      "name": "鸡蛋黄",
+      "amount_text": "2个",
+      "quantity": 2,
+      "unit": "个",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "鸡蛋黄2个"
+    },
+    {
+      "name": "牛奶",
+      "amount_text": "32g",
+      "quantity": 32,
+      "unit": "g",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "牛奶32g"
+    },
+    {
+      "name": "朗姆酒",
+      "amount_text": "4g",
+      "quantity": 4,
+      "unit": "g",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "朗姆酒4g"
+    },
+    {
+      "name": "盐",
+      "amount_text": "0.5g",
+      "quantity": 0.5,
+      "unit": "g",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐0.5g"
+    },
+    {
+      "name": "香草精",
+      "amount_text": "2滴",
+      "quantity": 2,
+      "unit": "滴",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "香草精2滴"
+    },
+    {
+      "name": "玉米油",
+      "amount_text": "20g",
+      "quantity": 20,
+      "unit": "g",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "玉米油20g"
+    },
+    {
+      "name": "淡奶油",
+      "amount_text": "300g",
+      "quantity": 300,
+      "unit": "g",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "B料：淡奶油300g"
+    },
+    {
+      "name": "细砂糖",
+      "amount_text": "30g",
+      "quantity": 30,
+      "unit": "g",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "细砂糖30g"
+    },
+    {
+      "name": "黑樱桃",
+      "amount_text": "15颗",
+      "quantity": 15,
+      "unit": "颗",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "黑樱桃15颗"
+    },
+    {
+      "name": "红樱桃",
+      "amount_text": "6颗",
+      "quantity": 6,
+      "unit": "颗",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "红樱桃6颗"
+    },
+    {
+      "name": "樱桃酒",
+      "amount_text": "10g",
+      "quantity": 10,
+      "unit": "g",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "樱桃酒10g"
+    },
+    {
+      "name": "巧克力粉",
+      "amount_text": "20g",
+      "quantity": 20,
+      "unit": "g",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "巧克力粉20g"
+    },
+    {
+      "name": "巧克力碎片",
+      "amount_text": "20g",
+      "quantity": 20,
+      "unit": "g",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "巧克力碎片20g"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将2个鸡蛋的蛋清和蛋黄分开，并放入两个打蛋盆中（盛放蛋清的盆中需无水无油）。35g低筋面粉和6g玉米淀粉过筛，和10g可可粉混合均匀备用。"
+    },
+    {
+      "no": 2,
+      "text": "先制作蛋黄糊，将32g牛奶、4g朗姆酒、0.5g盐，20g玉米油与盆中已有的蛋黄混匀后，加入准备好的粉类，搅拌均匀。"
+    },
+    {
+      "no": 3,
+      "text": "在蛋清中滴入柠檬汁，电动打蛋器调中档搅打蛋清至粗泡状态时加入1/3细砂糖（总共32g），继续搅打，并分两次加入剩下的细砂糖，将蛋白打发至干性发泡状态（即提起打蛋器，蛋白拉出坚挺的尖角）。"
+    },
+    {
+      "no": 4,
+      "text": "取三分之一的蛋白加入蛋黄糊中，翻拌均匀（刮刀从底部往上翻拌，不要花圈搅拌），再将面糊倒入剩余的蛋白中，翻拌均匀，倒入蛋糕模具中。（在操作台上将模具从三四十厘米的高度震出气泡）。"
+    },
+    {
+      "no": 5,
+      "text": "将烤盘放入烤箱第二层，选择“开始烹饪”按键，按屏幕提示操作。烘烤结束，取出模具倒扣在烤架上，充分晾凉"
+    },
+    {
+      "no": 6,
+      "text": "将脱模后的蛋糕坯用面包刀切去表皮后，均匀横切成两份（或三份）。"
+    },
+    {
+      "no": 7,
+      "text": "将30g细砂糖分三次加入300g淡奶油，打发至固体状备用。"
+    },
+    {
+      "no": 8,
+      "text": "取一片蛋糕坯放在裱花台上，用硅胶刷在蛋糕表面均匀刷上一层樱桃酒，再抹上一层奶油，将黑樱桃对半切开（可用樱桃酒或朗姆酒浸泡几分钟），均匀铺在奶油上，再用奶油抹平后，铺上第二片蛋糕，用奶油抹匀整个蛋糕表面。"
+    },
+    {
+      "no": 9,
+      "text": "将巧克力粉均匀的洒在蛋糕的侧面，用巧克力碎片铺在蛋糕表面，将剩余的奶油装进裱花袋，在蛋糕表面挤出六个花型，再将六个红樱桃放在花上即可。"
+    },
+    {
+      "no": 10,
+      "text": "将蛋糕放入冰箱冷藏即可食用。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "分离蛋清蛋黄，过筛低筋面粉和玉米淀粉并与可可粉混合备用",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将2个鸡蛋的蛋清和蛋黄分开，并放入两个打蛋盆中（盛放蛋清的盆中需无水无油）。35g低筋面粉和6g玉米淀粉过筛，和10g可可粉混合均匀备用。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将牛奶、朗姆酒、盐、玉米油与蛋黄混匀，加入粉类搅拌均匀",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "先制作蛋黄糊，将32g牛奶、4g朗姆酒、0.5g盐，20g玉米油与盆中已有的蛋黄混匀后，加入准备好的粉类，搅拌均匀。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "蛋清中加柠檬汁，分次加细砂糖，用电动打蛋器打发至干性发泡",
+      "device_raw": "电动打蛋器",
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": "中档",
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 8,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 8,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 8,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "在蛋清中滴入柠檬汁，电动打蛋器调中档搅打蛋清至粗泡状态时加入1/3细砂糖（总共32g），继续搅打，并分两次加入剩下的细砂糖，将蛋白打发至干性发泡状态（即提起打蛋器，蛋白拉出坚挺的尖角）。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将蛋白分次与蛋黄糊翻拌，倒入蛋糕模具并震出气泡",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2",
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "取三分之一的蛋白加入蛋黄糊中，翻拌均匀（刮刀从底部往上翻拌，不要花圈搅拌），再将面糊倒入剩余的蛋白中，翻拌均匀，倒入蛋糕模具中。（在操作台上将模具从三四十厘米的高度震出气泡）。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将蛋糕糊放入烤箱第二层烘烤，烤好后取出倒扣晾凉",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": "上下火",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 170,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 80,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 38,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        },
+        {
+          "start_min": 37,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": 170,
+      "temperature_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将烤盘放入烤箱第二层，选择“开始烹饪”按键，按屏幕提示操作。烘烤结束，取出模具倒扣在烤架上，充分晾凉"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "用面包刀切去蛋糕坯表皮并横切成两份",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将脱模后的蛋糕坯用面包刀切去表皮后，均匀横切成两份（或三份）。"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "将细砂糖分次加入淡奶油中，用电动打蛋器打发至固体状",
+      "device_raw": "电动打蛋器",
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 6,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 6,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 6,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将30g细砂糖分三次加入300g淡奶油，打发至固体状备用。"
+    },
+    {
+      "step_id": "s8",
+      "source_step_no": 8,
+      "action": "将蛋糕坯刷樱桃酒、抹奶油、铺黑樱桃，再叠放第二片并抹匀奶油",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 15,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 15,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s6",
+        "s7"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 15,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "取一片蛋糕坯放在裱花台上，用硅胶刷在蛋糕表面均匀刷上一层樱桃酒，再抹上一层奶油，将黑樱桃对半切开（可用樱桃酒或朗姆酒浸泡几分钟），均匀铺在奶油上，再用奶油抹平后，铺上第二片蛋糕，用奶油抹匀整个蛋糕表面。"
+    },
+    {
+      "step_id": "s9",
+      "source_step_no": 9,
+      "action": "在蛋糕侧面撒巧克力粉，表面铺巧克力碎片，用剩余奶油挤花并放上红樱桃",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 10,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 10,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s8"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 10,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将巧克力粉均匀的洒在蛋糕的侧面，用巧克力碎片铺在蛋糕表面，将剩余的奶油装进裱花袋，在蛋糕表面挤出六个花型，再将六个红樱桃放在花上即可。"
+    },
+    {
+      "step_id": "s10",
+      "source_step_no": 10,
+      "action": "将蛋糕放入冰箱冷藏定型",
+      "device_raw": "冰箱",
+      "device": "冰箱",
+      "device_source": "explicit",
+      "mode_raw": "冷藏",
+      "mode": "冷藏",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "冷藏室",
+          "value_c": 4,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 60,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 60,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s9"
+      ],
+      "temperature_c": 4,
+      "temperature_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将蛋糕放入冰箱冷藏即可食用。"
+    }
+  ]
+}

@@ -1,0 +1,595 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5d54bae2a9114174727c8b20",
+  "name": "鸡翅包饭",
+  "ingredients_raw": "主料：鸡翅3个；去皮胡萝卜60克；洋葱1个；火腿肠1根；米饭150克；辅料：韩式辣椒酱20克；食用油10毫升；料酒5毫升；盐3克；胡椒粉5克",
+  "ingredients": [
+    {
+      "name": "鸡翅",
+      "amount_text": "3个",
+      "quantity": 3,
+      "unit": "个",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "主料：鸡翅3个"
+    },
+    {
+      "name": "去皮胡萝卜",
+      "amount_text": "60克",
+      "quantity": 60,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "去皮胡萝卜60克"
+    },
+    {
+      "name": "洋葱",
+      "amount_text": "1个",
+      "quantity": 1,
+      "unit": "个",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "洋葱1个"
+    },
+    {
+      "name": "火腿肠",
+      "amount_text": "1根",
+      "quantity": 1,
+      "unit": "根",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "火腿肠1根"
+    },
+    {
+      "name": "米饭",
+      "amount_text": "150克",
+      "quantity": 150,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "米饭150克"
+    },
+    {
+      "name": "韩式辣椒酱",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "辅料：韩式辣椒酱20克"
+    },
+    {
+      "name": "食用油",
+      "amount_text": "10毫升",
+      "quantity": 10,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "食用油10毫升"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "5毫升",
+      "quantity": 5,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒5毫升"
+    },
+    {
+      "name": "盐",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐3克"
+    },
+    {
+      "name": "胡椒粉",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "胡椒粉5克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "洋葱、胡萝卜均洗净切碎；火腿肠先切细条，再切碎。"
+    },
+    {
+      "no": 2,
+      "text": "鸡翅洗净，去骨，翅尖处留骨，装入碗中。"
+    },
+    {
+      "no": 3,
+      "text": "碗中加盐、油、胡椒粉、料酒腌渍。"
+    },
+    {
+      "no": 4,
+      "text": "锅中注油烧热，放入蔬菜、火腿肠、米饭炒匀。"
+    },
+    {
+      "no": 5,
+      "text": "加盐、胡椒粉、韩式辣椒酱拌炒片刻，盛出装碗。"
+    },
+    {
+      "no": 6,
+      "text": "将炒饭装入鸡翅中，用牙签封口，翅尖用锡纸包住。"
+    },
+    {
+      "no": 7,
+      "text": "烤盘内铺上一层锡纸，在锡纸上刷油，放入鸡翅，鸡翅表面刷油。"
+    },
+    {
+      "no": 8,
+      "text": "将烤盘放入烤箱中。"
+    },
+    {
+      "no": 9,
+      "text": "关上烤箱门，选择“常规烘焙”模式，以180℃烤15分钟。"
+    },
+    {
+      "no": 10,
+      "text": "打开烤箱门，将烤好的鸡翅包饭取出即可。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将洋葱、胡萝卜洗净切碎，火腿肠切细条后切碎",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "洋葱、胡萝卜均洗净切碎；火腿肠先切细条，再切碎。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将鸡翅洗净去骨，翅尖留骨后装入碗中",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 8,
+      "duration_source": "estimated",
+      "human_active_min": 8,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 8,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "鸡翅洗净，去骨，翅尖处留骨，装入碗中。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "在鸡翅碗中加盐、油、胡椒粉、料酒腌渍",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 20,
+      "duration_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "碗中加盐、油、胡椒粉、料酒腌渍。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "锅中注油烧热，放入蔬菜、火腿肠和米饭炒匀",
+      "device_raw": "锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 5,
+      "humidity": null,
+      "duration_min": 4,
+      "duration_source": "estimated",
+      "human_active_min": 4,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 4,
+      "device_active_source": "estimated",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 4,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "锅中注油烧热，放入蔬菜、火腿肠、米饭炒匀。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "加盐、胡椒粉、韩式辣椒酱拌炒片刻后盛出装碗",
+      "device_raw": null,
+      "device": "灶具",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 4,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 2,
+      "device_active_source": "estimated",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "加盐、胡椒粉、韩式辣椒酱拌炒片刻，盛出装碗。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "将炒饭装入鸡翅，用牙签封口，翅尖包锡纸",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 6,
+      "duration_source": "estimated",
+      "human_active_min": 6,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 6,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3",
+        "s5"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将炒饭装入鸡翅中，用牙签封口，翅尖用锡纸包住。"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "烤盘铺锡纸刷油，放入鸡翅并在表面刷油",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s6"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "烤盘内铺上一层锡纸，在锡纸上刷油，放入鸡翅，鸡翅表面刷油。"
+    },
+    {
+      "step_id": "s8",
+      "source_step_no": 8,
+      "action": "将烤盘放入烤箱",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "device_active_source": "estimated",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s7"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将烤盘放入烤箱中。"
+    },
+    {
+      "step_id": "s9",
+      "source_step_no": 9,
+      "action": "关上烤箱门，选择常规烘焙模式，以180℃烤15分钟",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": "常规烘焙",
+      "mode": "上下火",
+      "mode_source": "normalized",
+      "temperature_c": 180,
+      "temperature_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 180,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 16,
+      "duration_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 16,
+      "device_active_source": "estimated",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s8"
+      ],
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "关上烤箱门，选择“常规烘焙”模式，以180℃烤15分钟。"
+    },
+    {
+      "step_id": "s10",
+      "source_step_no": 10,
+      "action": "打开烤箱门，取出烤好的鸡翅包饭",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "device_active_source": "estimated",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s9"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "打开烤箱门，将烤好的鸡翅包饭取出即可。"
+    }
+  ]
+}

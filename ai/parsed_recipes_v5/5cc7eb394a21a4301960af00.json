@@ -1,0 +1,298 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5cc7eb394a21a4301960af00",
+  "name": "银鱼蒸蛋",
+  "ingredients_raw": "主料：银鱼干15克；鸡蛋3个；辅料：小葱1根；生姜1片（切丝）；盐1/4茶匙（1.8g）；白砂糖1/2茶匙（2.5g）；美味鲜1茶匙；水360g左右；芝麻油2滴",
+  "ingredients": [
+    {
+      "name": "银鱼干",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "主料：银鱼干15克"
+    },
+    {
+      "name": "鸡蛋",
+      "amount_text": "3个",
+      "quantity": 3,
+      "unit": "个",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "鸡蛋3个"
+    },
+    {
+      "name": "小葱",
+      "amount_text": "1根",
+      "quantity": 1,
+      "unit": "根",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "辅料：小葱1根"
+    },
+    {
+      "name": "生姜",
+      "amount_text": "1片（切丝）",
+      "quantity": 1,
+      "unit": "片",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "生姜1片（切丝）"
+    },
+    {
+      "name": "盐",
+      "amount_text": "1/4茶匙（1.8g）",
+      "quantity": 1.8,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐1/4茶匙（1.8g）"
+    },
+    {
+      "name": "白砂糖",
+      "amount_text": "1/2茶匙（2.5g）",
+      "quantity": 2.5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白砂糖1/2茶匙（2.5g）"
+    },
+    {
+      "name": "美味鲜",
+      "amount_text": "1茶匙",
+      "quantity": 1,
+      "unit": "茶匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "美味鲜1茶匙"
+    },
+    {
+      "name": "水",
+      "amount_text": "360g左右",
+      "quantity": 360,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "水360g左右"
+    },
+    {
+      "name": "芝麻油",
+      "amount_text": "2滴",
+      "quantity": 2,
+      "unit": "滴",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "芝麻油2滴"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将银鱼干泡入水中，至变软后，沥干水分，放入汤碗中。"
+    },
+    {
+      "no": 2,
+      "text": "将鸡蛋打碎，加入两倍的水（约360g左右）、盐、糖、姜丝，搅拌均匀后倒入装银鱼的碗中。"
+    },
+    {
+      "no": 3,
+      "text": "将碗放在有孔蒸盘/蒸烤架上， 放入机器中间层，水箱加满水，选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "no": 4,
+      "text": "待烹饪结束后，撒上葱花、美味鲜、芝麻油2滴，趁热食用即可。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将银鱼干泡水至变软，沥干后放入汤碗",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 12,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 11,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将银鱼干泡入水中，至变软后，沥干水分，放入汤碗中。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将鸡蛋打碎，加入水、盐、糖、姜丝搅匀，倒入装银鱼的碗中",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将鸡蛋打碎，加入两倍的水（约360g左右）、盐、糖、姜丝，搅拌均匀后倒入装银鱼的碗中。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将碗放在蒸盘上放入蒸箱中间层，水箱加满水，选择开始烹饪，按屏幕提示蒸制",
+      "device_raw": "机器",
+      "device": "蒸箱",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": "鲜嫩蒸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 90,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 15,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 15,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": 90,
+      "temperature_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将碗放在有孔蒸盘/蒸烤架上， 放入机器中间层，水箱加满水，选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "烹饪结束后取出，撒上葱花、美味鲜、芝麻油，趁热食用",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "待烹饪结束后，撒上葱花、美味鲜、芝麻油2滴，趁热食用即可。"
+    }
+  ]
+}

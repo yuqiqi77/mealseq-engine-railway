@@ -1,0 +1,447 @@
+{
+  "schema_version": 5,
+  "recipe_id": "59cc89b47d21be2a79172c98",
+  "name": "豉汁蒸草鱼",
+  "ingredients_raw": "A料：草鱼1条（2斤左右）；小葱10g；生姜10g；盐1/4茶匙；料酒1/2茶匙；豆豉5g；白胡椒粉适量；B料：食用油1汤匙；蒸鱼豉油1汤匙；生抽1.5汤匙；青椒丝2g；红椒丝2g；小葱3g；生姜3g",
+  "ingredients": [
+    {
+      "name": "草鱼",
+      "amount_text": "1条（2斤左右）",
+      "quantity": 1,
+      "unit": "条",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "A料：草鱼1条（2斤左右）"
+    },
+    {
+      "name": "小葱",
+      "amount_text": "10g",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "小葱10g"
+    },
+    {
+      "name": "生姜",
+      "amount_text": "10g",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "生姜10g"
+    },
+    {
+      "name": "盐",
+      "amount_text": "1/4茶匙",
+      "quantity": 0.25,
+      "unit": "茶匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐1/4茶匙"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "1/2茶匙",
+      "quantity": 0.5,
+      "unit": "茶匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒1/2茶匙"
+    },
+    {
+      "name": "豆豉",
+      "amount_text": "5g",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "豆豉5g"
+    },
+    {
+      "name": "白胡椒粉",
+      "amount_text": "适量",
+      "quantity": null,
+      "unit": null,
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白胡椒粉适量"
+    },
+    {
+      "name": "食用油",
+      "amount_text": "1汤匙",
+      "quantity": 1,
+      "unit": "汤匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "B料：食用油1汤匙"
+    },
+    {
+      "name": "蒸鱼豉油",
+      "amount_text": "1汤匙",
+      "quantity": 1,
+      "unit": "汤匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "蒸鱼豉油1汤匙"
+    },
+    {
+      "name": "生抽",
+      "amount_text": "1.5汤匙",
+      "quantity": 1.5,
+      "unit": "汤匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生抽1.5汤匙"
+    },
+    {
+      "name": "青椒丝",
+      "amount_text": "2g",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "青椒丝2g"
+    },
+    {
+      "name": "红椒丝",
+      "amount_text": "2g",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "红椒丝2g"
+    },
+    {
+      "name": "小葱",
+      "amount_text": "3g",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "小葱3g"
+    },
+    {
+      "name": "生姜",
+      "amount_text": "3g",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "生姜3g"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将主料中葱、姜10g切片，辅料中葱、姜3g切丝。"
+    },
+    {
+      "no": 2,
+      "text": "将草鱼宰杀洗净，去头尾，切成厚度为1cm的块（带龙骨，约50g/块），加入A中调味料腌渍10分钟。"
+    },
+    {
+      "no": 3,
+      "text": "在平盘中垫入葱姜片，鱼块平铺于葱姜上，放在有孔蒸盘上，放入蒸微一体机中。"
+    },
+    {
+      "no": 4,
+      "text": "开启蒸箱，取出水箱加满水，选择“智能菜谱-鱼类-豉汁蒸草鱼”模式及属性，100℃，8分钟，烹饪完成后选择微波烹饪，设置中高火，时间2分钟，按确认键开始烹饪。"
+    },
+    {
+      "no": 5,
+      "text": "待烹饪结束提示音响起后，取出平盘，滗去汤汁，淋上辅料中蒸鱼豉油、生抽，将青红椒丝、葱姜丝摆放在鱼上。"
+    },
+    {
+      "no": 6,
+      "text": "炒锅热油，油温七成热时（略微冒烟）淋到葱姜丝上，即可食用。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将10g葱姜切片、3g葱姜切丝",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 4,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 4,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 4,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将主料中葱、姜10g切片，辅料中葱、姜3g切丝。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "草鱼宰杀洗净去头尾，切1cm厚块，加A中调味料腌渍10分钟",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 15,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将草鱼宰杀洗净，去头尾，切成厚度为1cm的块（带龙骨，约50g/块），加入A中调味料腌渍10分钟。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "平盘垫葱姜片，铺鱼块，放有孔蒸盘，放入蒸微一体机",
+      "device_raw": "蒸微一体机",
+      "device": "蒸箱",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 4,
+      "duration_source": "estimated",
+      "device_active_start_min": 3,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 4,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1",
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 4,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "在平盘中垫入葱姜片，鱼块平铺于葱姜上，放在有孔蒸盘上，放入蒸微一体机中。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "开启蒸箱并加水，选智能菜谱鱼类豉汁蒸草鱼，100℃蒸8分钟，完成后选微波中高火2分钟并开始",
+      "device_raw": "蒸箱",
+      "device": "蒸箱",
+      "device_source": "explicit",
+      "mode_raw": "智能菜谱-鱼类-豉汁蒸草鱼；微波烹饪",
+      "mode": "普通蒸",
+      "mode_source": "normalized",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 12,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 12,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 9,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "explicit",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "开启蒸箱，取出水箱加满水，选择“智能菜谱-鱼类-豉汁蒸草鱼”模式及属性，100℃，8分钟，烹饪完成后选择微波烹饪，设置中高火，时间2分钟，按确认键开始烹饪。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "取出平盘，滗去汤汁，淋蒸鱼豉油和生抽，摆青红椒丝及葱姜丝",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 4,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 4,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1",
+        "s4"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 4,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "待烹饪结束提示音响起后，取出平盘，滗去汤汁，淋上辅料中蒸鱼豉油、生抽，将青红椒丝、葱姜丝摆放在鱼上。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "炒锅热油至七成热，淋到葱姜丝上",
+      "device_raw": "炒锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [
+        {
+          "zone": "锅内油温",
+          "value_c": 200,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": 6,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 3,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "temperature_c": 200,
+      "temperature_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "炒锅热油，油温七成热时（略微冒烟）淋到葱姜丝上，即可食用。"
+    }
+  ]
+}

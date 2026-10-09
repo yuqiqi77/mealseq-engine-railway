@@ -1,0 +1,796 @@
+{
+  "schema_version": 5,
+  "recipe_id": "6577d480c458a177d8438637",
+  "name": "三味蒸鳗鱼&香茅烤鳗鱼同烹",
+  "ingredients_raw": "主料：鳗鱼2条；香茅草150克；辅料：豆豉酱30克；蒜蓉酱30克；剁椒酱30克；姜片23克；葱段15克；盐1克；料酒10克；白胡椒粉3克；生抽50克；照烧汁150克；黄酒200克；白糖30克；葱花5克；葱丝5克",
+  "ingredients": [
+    {
+      "name": "鳗鱼",
+      "amount_text": "2条",
+      "quantity": 2,
+      "unit": "条",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "鳗鱼2条"
+    },
+    {
+      "name": "香茅草",
+      "amount_text": "150克",
+      "quantity": 150,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "香茅草150克"
+    },
+    {
+      "name": "豆豉酱",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "豆豉酱30克"
+    },
+    {
+      "name": "蒜蓉酱",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "蒜蓉酱30克"
+    },
+    {
+      "name": "剁椒酱",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "剁椒酱30克"
+    },
+    {
+      "name": "姜片",
+      "amount_text": "23克",
+      "quantity": 23,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "姜片23克"
+    },
+    {
+      "name": "葱段",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "葱段15克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "1克",
+      "quantity": 1,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐1克"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒10克"
+    },
+    {
+      "name": "白胡椒粉",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白胡椒粉3克"
+    },
+    {
+      "name": "生抽",
+      "amount_text": "50克",
+      "quantity": 50,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生抽50克"
+    },
+    {
+      "name": "照烧汁",
+      "amount_text": "150克",
+      "quantity": 150,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "照烧汁150克"
+    },
+    {
+      "name": "黄酒",
+      "amount_text": "200克",
+      "quantity": 200,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "黄酒200克"
+    },
+    {
+      "name": "白糖",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白糖30克"
+    },
+    {
+      "name": "葱花",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "葱花5克"
+    },
+    {
+      "name": "葱丝",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "葱丝5克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "宰杀好的鳗鱼洗净擦干，切成3厘米的段备用。"
+    },
+    {
+      "no": 2,
+      "text": "香茅草轻轻拍碎，激发出香味。"
+    },
+    {
+      "no": 3,
+      "text": "把鳗鱼段放入碗中,加入料酒、姜片、葱段、白胡椒和盐，腌制10分钟。"
+    },
+    {
+      "no": 4,
+      "text": "将腌制好的鳗鱼夹出，分成两份。"
+    },
+    {
+      "no": 5,
+      "text": "取1锅，开大火档加热，加入生抽、照烧汁、黄酒和白糖，搅拌均匀。"
+    },
+    {
+      "no": 6,
+      "text": "煮沸后关火，倒入碗中放凉备用。"
+    },
+    {
+      "no": 7,
+      "text": "把1份鳗鱼放入蒸盘中，分成三列，分别放上豆豉酱、蒜蓉酱和剁椒酱。"
+    },
+    {
+      "no": 8,
+      "text": "将蒸盘放置在蒸烤架中备用。"
+    },
+    {
+      "no": 9,
+      "text": "将另1份鳗鱼，放入放凉的照烧汁里，浸泡20分钟入味。"
+    },
+    {
+      "no": 10,
+      "text": "蒸烤盘上铺好锡纸，把拍碎的香茅草平铺在盘底。"
+    },
+    {
+      "no": 11,
+      "text": "把腌制好的的鳗鱼段放在香茅上。"
+    },
+    {
+      "no": 12,
+      "text": "分别将蒸烤架放入方太智能烹饪设备第1层，蒸烤盘放入烹饪机第3层，开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "no": 13,
+      "text": "烹饪结束，在香茅烤鳗鱼上点缀葱丝，在三味蒸鳗鱼上撒葱花。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将宰杀好的鳗鱼洗净擦干，切成3厘米的段备用",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "depends_on": [],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "宰杀好的鳗鱼洗净擦干，切成3厘米的段备用。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将香茅草轻轻拍碎，激发出香味",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "depends_on": [],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "香茅草轻轻拍碎，激发出香味。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "把鳗鱼段放入碗中，加入料酒、姜片、葱段、白胡椒和盐，腌制10分钟",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 12,
+      "duration_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "depends_on": [
+        "s1"
+      ],
+      "requires_human": true,
+      "can_run_unattended": true,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "把鳗鱼段放入碗中,加入料酒、姜片、葱段、白胡椒和盐，腌制10分钟。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将腌制好的鳗鱼夹出，分成两份",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "depends_on": [
+        "s3"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "将腌制好的鳗鱼夹出，分成两份。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "取一锅，开大火档加热，加入生抽、照烧汁、黄酒和白糖，搅拌均匀",
+      "device_raw": "锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": "大火",
+      "heat_level": 6,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 5,
+      "device_active_source": "estimated",
+      "depends_on": [],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "取1锅，开大火档加热，加入生抽、照烧汁、黄酒和白糖，搅拌均匀。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "煮沸后关火，倒入碗中放凉备用",
+      "device_raw": null,
+      "device": "灶具",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 6,
+      "humidity": null,
+      "duration_min": 10,
+      "duration_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1.0,
+      "device_active_source": "estimated",
+      "depends_on": [
+        "s5"
+      ],
+      "requires_human": true,
+      "can_run_unattended": true,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "煮沸后关火，倒入碗中放凉备用。"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "把1份鳗鱼放入蒸盘中，分成三列，分别放上豆豉酱、蒜蓉酱和剁椒酱",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "depends_on": [
+        "s4"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "把1份鳗鱼放入蒸盘中，分成三列，分别放上豆豉酱、蒜蓉酱和剁椒酱。"
+    },
+    {
+      "step_id": "s8",
+      "source_step_no": 8,
+      "action": "将蒸盘放置在蒸烤架中备用",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "depends_on": [
+        "s7"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "将蒸盘放置在蒸烤架中备用。"
+    },
+    {
+      "step_id": "s9",
+      "source_step_no": 9,
+      "action": "将另1份鳗鱼放入放凉的照烧汁里，浸泡20分钟入味",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 21,
+      "duration_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "depends_on": [
+        "s4",
+        "s6"
+      ],
+      "requires_human": true,
+      "can_run_unattended": true,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "将另1份鳗鱼，放入放凉的照烧汁里，浸泡20分钟入味。"
+    },
+    {
+      "step_id": "s10",
+      "source_step_no": 10,
+      "action": "蒸烤盘上铺好锡纸，把拍碎的香茅草平铺在盘底",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "depends_on": [
+        "s2"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "蒸烤盘上铺好锡纸，把拍碎的香茅草平铺在盘底。"
+    },
+    {
+      "step_id": "s11",
+      "source_step_no": 11,
+      "action": "把腌制好的鳗鱼段放在香茅上",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "depends_on": [
+        "s9",
+        "s10"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "把腌制好的的鳗鱼段放在香茅上。"
+    },
+    {
+      "step_id": "s12",
+      "source_step_no": 12,
+      "action": "分别将蒸烤架放入方太智能烹饪设备第1层、蒸烤盘放入烹饪机第3层，开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作",
+      "device_raw": "方太智能烹饪设备",
+      "device": "烤箱",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": "加湿烤",
+      "mode_source": "estimated",
+      "temperature_c": 180,
+      "temperature_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 180,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": "中",
+      "duration_min": 20,
+      "duration_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 20,
+      "device_active_source": "estimated",
+      "depends_on": [
+        "s8",
+        "s11"
+      ],
+      "requires_human": true,
+      "can_run_unattended": true,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "分别将蒸烤架放入方太智能烹饪设备第1层，蒸烤盘放入烹饪机第3层，开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "step_id": "s13",
+      "source_step_no": 13,
+      "action": "烹饪结束，在香茅烤鳗鱼上点缀葱丝，在三味蒸鳗鱼上撒葱花",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "device_active_source": "estimated",
+      "depends_on": [
+        "s12"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "烹饪结束，在香茅烤鳗鱼上点缀葱丝，在三味蒸鳗鱼上撒葱花。"
+    }
+  ]
+}

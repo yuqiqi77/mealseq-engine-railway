@@ -1,0 +1,366 @@
+{
+  "schema_version": 5,
+  "recipe_id": "65f7f4ee85eb6c79dfb992ff",
+  "name": "皂角银耳羹",
+  "ingredients_raw": "A料：干银耳15克；干皂角米15克；干桃胶5克；干雪燕5克；水1500克；冰糖85克；红枣6个；枸杞12个；主料：干银耳30克；干桃胶30克；干皂角米15克；干雪燕5克；冰糖50克；水1200克；枸杞20粒；干红枣10颗",
+  "ingredients": [
+    {
+      "name": "干银耳",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "A料：干银耳15克"
+    },
+    {
+      "name": "干皂角米",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "干皂角米15克"
+    },
+    {
+      "name": "干桃胶",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "干桃胶5克"
+    },
+    {
+      "name": "干雪燕",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "干雪燕5克"
+    },
+    {
+      "name": "水",
+      "amount_text": "1500克",
+      "quantity": 1500,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "水1500克"
+    },
+    {
+      "name": "冰糖",
+      "amount_text": "85克",
+      "quantity": 85,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "冰糖85克"
+    },
+    {
+      "name": "红枣",
+      "amount_text": "6个",
+      "quantity": 6,
+      "unit": "个",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "红枣6个"
+    },
+    {
+      "name": "枸杞",
+      "amount_text": "12个",
+      "quantity": 12,
+      "unit": "个",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "枸杞12个"
+    },
+    {
+      "name": "干银耳",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "主料：干银耳30克"
+    },
+    {
+      "name": "干桃胶",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "干桃胶30克"
+    },
+    {
+      "name": "干皂角米",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "干皂角米15克"
+    },
+    {
+      "name": "干雪燕",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "干雪燕5克"
+    },
+    {
+      "name": "冰糖",
+      "amount_text": "50克",
+      "quantity": 50,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "冰糖50克"
+    },
+    {
+      "name": "水",
+      "amount_text": "1200克",
+      "quantity": 1200,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "水1200克"
+    },
+    {
+      "name": "枸杞",
+      "amount_text": "20粒",
+      "quantity": 20,
+      "unit": "粒",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "枸杞20粒"
+    },
+    {
+      "name": "干红枣",
+      "amount_text": "10颗",
+      "quantity": 10,
+      "unit": "颗",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "干红枣10颗"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将干桃胶、干雪燕、干皂角米提前一天用冷水泡发并挑去杂质；银耳用温水泡发40分钟，剪去根部，切小朵备用；红枣洗净备用；枸杞泡发备用。"
+    },
+    {
+      "no": 2,
+      "text": "取一带盖大碗或砂锅，放入所有材料（除枸杞）"
+    },
+    {
+      "no": 3,
+      "text": "放在烤架上，放入蒸烤箱第二层，水箱加满水，按照屏端提示操作，点击确认键开始烹饪。"
+    },
+    {
+      "no": 4,
+      "text": "蒸好后取出撒上枸杞即可趁热或冷藏后食用。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将干桃胶、干雪燕、干皂角米用冷水提前一天泡发并挑去杂质，银耳用温水泡发40分钟，剪去根部，切小朵，红枣洗净，枸杞泡发备用",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1480,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        },
+        {
+          "start_min": 1440,
+          "duration_min": 2,
+          "source": "estimated"
+        },
+        {
+          "start_min": 1470,
+          "duration_min": 10,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "human_active_min": 15,
+      "human_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "将干桃胶、干雪燕、干皂角米提前一天用冷水泡发并挑去杂质；银耳用温水泡发40分钟，剪去根部，切小朵备用；红枣洗净备用；枸杞泡发备用。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "取带盖大碗或砂锅，放入除枸杞外的所有材料",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "取一带盖大碗或砂锅，放入所有材料（除枸杞）"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将碗放在烤架上放入蒸烤箱第二层，水箱加满水，按屏幕提示操作并点击确认键开始烹饪",
+      "device_raw": "蒸烤箱",
+      "device": "烤箱",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": "加湿烤",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": "高",
+      "duration_min": 62,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 62,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "放在烤架上，放入蒸烤箱第二层，水箱加满水，按照屏端提示操作，点击确认键开始烹饪。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "蒸好后取出，撒上枸杞，可趁热或冷藏后食用",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "蒸好后取出撒上枸杞即可趁热或冷藏后食用。"
+    }
+  ]
+}

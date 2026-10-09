@@ -1,0 +1,139 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5e4f4107d8dcd921c6735f7d",
+  "name": "披萨面团",
+  "ingredients_raw": "主料：高筋面粉400g；水220g；橄榄油5g；酵母1大勺；细砂糖1大勺；盐2小勺",
+  "ingredients": [
+    {
+      "name": "高筋面粉",
+      "amount_text": "400g",
+      "quantity": 400,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "主料：高筋面粉400g"
+    },
+    {
+      "name": "水",
+      "amount_text": "220g",
+      "quantity": 220,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "水220g"
+    },
+    {
+      "name": "橄榄油",
+      "amount_text": "5g",
+      "quantity": 5,
+      "unit": "克",
+      "role": "主料",
+      "category": "调味品",
+      "source_text": "橄榄油5g"
+    },
+    {
+      "name": "酵母",
+      "amount_text": "1大勺",
+      "quantity": 1,
+      "unit": "大勺",
+      "role": "主料",
+      "category": "调味品",
+      "source_text": "酵母1大勺"
+    },
+    {
+      "name": "细砂糖",
+      "amount_text": "1大勺",
+      "quantity": 1,
+      "unit": "大勺",
+      "role": "主料",
+      "category": "调味品",
+      "source_text": "细砂糖1大勺"
+    },
+    {
+      "name": "盐",
+      "amount_text": "2小勺",
+      "quantity": 2,
+      "unit": "小勺",
+      "role": "主料",
+      "category": "调味品",
+      "source_text": "盐2小勺"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将揉成团的面团，放入料理盆中盖上保鲜膜，静置发酵至两倍大。可将面团分成200g/个（厚底披萨）或120g/个（薄底披萨），擀制成圆面团后，放入9寸披萨盘中， 均匀按压到披萨盘后用叉子间隔插一些孔，即可冷冻或者放入烤箱烤制成熟披萨胚子，再填入馅料、撒上芝士烤熟即可。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将揉成团的面团放入料理盆盖保鲜膜发酵至两倍大，分份擀圆放入披萨盘按压叉孔，冷冻或入烤箱烤成披萨胚，再填馅撒芝士烤熟",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": "上下火",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 200,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 103,
+      "duration_source": "estimated",
+      "device_active_start_min": 71,
+      "device_active_min": 32,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 61,
+          "duration_min": 10,
+          "source": "estimated"
+        },
+        {
+          "start_min": 71,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 82,
+          "duration_min": 5,
+          "source": "estimated"
+        },
+        {
+          "start_min": 87,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": 200,
+      "temperature_source": "estimated",
+      "human_active_min": 18,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将揉成团的面团，放入料理盆中盖上保鲜膜，静置发酵至两倍大。可将面团分成200g/个（厚底披萨）或120g/个（薄底披萨），擀制成圆面团后，放入9寸披萨盘中， 均匀按压到披萨盘后用叉子间隔插一些孔，即可冷冻或者放入烤箱烤制成熟披萨胚子，再填入馅料、撒上芝士烤熟即可。"
+    }
+  ]
+}

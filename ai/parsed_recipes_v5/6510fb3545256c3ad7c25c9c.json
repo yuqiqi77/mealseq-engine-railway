@@ -1,0 +1,832 @@
+{
+  "schema_version": 5,
+  "recipe_id": "6510fb3545256c3ad7c25c9c",
+  "name": "苹果芒果派",
+  "ingredients_raw": "主料：中筋面粉170克；细砂糖5克；盐0.5克；无盐黄油115克；蛋液20克；辅料：芒果200克；苹果200克；香草精2克；玉米淀粉5克；细砂糖8克；蛋液20克；粗糖8克；蜂蜜50克",
+  "ingredients": [
+    {
+      "name": "中筋面粉",
+      "amount_text": "170克",
+      "quantity": 170,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "主料：中筋面粉170克"
+    },
+    {
+      "name": "细砂糖",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "主料",
+      "category": "调味品",
+      "source_text": "细砂糖5克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "0.5克",
+      "quantity": 0.5,
+      "unit": "克",
+      "role": "主料",
+      "category": "调味品",
+      "source_text": "盐0.5克"
+    },
+    {
+      "name": "无盐黄油",
+      "amount_text": "115克",
+      "quantity": 115,
+      "unit": "克",
+      "role": "主料",
+      "category": "调味品",
+      "source_text": "无盐黄油115克"
+    },
+    {
+      "name": "蛋液",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "蛋液20克"
+    },
+    {
+      "name": "芒果",
+      "amount_text": "200克",
+      "quantity": 200,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "辅料：芒果200克"
+    },
+    {
+      "name": "苹果",
+      "amount_text": "200克",
+      "quantity": 200,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "苹果200克"
+    },
+    {
+      "name": "香草精",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "香草精2克"
+    },
+    {
+      "name": "玉米淀粉",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "玉米淀粉5克"
+    },
+    {
+      "name": "细砂糖",
+      "amount_text": "8克",
+      "quantity": 8,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "细砂糖8克"
+    },
+    {
+      "name": "蛋液",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "荤菜",
+      "source_text": "蛋液20克"
+    },
+    {
+      "name": "粗糖",
+      "amount_text": "8克",
+      "quantity": 8,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "粗糖8克"
+    },
+    {
+      "name": "蜂蜜",
+      "amount_text": "50克",
+      "quantity": 50,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "蜂蜜50克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "食材准备"
+    },
+    {
+      "no": 2,
+      "text": "主料中的面粉、糖、盐混合均匀"
+    },
+    {
+      "no": 3,
+      "text": "加入黄油丁，再加入50克水"
+    },
+    {
+      "no": 4,
+      "text": "用手搓成面包屑状"
+    },
+    {
+      "no": 5,
+      "text": "均匀地倒入1份蛋液，混匀，稍揉几下使其形成面团"
+    },
+    {
+      "no": 6,
+      "text": "将面团分为均等的两份，分别用保鲜膜包裹起来，放冰箱冷藏1小时"
+    },
+    {
+      "no": 7,
+      "text": "苹果切成厚片，芒果削皮去核切片，加入香草精"
+    },
+    {
+      "no": 8,
+      "text": "再将淀粉与细砂糖加入水果片中，拌匀"
+    },
+    {
+      "no": 9,
+      "text": "面团从冰箱中取出，案板上撒少许面粉，将面团擀开成直径约为25cm的圆形"
+    },
+    {
+      "no": 10,
+      "text": "将一半的水果放入派皮中间，边缘留出约3cm的边，依次往同一个方向折起派皮"
+    },
+    {
+      "no": 11,
+      "text": "将派皮放在铺有锡纸的蒸烤盘上，周围刷上蛋液，撒些粗糖"
+    },
+    {
+      "no": 12,
+      "text": "打开方太智能烹饪设备，选择“开始烹饪”按键，按屏幕提示操作"
+    },
+    {
+      "no": 13,
+      "text": "将烤好的派从烤箱中取出，把蜂蜜刷在表面即可"
+    },
+    {
+      "no": 14,
+      "text": "尽情享用吧"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "准备所有食材",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "食材准备"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将主料中的面粉、糖、盐混合均匀",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "主料中的面粉、糖、盐混合均匀"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "加入黄油丁和50克水",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "加入黄油丁，再加入50克水"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "用手搓成面包屑状",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "用手搓成面包屑状"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "倒入1份蛋液，混匀并稍揉成面团",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "均匀地倒入1份蛋液，混匀，稍揉几下使其形成面团"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "将面团分成两份，用保鲜膜包裹后放冰箱冷藏1小时",
+      "device_raw": "冰箱",
+      "device": "冰箱",
+      "device_source": "explicit",
+      "mode_raw": "冷藏",
+      "mode": "冷藏",
+      "mode_source": "explicit",
+      "temperature_c": 4,
+      "temperature_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "冷藏室",
+          "value_c": 4,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 62,
+      "duration_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_start_min": 2,
+      "device_active_min": 60,
+      "device_active_source": "explicit",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将面团分为均等的两份，分别用保鲜膜包裹起来，放冰箱冷藏1小时"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "苹果切厚片，芒果削皮去核切片，加入香草精",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 6,
+      "duration_source": "estimated",
+      "human_active_min": 6,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 6,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "苹果切成厚片，芒果削皮去核切片，加入香草精"
+    },
+    {
+      "step_id": "s8",
+      "source_step_no": 8,
+      "action": "将淀粉与细砂糖加入水果片中拌匀",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s7"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "再将淀粉与细砂糖加入水果片中，拌匀"
+    },
+    {
+      "step_id": "s9",
+      "source_step_no": 9,
+      "action": "从冰箱取出一份面团，案板撒面粉，擀成直径约25厘米圆形",
+      "device_raw": "冰箱",
+      "device": "冰箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": "冷藏",
+      "mode_source": "estimated",
+      "temperature_c": 4,
+      "temperature_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "冷藏室",
+          "value_c": 4,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "device_active_source": "estimated",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s6"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "面团从冰箱中取出，案板上撒少许面粉，将面团擀开成直径约为25cm的圆形"
+    },
+    {
+      "step_id": "s10",
+      "source_step_no": 10,
+      "action": "将一半水果放入派皮中间，边缘留约3厘米，向同一方向折起派皮",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s8",
+        "s9"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将一半的水果放入派皮中间，边缘留出约3cm的边，依次往同一个方向折起派皮"
+    },
+    {
+      "step_id": "s11",
+      "source_step_no": 11,
+      "action": "将派皮放在铺锡纸的蒸烤盘上，周围刷蛋液，撒粗糖",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s10"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将派皮放在铺有锡纸的蒸烤盘上，周围刷上蛋液，撒些粗糖"
+    },
+    {
+      "step_id": "s12",
+      "source_step_no": 12,
+      "action": "打开方太智能烹饪设备，按开始烹饪，按屏幕提示操作",
+      "device_raw": "方太智能烹饪设备",
+      "device": "烤箱",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": "上下火",
+      "mode_source": "estimated",
+      "temperature_c": 180,
+      "temperature_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 180,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 35,
+      "duration_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 35,
+      "device_active_source": "estimated",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s11"
+      ],
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "打开方太智能烹饪设备，选择“开始烹饪”按键，按屏幕提示操作"
+    },
+    {
+      "step_id": "s13",
+      "source_step_no": 13,
+      "action": "将烤好的派从烤箱取出，刷蜂蜜",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "device_active_source": "estimated",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s12"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将烤好的派从烤箱中取出，把蜂蜜刷在表面即可"
+    },
+    {
+      "step_id": "s14",
+      "source_step_no": 14,
+      "action": "享用成品",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s13"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "尽情享用吧"
+    }
+  ]
+}

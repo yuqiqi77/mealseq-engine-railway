@@ -1,0 +1,967 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5d5665cea9114174727c8be4",
+  "name": "培根披萨",
+  "ingredients_raw": "A料：高筋面粉200克；酵母3克；黄油20克；水80毫升；盐1克；白糖10克；鸡蛋1个；B料：彩椒丁30克；玉米粒30克；培根片50克；番茄酱20克；芝士碎40克",
+  "ingredients": [
+    {
+      "name": "高筋面粉",
+      "amount_text": "200克",
+      "quantity": 200,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "A料：高筋面粉200克"
+    },
+    {
+      "name": "酵母",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "酵母3克"
+    },
+    {
+      "name": "黄油",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "黄油20克"
+    },
+    {
+      "name": "水",
+      "amount_text": "80毫升",
+      "quantity": 80,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "水80毫升"
+    },
+    {
+      "name": "盐",
+      "amount_text": "1克",
+      "quantity": 1,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐1克"
+    },
+    {
+      "name": "白糖",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白糖10克"
+    },
+    {
+      "name": "鸡蛋",
+      "amount_text": "1个",
+      "quantity": 1,
+      "unit": "个",
+      "role": "辅料",
+      "category": "荤菜",
+      "source_text": "鸡蛋1个"
+    },
+    {
+      "name": "彩椒丁",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "B料：彩椒丁30克"
+    },
+    {
+      "name": "玉米粒",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "玉米粒30克"
+    },
+    {
+      "name": "培根片",
+      "amount_text": "50克",
+      "quantity": 50,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "培根片50克"
+    },
+    {
+      "name": "番茄酱",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "番茄酱20克"
+    },
+    {
+      "name": "芝士碎",
+      "amount_text": "40克",
+      "quantity": 40,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "芝士碎40克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将酵母倒入清水中，加入细砂糖。"
+    },
+    {
+      "no": 2,
+      "text": "拌匀至溶化。"
+    },
+    {
+      "no": 3,
+      "text": "高筋面粉倒入容器中。"
+    },
+    {
+      "no": 4,
+      "text": "加入鸡蛋、酵母糖水。"
+    },
+    {
+      "no": 5,
+      "text": "用软刮混合均匀，揉搓成面团。"
+    },
+    {
+      "no": 6,
+      "text": "将面团稍微拉平。"
+    },
+    {
+      "no": 7,
+      "text": "从一端向另一端卷起来，反复揉搓成纯滑的面团。"
+    },
+    {
+      "no": 8,
+      "text": "加入黄油、盐。"
+    },
+    {
+      "no": 9,
+      "text": "封好口将黄油和盐包裹住，揉成面团，再将面团稍微拉平，反复揉搓成光滑的面团。"
+    },
+    {
+      "no": 10,
+      "text": "面团放入容器中，用保鲜膜包好。"
+    },
+    {
+      "no": 11,
+      "text": "放入烤箱中。"
+    },
+    {
+      "no": 12,
+      "text": "选择“发酵”模式，以35℃发酵30分钟。"
+    },
+    {
+      "no": 13,
+      "text": "将发酵好的面团取出，用擀面杖擀平成圆形。"
+    },
+    {
+      "no": 14,
+      "text": "放入披萨盘中，刷上番茄酱。"
+    },
+    {
+      "no": 15,
+      "text": "放上培根片、玉米粒、彩椒丁，撒上芝士碎。"
+    },
+    {
+      "no": 16,
+      "text": "放入烤箱中。"
+    },
+    {
+      "no": 17,
+      "text": "选择“常规烘焙”模式，以180℃烤10分钟，取出即可。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将酵母倒入清水，加入细砂糖",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "将酵母倒入清水中，加入细砂糖。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "拌匀至酵母和细砂糖溶化",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "拌匀至溶化。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将高筋面粉倒入容器中",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "高筋面粉倒入容器中。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "加入鸡蛋和酵母糖水",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2",
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "加入鸡蛋、酵母糖水。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "用软刮混合均匀，揉搓成面团",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "用软刮混合均匀，揉搓成面团。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "将面团稍微拉平",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "将面团稍微拉平。"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "从一端向另一端卷起并反复揉搓成纯滑面团",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s6"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "从一端向另一端卷起来，反复揉搓成纯滑的面团。"
+    },
+    {
+      "step_id": "s8",
+      "source_step_no": 8,
+      "action": "加入黄油和盐",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s7"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "加入黄油、盐。"
+    },
+    {
+      "step_id": "s9",
+      "source_step_no": 9,
+      "action": "封口包裹黄油和盐，揉成面团后拉平并反复揉搓成光滑面团",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 4,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 4,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s8"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 4,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "封好口将黄油和盐包裹住，揉成面团，再将面团稍微拉平，反复揉搓成光滑的面团。"
+    },
+    {
+      "step_id": "s10",
+      "source_step_no": 10,
+      "action": "将面团放入容器并用保鲜膜包好",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s9"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "面团放入容器中，用保鲜膜包好。"
+    },
+    {
+      "step_id": "s11",
+      "source_step_no": 11,
+      "action": "将面团放入烤箱中",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s10"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "放入烤箱中。"
+    },
+    {
+      "step_id": "s12",
+      "source_step_no": 12,
+      "action": "选择发酵模式，以35℃发酵30分钟",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": "发酵",
+      "mode": "发酵",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 35,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 31,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 31,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s11"
+      ],
+      "temperature_c": 35,
+      "temperature_source": "explicit",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "选择“发酵”模式，以35℃发酵30分钟。"
+    },
+    {
+      "step_id": "s13",
+      "source_step_no": 13,
+      "action": "将发酵好的面团取出，用擀面杖擀平成圆形",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 4,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 4,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s12"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 4,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "将发酵好的面团取出，用擀面杖擀平成圆形。"
+    },
+    {
+      "step_id": "s14",
+      "source_step_no": 14,
+      "action": "将面团放入披萨盘中，刷上番茄酱",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s13"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "放入披萨盘中，刷上番茄酱。"
+    },
+    {
+      "step_id": "s15",
+      "source_step_no": 15,
+      "action": "放上培根片、玉米粒、彩椒丁，撒上芝士碎",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s14"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "放上培根片、玉米粒、彩椒丁，撒上芝士碎。"
+    },
+    {
+      "step_id": "s16",
+      "source_step_no": 16,
+      "action": "将披萨放入烤箱中",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s15"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "放入烤箱中。"
+    },
+    {
+      "step_id": "s17",
+      "source_step_no": 17,
+      "action": "选择常规烘焙模式，以180℃烤10分钟后取出",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": "常规烘焙",
+      "mode": "上下火",
+      "mode_source": "normalized",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 180,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 12,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 12,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 11,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s16"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": 180,
+      "temperature_source": "explicit",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "选择“常规烘焙”模式，以180℃烤10分钟，取出即可。"
+    }
+  ]
+}

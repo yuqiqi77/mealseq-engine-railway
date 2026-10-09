@@ -1,0 +1,402 @@
+{
+  "schema_version": 5,
+  "recipe_id": "58e70ae1a3fd4a750f4b75b0",
+  "name": "韩式泡菜鸦片鱼头",
+  "ingredients_raw": "A料：鸦片鱼头1个（（约300g））；B料：小葱4段；生姜2片；盐2克；料酒15克；C料：食用油15克；生姜1片；韩式泡菜50克；五花肉20克；洋葱1/4个；清水100克；泡菜汁30克（（泡菜包中的汁水））；辣椒粉2克；香辣酱5克",
+  "ingredients": [
+    {
+      "name": "鸦片鱼头",
+      "amount_text": "1个（约300g）",
+      "quantity": 1,
+      "unit": "个",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "A料：鸦片鱼头1个（（约300g））"
+    },
+    {
+      "name": "小葱",
+      "amount_text": "4段",
+      "quantity": 4,
+      "unit": "段",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "B料：小葱4段"
+    },
+    {
+      "name": "生姜",
+      "amount_text": "2片",
+      "quantity": 2,
+      "unit": "片",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "生姜2片"
+    },
+    {
+      "name": "盐",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐2克"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒15克"
+    },
+    {
+      "name": "食用油",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "C料：食用油15克"
+    },
+    {
+      "name": "生姜",
+      "amount_text": "1片",
+      "quantity": 1,
+      "unit": "片",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "生姜1片"
+    },
+    {
+      "name": "韩式泡菜",
+      "amount_text": "50克",
+      "quantity": 50,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "韩式泡菜50克"
+    },
+    {
+      "name": "五花肉",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "荤菜",
+      "source_text": "五花肉20克"
+    },
+    {
+      "name": "洋葱",
+      "amount_text": "1/4个",
+      "quantity": 0.25,
+      "unit": "个",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "洋葱1/4个"
+    },
+    {
+      "name": "清水",
+      "amount_text": "100克",
+      "quantity": 100,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "清水100克"
+    },
+    {
+      "name": "泡菜汁",
+      "amount_text": "30克（泡菜包中的汁水）",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "泡菜汁30克（（泡菜包中的汁水））"
+    },
+    {
+      "name": "辣椒粉",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "辣椒粉2克"
+    },
+    {
+      "name": "香辣酱",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "香辣酱5克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将鸦片鱼头去鳃后用90℃左右的热水烫15秒，用刀轻轻刮去细鱼鳞，洗净沥干后从中间剖开。"
+    },
+    {
+      "no": 2,
+      "text": "将B中的葱段、姜片放在盘子底部，放入鸦片鱼头，将盐均匀抹在鱼头上，倒入料酒，腌制10分钟。"
+    },
+    {
+      "no": 3,
+      "text": "将炒锅加热，加入C中食用油，倒入姜末炒出香味，先将切好的五花肉和泡菜倒入锅中翻炒至完全成熟，再加入洋葱末稍稍煸炒后加清水、泡菜汁、辣椒粉、香辣酱，煮沸即可。"
+    },
+    {
+      "no": 4,
+      "text": "将烧好的泡菜汤倒在鱼上，使泡菜覆盖住鱼身，将鱼盘放在附送的有孔盘或架子上，放入设备第2层。开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "no": 5,
+      "text": "烹饪结束后取出，趁热食用。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将鸦片鱼头去鳃，用90℃热水烫15秒，刮去细鱼鳞，洗净沥干后从中间剖开",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [
+        {
+          "zone": "处理用水",
+          "value_c": 90,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "device_active_source": "not_applicable",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "temperature_c": 90,
+      "temperature_source": "explicit",
+      "source_text": "将鸦片鱼头去鳃后用90℃左右的热水烫15秒，用刀轻轻刮去细鱼鳞，洗净沥干后从中间剖开。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将B中的葱段、姜片铺盘底，放鸦片鱼头，抹盐倒料酒，腌制10分钟",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 12,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "将B中的葱段、姜片放在盘子底部，放入鸦片鱼头，将盐均匀抹在鱼头上，倒入料酒，腌制10分钟。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "加热炒锅，加入C中食用油，姜末炒香，炒五花肉和泡菜至熟，加洋葱末稍炒，加清水、泡菜汁、辣椒粉、香辣酱煮沸",
+      "device_raw": "炒锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 5,
+      "humidity": null,
+      "duration_min": 8,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 8,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 8,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 8,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "将炒锅加热，加入C中食用油，倒入姜末炒出香味，先将切好的五花肉和泡菜倒入锅中翻炒至完全成熟，再加入洋葱末稍稍煸炒后加清水、泡菜汁、辣椒粉、香辣酱，煮沸即可。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将泡菜汤倒在鱼上覆盖鱼身，鱼盘放有孔盘或架子，放入蒸箱第2层，开启电源，水箱加满水，选择开始烹饪并按屏幕提示操作至烹饪结束",
+      "device_raw": "设备",
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "普通蒸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 18,
+      "duration_source": "estimated",
+      "device_active_start_min": 1,
+      "device_active_min": 17,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 1,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 2,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2",
+        "s3"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "human_active_min": 4,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "将烧好的泡菜汤倒在鱼上，使泡菜覆盖住鱼身，将鱼盘放在附送的有孔盘或架子上，放入设备第2层。开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "烹饪结束后取出，趁热食用",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "烹饪结束后取出，趁热食用。"
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5fe197255f8f38795ea6fe79",
+  "name": "麻辣对虾",
+  "ingredients_raw": "A料：新鲜对虾300~400g；B料：盐1/4茶匙；料酒1茶匙；C料：食用油3汤匙；朝天椒4个；生姜末5克；蒜末30克；料酒1汤匙；盐1/4茶匙；生抽1茶匙；老抽1/2茶匙；鸡精1/2茶匙；花椒油1/4茶匙",
+  "ingredients": [
+    {
+      "name": "新鲜对虾",
+      "amount_text": "300~400g",
+      "quantity": null,
+      "unit": "g",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "A料：新鲜对虾300~400g"
+    },
+    {
+      "name": "盐",
+      "amount_text": "1/4茶匙",
+      "quantity": 0.25,
+      "unit": "茶匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "B料：盐1/4茶匙"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "1茶匙",
+      "quantity": 1,
+      "unit": "茶匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒1茶匙"
+    },
+    {
+      "name": "食用油",
+      "amount_text": "3汤匙",
+      "quantity": 3,
+      "unit": "汤匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "C料：食用油3汤匙"
+    },
+    {
+      "name": "朝天椒",
+      "amount_text": "4个",
+      "quantity": 4,
+      "unit": "个",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "朝天椒4个"
+    },
+    {
+      "name": "生姜末",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "生姜末5克"
+    },
+    {
+      "name": "蒜末",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "蒜末30克"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "1汤匙",
+      "quantity": 1,
+      "unit": "汤匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒1汤匙"
+    },
+    {
+      "name": "盐",
+      "amount_text": "1/4茶匙",
+      "quantity": 0.25,
+      "unit": "茶匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐1/4茶匙"
+    },
+    {
+      "name": "生抽",
+      "amount_text": "1茶匙",
+      "quantity": 1,
+      "unit": "茶匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生抽1茶匙"
+    },
+    {
+      "name": "老抽",
+      "amount_text": "1/2茶匙",
+      "quantity": 0.5,
+      "unit": "茶匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "老抽1/2茶匙"
+    },
+    {
+      "name": "鸡精",
+      "amount_text": "1/2茶匙",
+      "quantity": 0.5,
+      "unit": "茶匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "鸡精1/2茶匙"
+    },
+    {
+      "name": "花椒油",
+      "amount_text": "1/4茶匙",
+      "quantity": 0.25,
+      "unit": "茶匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "花椒油1/4茶匙"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将对虾洗净，剪去须脚，用刀从背部剖开。用B中的盐抹匀，再倒入料酒，腌渍10分钟。"
+    },
+    {
+      "no": 2,
+      "text": "将炒锅加热，倒入C中的食用油、朝天椒、姜末、蒜末，小火煸炒至香辣味出现，盛于小碗中，待冷却后加入料酒、盐、生抽、老抽、鸡精、花椒油拌匀即可。"
+    },
+    {
+      "no": 3,
+      "text": "把炒香后的配料和对虾放入盘中上下翻拌均匀，放在有孔蒸盘上，放入机器中间层，取出水箱加满水。"
+    },
+    {
+      "no": 4,
+      "text": "选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "no": 5,
+      "text": "烹饪结束后取出，撒上葱花即可食用。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将对虾洗净、剪去须脚、从背部剖开，用B料中的盐抹匀并倒入料酒，腌渍10分钟",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 15,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将对虾洗净，剪去须脚，用刀从背部剖开。用B中的盐抹匀，再倒入料酒，腌渍10分钟。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将炒锅加热，倒入C中的食用油、朝天椒、姜末、蒜末，小火煸炒至香辣味出现，盛于小碗中，待冷却后加入料酒、盐、生抽、老抽、鸡精、花椒油拌匀",
+      "device_raw": "炒锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": "小火",
+      "heat_level": 2,
+      "humidity": null,
+      "duration_min": 10,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 10.0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 4,
+          "source": "estimated"
+        },
+        {
+          "start_min": 9,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将炒锅加热，倒入C中的食用油、朝天椒、姜末、蒜末，小火煸炒至香辣味出现，盛于小碗中，待冷却后加入料酒、盐、生抽、老抽、鸡精、花椒油拌匀即可。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "把炒香后的配料和对虾放入盘中上下翻拌均匀，放在有孔蒸盘上，放入机器中间层，取出水箱加满水",
+      "device_raw": "机器中间层",
+      "device": "蒸箱",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 4,
+      "duration_source": "estimated",
+      "device_active_start_min": 2,
+      "device_active_min": 2,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 4,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1",
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 4,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "把炒香后的配料和对虾放入盘中上下翻拌均匀，放在有孔蒸盘上，放入机器中间层，取出水箱加满水。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "选择“开始烹饪”按键，并按屏幕提示操作启动蒸制",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "鲜嫩蒸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 90,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 8,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 8,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "temperature_c": 90,
+      "temperature_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "烹饪结束后取出，撒上葱花即可食用",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "烹饪结束后取出，撒上葱花即可食用。"
+    }
+  ]
+}

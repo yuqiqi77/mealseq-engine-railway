@@ -1,0 +1,478 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5c81cf416dc6e123a037a1f0",
+  "name": "原味墨西哥面包",
+  "ingredients_raw": "A料：高筋面粉150克；牛奶75克；鸡蛋15克；白糖25克；黄油15克；酵母2克；盐1克；B料：糖粉30克；黄油28克；盐少许；鸡蛋27克；低筋面粉30克",
+  "ingredients": [
+    {
+      "name": "高筋面粉",
+      "amount_text": "150克",
+      "quantity": 150,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "A料：高筋面粉150克"
+    },
+    {
+      "name": "牛奶",
+      "amount_text": "75克",
+      "quantity": 75,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "牛奶75克"
+    },
+    {
+      "name": "鸡蛋",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "鸡蛋15克"
+    },
+    {
+      "name": "白糖",
+      "amount_text": "25克",
+      "quantity": 25,
+      "unit": "克",
+      "role": "主料",
+      "category": "调味品",
+      "source_text": "白糖25克"
+    },
+    {
+      "name": "黄油",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "主料",
+      "category": "调味品",
+      "source_text": "黄油15克"
+    },
+    {
+      "name": "酵母",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "主料",
+      "category": "调味品",
+      "source_text": "酵母2克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "1克",
+      "quantity": 1,
+      "unit": "克",
+      "role": "主料",
+      "category": "调味品",
+      "source_text": "盐1克"
+    },
+    {
+      "name": "糖粉",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "B料：糖粉30克"
+    },
+    {
+      "name": "黄油",
+      "amount_text": "28克",
+      "quantity": 28,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "黄油28克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "少许",
+      "quantity": null,
+      "unit": null,
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐少许"
+    },
+    {
+      "name": "鸡蛋",
+      "amount_text": "27克",
+      "quantity": 27,
+      "unit": "克",
+      "role": "辅料",
+      "category": "荤菜",
+      "source_text": "鸡蛋27克"
+    },
+    {
+      "name": "低筋面粉",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "低筋面粉30克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将A中除黄油外的所有原来混合揉成团,待面团揉至光滑，加入软化的黄油,继续揉面至完全扩展状态，即拉伸面团可以拉出薄膜，形成的薄膜不易破，破裂边沿处也较光滑。"
+    },
+    {
+      "no": 2,
+      "text": "将揉好的面团整圆盖上保鲜膜，进行第一次发酵，选择烤箱“发酵”，设置35~40℃，时间1~2小时，发酵至两倍大。"
+    },
+    {
+      "no": 3,
+      "text": "将面团取出排气，分割成三等分，滚圆,放入模具中进行第二次发酵，选择烤箱“发酵”，设置35~40℃，时间40~90分钟，发酵至两倍大。"
+    },
+    {
+      "no": 4,
+      "text": "发酵期间准备墨西哥酱，将软化的黄油加糖粉和盐搅匀，不要过分搅拌。"
+    },
+    {
+      "no": 5,
+      "text": "倒入低筋面粉，搅拌均匀,把墨西哥面糊装入裱花袋。"
+    },
+    {
+      "no": 6,
+      "text": "在面团上以螺旋状挤出墨西哥面糊，大约盖住面团的2/3即可。"
+    },
+    {
+      "no": 7,
+      "text": "选择“开始烹饪”按键，按屏幕提示操作。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将A料中除黄油外的食材混合揉成团，加入软化黄油继续揉至完全扩展",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 20,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 20,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 20,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "将A中除黄油外的所有原来混合揉成团,待面团揉至光滑，加入软化的黄油,继续揉面至完全扩展状态，即拉伸面团可以拉出薄膜，形成的薄膜不易破，破裂边沿处也较光滑。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将面团整圆盖保鲜膜，放入烤箱发酵，设置35~40℃发酵1~2小时至两倍大",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": "发酵",
+      "mode": "发酵",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 38,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 92,
+      "duration_source": "estimated",
+      "device_active_start_min": 1,
+      "device_active_min": 91,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": 38,
+      "temperature_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "将揉好的面团整圆盖上保鲜膜，进行第一次发酵，选择烤箱“发酵”，设置35~40℃，时间1~2小时，发酵至两倍大。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "取出面团排气，分割三等份滚圆，放入模具，再放入烤箱发酵，设置35~40℃发酵40~90分钟至两倍大",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": "发酵",
+      "mode": "发酵",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 38,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 68,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 66,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": 38,
+      "temperature_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "将面团取出排气，分割成三等分，滚圆,放入模具中进行第二次发酵，选择烤箱“发酵”，设置35~40℃，时间40~90分钟，发酵至两倍大。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将软化黄油加糖粉和盐搅匀",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "发酵期间准备墨西哥酱，将软化的黄油加糖粉和盐搅匀，不要过分搅拌。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "倒入低筋面粉搅拌均匀，将墨西哥面糊装入裱花袋",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "倒入低筋面粉，搅拌均匀,把墨西哥面糊装入裱花袋。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "在面团上以螺旋状挤出墨西哥面糊，盖住约2/3",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3",
+        "s5"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "在面团上以螺旋状挤出墨西哥面糊，大约盖住面团的2/3即可。"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "选择“开始烹饪”按键，按屏幕提示操作",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "上下火",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 180,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 15,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 15,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s6"
+      ],
+      "temperature_c": 180,
+      "temperature_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "选择“开始烹饪”按键，按屏幕提示操作。"
+    }
+  ]
+}

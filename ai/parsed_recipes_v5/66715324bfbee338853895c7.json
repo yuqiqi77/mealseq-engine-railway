@@ -1,0 +1,820 @@
+{
+  "schema_version": 5,
+  "recipe_id": "66715324bfbee338853895c7",
+  "name": "轻松一锅蒸",
+  "ingredients_raw": "A料：腊肉1块；香肠1条；咸鱼块1块；B料：香干200克；盐2克；红剁椒30克；蒜末10克；豆豉6克；猪油7克；白砂糖2克；生抽6克；老抽1克；纯净水25克；葱花2克；C料：细长茄子350克；蒜末12克；醋15克；生抽30克；盐1克；白砂糖5克；D料：甜南瓜400克；红枣10个；糖桂花2勺；主料：鳙鱼头1条；葱段15克；姜片6克；盐25克；料酒30克；双色剁椒酱200克；葱花5克",
+  "ingredients": [
+    {
+      "name": "腊肉",
+      "amount_text": "1块",
+      "quantity": 1,
+      "unit": "块",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "A料：腊肉1块"
+    },
+    {
+      "name": "香肠",
+      "amount_text": "1条",
+      "quantity": 1,
+      "unit": "条",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "香肠1条"
+    },
+    {
+      "name": "咸鱼块",
+      "amount_text": "1块",
+      "quantity": 1,
+      "unit": "块",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "咸鱼块1块"
+    },
+    {
+      "name": "香干",
+      "amount_text": "200克",
+      "quantity": 200,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "B料：香干200克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐2克"
+    },
+    {
+      "name": "红剁椒",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "红剁椒30克"
+    },
+    {
+      "name": "蒜末",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "蒜末10克"
+    },
+    {
+      "name": "豆豉",
+      "amount_text": "6克",
+      "quantity": 6,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "豆豉6克"
+    },
+    {
+      "name": "猪油",
+      "amount_text": "7克",
+      "quantity": 7,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "猪油7克"
+    },
+    {
+      "name": "白砂糖",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白砂糖2克"
+    },
+    {
+      "name": "生抽",
+      "amount_text": "6克",
+      "quantity": 6,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生抽6克"
+    },
+    {
+      "name": "老抽",
+      "amount_text": "1克",
+      "quantity": 1,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "老抽1克"
+    },
+    {
+      "name": "纯净水",
+      "amount_text": "25克",
+      "quantity": 25,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "纯净水25克"
+    },
+    {
+      "name": "葱花",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "葱花2克"
+    },
+    {
+      "name": "细长茄子",
+      "amount_text": "350克",
+      "quantity": 350,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "C料：细长茄子350克"
+    },
+    {
+      "name": "蒜末",
+      "amount_text": "12克",
+      "quantity": 12,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "蒜末12克"
+    },
+    {
+      "name": "醋",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "醋15克"
+    },
+    {
+      "name": "生抽",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生抽30克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "1克",
+      "quantity": 1,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐1克"
+    },
+    {
+      "name": "白砂糖",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白砂糖5克"
+    },
+    {
+      "name": "甜南瓜",
+      "amount_text": "400克",
+      "quantity": 400,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "D料：甜南瓜400克"
+    },
+    {
+      "name": "红枣",
+      "amount_text": "10个",
+      "quantity": 10,
+      "unit": "个",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "红枣10个"
+    },
+    {
+      "name": "糖桂花",
+      "amount_text": "2勺",
+      "quantity": 2,
+      "unit": "勺",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "糖桂花2勺"
+    },
+    {
+      "name": "鳙鱼头",
+      "amount_text": "1条",
+      "quantity": 1,
+      "unit": "条",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "主料：鳙鱼头1条"
+    },
+    {
+      "name": "葱段",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "葱段15克"
+    },
+    {
+      "name": "姜片",
+      "amount_text": "6克",
+      "quantity": 6,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "姜片6克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "25克",
+      "quantity": 25,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐25克"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒30克"
+    },
+    {
+      "name": "双色剁椒酱",
+      "amount_text": "200克",
+      "quantity": 200,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "双色剁椒酱200克"
+    },
+    {
+      "name": "葱花",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "葱花5克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "双椒鳙鱼头：将1个鳙鱼头去除鱼鳞、鱼鳃和内脏，洗净并沥干水分，再沿着背鳍将鱼头对半劈开，鱼背肉厚处片刀。"
+    },
+    {
+      "no": 2,
+      "text": "将15g葱段、6g姜片放在鱼盘底部，放入鳙鱼头，将2.5g盐均匀抹在鱼头上，倒入30g料酒，腌制10分钟。"
+    },
+    {
+      "no": 3,
+      "text": "将鱼头放入大号双耳盘中，将200g双色剁椒酱浇在鳙鱼头上。"
+    },
+    {
+      "no": 4,
+      "text": "腊味合蒸：处理食材，腊肉和香肠切成薄片，咸鱼切块，铺在小号碗中。"
+    },
+    {
+      "no": 5,
+      "text": "豆豉蒸香干：200g香干切片，加入400g温水、2g盐浸泡30min。"
+    },
+    {
+      "no": 6,
+      "text": "取出豆干铺在小号碗中，加入30g红剁椒、10g蒜末、6g豆豉、7g猪油、2g白砂糖、6g生抽、1g老抽、25g纯净水，准备烹饪。"
+    },
+    {
+      "no": 7,
+      "text": "酱醋茄子：将350g茄子洗净去蒂，切成7cm段，摆放在中号碗中。"
+    },
+    {
+      "no": 8,
+      "text": "取一小碗准备酱料：12g蒜末、15香醋、30g生抽、1g盐、5g白砂糖混合均匀备用。"
+    },
+    {
+      "no": 9,
+      "text": "红枣南瓜：400g南瓜去皮去瓜瓤，10个红枣去核，清洗干净。"
+    },
+    {
+      "no": 10,
+      "text": "将南瓜切成小块、红枣对半切开，摆入中号碗中。"
+    },
+    {
+      "no": 11,
+      "text": "将5道菜放入蒸烤盘和蒸烤架上，蒸烤架放入第1层，蒸烤盘放入第3层。取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将鳙鱼头去鱼鳞、鱼鳃和内脏，洗净沥干，沿背鳍对半劈开，鱼背肉厚处片刀。",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 8,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 8,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 8,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "双椒鳙鱼头：将1个鳙鱼头去除鱼鳞、鱼鳃和内脏，洗净并沥干水分，再沿着背鳍将鱼头对半劈开，鱼背肉厚处片刀。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "在鱼盘底部放葱段、姜片，放入鳙鱼头，抹盐，倒入料酒，腌制10分钟。",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 12,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将15g葱段、6g姜片放在鱼盘底部，放入鳙鱼头，将2.5g盐均匀抹在鱼头上，倒入30g料酒，腌制10分钟。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将鱼头放入大号双耳盘中，将双色剁椒酱浇在鳙鱼头上。",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将鱼头放入大号双耳盘中，将200g双色剁椒酱浇在鳙鱼头上。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将腊肉、香肠切成薄片，咸鱼切块，铺在小号碗中。",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "腊味合蒸：处理食材，腊肉和香肠切成薄片，咸鱼切块，铺在小号碗中。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将香干切片，加入温水、盐浸泡30分钟。",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 32,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "豆豉蒸香干：200g香干切片，加入400g温水、2g盐浸泡30min。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "取出豆干铺在小号碗中，加入红剁椒、蒜末、豆豉、猪油、白砂糖、生抽、老抽、纯净水，准备烹饪。",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "取出豆干铺在小号碗中，加入30g红剁椒、10g蒜末、6g豆豉、7g猪油、2g白砂糖、6g生抽、1g老抽、25g纯净水，准备烹饪。"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "将茄子洗净去蒂，切成7厘米段，摆放在中号碗中。",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 4,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 4,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 4,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "酱醋茄子：将350g茄子洗净去蒂，切成7cm段，摆放在中号碗中。"
+    },
+    {
+      "step_id": "s8",
+      "source_step_no": 8,
+      "action": "将蒜末、醋、生抽、盐、白砂糖混合均匀，制成酱料备用。",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "取一小碗准备酱料：12g蒜末、15香醋、30g生抽、1g盐、5g白砂糖混合均匀备用。"
+    },
+    {
+      "step_id": "s9",
+      "source_step_no": 9,
+      "action": "将南瓜去皮去瓤，红枣去核，清洗干净。",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 6,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 6,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 6,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "红枣南瓜：400g南瓜去皮去瓜瓤，10个红枣去核，清洗干净。"
+    },
+    {
+      "step_id": "s10",
+      "source_step_no": 10,
+      "action": "将南瓜切成小块，红枣对半切开，摆入中号碗中。",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s9"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将南瓜切成小块、红枣对半切开，摆入中号碗中。"
+    },
+    {
+      "step_id": "s11",
+      "source_step_no": 11,
+      "action": "将5道菜放入蒸烤盘和蒸烤架，蒸烤架放第1层、蒸烤盘放第3层，水箱加满水，按开始烹饪键并按屏幕提示蒸制。",
+      "device_raw": "蒸烤盘和蒸烤架",
+      "device": "蒸箱",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": "多层蒸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 22,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 22,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3",
+        "s4",
+        "s6",
+        "s7",
+        "s8",
+        "s10"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将5道菜放入蒸烤盘和蒸烤架上，蒸烤架放入第1层，蒸烤盘放入第3层。取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作。"
+    }
+  ]
+}

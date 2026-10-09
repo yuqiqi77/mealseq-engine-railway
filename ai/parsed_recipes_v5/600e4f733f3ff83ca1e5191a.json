@@ -1,0 +1,172 @@
+{
+  "schema_version": 5,
+  "recipe_id": "600e4f733f3ff83ca1e5191a",
+  "name": "柠檬干",
+  "ingredients_raw": "主料：新鲜柠檬300克",
+  "ingredients": [
+    {
+      "name": "新鲜柠檬",
+      "amount_text": "300克",
+      "quantity": 300,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "主料：新鲜柠檬300克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将柠檬切成1-2mm厚的薄片"
+    },
+    {
+      "no": 2,
+      "text": "将柠檬片平铺在蒸烤架上，放入机器中间层，关门"
+    },
+    {
+      "no": 3,
+      "text": "开启电源，选择“开始烹饪”按键，按屏幕提示操作。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将柠檬切成1-2mm厚的薄片",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 6,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 6,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 6,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将柠檬切成1-2mm厚的薄片"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将柠檬片平铺在蒸烤架上，放入机器中间层并关门",
+      "device_raw": "机器",
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 1,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将柠檬片平铺在蒸烤架上，放入机器中间层，关门"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "开启电源并选择开始烹饪，按屏幕提示启动程序",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "蔬果干",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 70,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 301,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 301,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": 70,
+      "temperature_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "开启电源，选择“开始烹饪”按键，按屏幕提示操作。"
+    }
+  ]
+}

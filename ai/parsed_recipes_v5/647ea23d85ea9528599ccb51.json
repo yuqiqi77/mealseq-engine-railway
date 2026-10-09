@@ -1,0 +1,353 @@
+{
+  "schema_version": 5,
+  "recipe_id": "647ea23d85ea9528599ccb51",
+  "name": "香辣烤小龙虾",
+  "ingredients_raw": "A料：小龙虾调料200克；啤酒600克；黄瓜半根；青椒半个；主料：新鲜小龙虾1000克",
+  "ingredients": [
+    {
+      "name": "小龙虾调料",
+      "amount_text": "200克",
+      "quantity": 200,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "A料：小龙虾调料200克"
+    },
+    {
+      "name": "啤酒",
+      "amount_text": "600克",
+      "quantity": 600,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "啤酒600克"
+    },
+    {
+      "name": "黄瓜",
+      "amount_text": "半根",
+      "quantity": 0.5,
+      "unit": "根",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "黄瓜半根"
+    },
+    {
+      "name": "青椒",
+      "amount_text": "半个",
+      "quantity": 0.5,
+      "unit": "个",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "青椒半个"
+    },
+    {
+      "name": "新鲜小龙虾",
+      "amount_text": "1000克",
+      "quantity": 1000,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "主料：新鲜小龙虾1000克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将小龙虾清洗干净。"
+    },
+    {
+      "no": 2,
+      "text": "将小龙虾专用调料与300g啤酒混合加热直至调料融化。"
+    },
+    {
+      "no": 3,
+      "text": "将黄瓜切成细条，青椒切成圈。"
+    },
+    {
+      "no": 4,
+      "text": "在蒸烤盘上铺一层铝箔纸，取2斤小龙虾平铺在烤盘上。"
+    },
+    {
+      "no": 5,
+      "text": "撒上黄瓜条和青椒圈，倒入啤酒调料。"
+    },
+    {
+      "no": 6,
+      "text": "开启电源，请将蒸烤盘放入第2层并关门，点击“开始”键，按屏幕提示操作，开始烹饪。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将小龙虾清洗干净",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 15,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 15,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 15,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将小龙虾清洗干净。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将小龙虾专用调料与300克啤酒混合加热至调料融化",
+      "device_raw": null,
+      "device": "灶具",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 4,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 5,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将小龙虾专用调料与300g啤酒混合加热直至调料融化。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将黄瓜切成细条，青椒切成圈",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 4,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 4,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 4,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将黄瓜切成细条，青椒切成圈。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "在蒸烤盘上铺铝箔纸，将2斤小龙虾平铺在烤盘上",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "在蒸烤盘上铺一层铝箔纸，取2斤小龙虾平铺在烤盘上。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "撒上黄瓜条和青椒圈，倒入啤酒调料",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "撒上黄瓜条和青椒圈，倒入啤酒调料。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "开启电源，将蒸烤盘放入第2层并关门，点击开始键，按屏幕提示操作，开始烹饪",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "上下火",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 180,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 25,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 25,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "temperature_c": 180,
+      "temperature_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "开启电源，请将蒸烤盘放入第2层并关门，点击“开始”键，按屏幕提示操作，开始烹饪。"
+    }
+  ]
+}

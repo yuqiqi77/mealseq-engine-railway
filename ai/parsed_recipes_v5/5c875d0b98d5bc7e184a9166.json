@@ -1,0 +1,450 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5c875d0b98d5bc7e184a9166",
+  "name": "香菜黄油烤明虾",
+  "ingredients_raw": "主料：明虾100克；黄油15克；香菜5克；辅料：蒜蓉5克；迷迭香5克；茴香草末5克；盐3克；白胡椒粉3克；柠檬汁6毫升",
+  "ingredients": [
+    {
+      "name": "明虾",
+      "amount_text": "100克",
+      "quantity": 100,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "主料：明虾100克"
+    },
+    {
+      "name": "黄油",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "主料",
+      "category": "调味品",
+      "source_text": "黄油15克"
+    },
+    {
+      "name": "香菜",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "香菜5克"
+    },
+    {
+      "name": "蒜蓉",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "辅料：蒜蓉5克"
+    },
+    {
+      "name": "迷迭香",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "迷迭香5克"
+    },
+    {
+      "name": "茴香草末",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "茴香草末5克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐3克"
+    },
+    {
+      "name": "白胡椒粉",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白胡椒粉3克"
+    },
+    {
+      "name": "柠檬汁",
+      "amount_text": "6毫升",
+      "quantity": 6,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "柠檬汁6毫升"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将明虾切去虾须、虾脚、虾箭，切开虾背，去除沙线；斩开虾头，装盘。"
+    },
+    {
+      "no": 2,
+      "text": "在虾肉上撒适量盐、白胡椒粉，拌匀，滴少许柠檬汁，腌渍5分钟。"
+    },
+    {
+      "no": 3,
+      "text": "把迷迭香末、蒜蓉、茴香草末、盐倒入溶化的黄油中，拌匀。"
+    },
+    {
+      "no": 4,
+      "text": "烤盘铺上一层锡纸，把明虾放入烤盘中。"
+    },
+    {
+      "no": 5,
+      "text": "选择“常规烘焙”模式，以220℃烤5分钟。"
+    },
+    {
+      "no": 6,
+      "text": "从烤箱中取出烤盘，在虾肉上均匀地抹上拌好的黄油酱，再将烤盘放入烤箱。"
+    },
+    {
+      "no": 7,
+      "text": "选择“常规烘焙”模式，以180℃烤1分钟，取出烤盘，用香菜点缀即可。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "处理明虾，切去虾须、虾脚、虾箭，开背去沙线，斩开虾头后装盘",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将明虾切去虾须、虾脚、虾箭，切开虾背，去除沙线；斩开虾头，装盘。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "在虾肉上撒盐、白胡椒粉，拌匀，滴柠檬汁，腌渍5分钟",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 6,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "在虾肉上撒适量盐、白胡椒粉，拌匀，滴少许柠檬汁，腌渍5分钟。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将迷迭香末、蒜蓉、茴香草末、盐倒入溶化黄油中，拌匀",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "把迷迭香末、蒜蓉、茴香草末、盐倒入溶化的黄油中，拌匀。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "烤盘铺锡纸，将腌好的明虾放入烤盘",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "烤盘铺上一层锡纸，把明虾放入烤盘中。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "选择常规烘焙模式，以220℃烤5分钟",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": "常规烘焙",
+      "mode": "上下火",
+      "mode_source": "normalized",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 220,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 6,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 6,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": 220,
+      "temperature_source": "explicit",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "选择“常规烘焙”模式，以220℃烤5分钟。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "从烤箱取出烤盘，在虾肉上抹拌好的黄油酱，再将烤盘放入烤箱",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 3,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5",
+        "s3"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "从烤箱中取出烤盘，在虾肉上均匀地抹上拌好的黄油酱，再将烤盘放入烤箱。"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "选择常规烘焙模式，以180℃烤1分钟，取出烤盘，用香菜点缀",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": "常规烘焙",
+      "mode": "上下火",
+      "mode_source": "normalized",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 180,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 3,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 2,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s6"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": 180,
+      "temperature_source": "explicit",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "选择“常规烘焙”模式，以180℃烤1分钟，取出烤盘，用香菜点缀即可。"
+    }
+  ]
+}

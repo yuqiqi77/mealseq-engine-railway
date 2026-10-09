@@ -1,0 +1,626 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5d638e17a9114174727c8d77",
+  "name": "草莓蛋挞",
+  "ingredients_raw": "A料：蛋挞皮8个；牛奶200毫升；淡奶油50克；蛋黄1个；蜂蜜20克；鸡蛋1个；细砂糖40克；草莓40克",
+  "ingredients": [
+    {
+      "name": "蛋挞皮",
+      "amount_text": "8个",
+      "quantity": 8,
+      "unit": "个",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "A料：蛋挞皮8个"
+    },
+    {
+      "name": "牛奶",
+      "amount_text": "200毫升",
+      "quantity": 200,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "牛奶200毫升"
+    },
+    {
+      "name": "淡奶油",
+      "amount_text": "50克",
+      "quantity": 50,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "淡奶油50克"
+    },
+    {
+      "name": "蛋黄",
+      "amount_text": "1个",
+      "quantity": 1,
+      "unit": "个",
+      "role": "辅料",
+      "category": "荤菜",
+      "source_text": "蛋黄1个"
+    },
+    {
+      "name": "蜂蜜",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "蜂蜜20克"
+    },
+    {
+      "name": "鸡蛋",
+      "amount_text": "1个",
+      "quantity": 1,
+      "unit": "个",
+      "role": "辅料",
+      "category": "荤菜",
+      "source_text": "鸡蛋1个"
+    },
+    {
+      "name": "细砂糖",
+      "amount_text": "40克",
+      "quantity": 40,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "细砂糖40克"
+    },
+    {
+      "name": "草莓",
+      "amount_text": "40克",
+      "quantity": 40,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "草莓40克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将牛奶倒入锅中，加入淡奶油。"
+    },
+    {
+      "no": 2,
+      "text": "倒入细砂糖。"
+    },
+    {
+      "no": 3,
+      "text": "拌匀，用小火加热至细砂糖完全溶化。"
+    },
+    {
+      "no": 4,
+      "text": "蛋黄和鸡蛋倒入容器中，搅拌均匀。"
+    },
+    {
+      "no": 5,
+      "text": "倒入蜂蜜，混合均匀。"
+    },
+    {
+      "no": 6,
+      "text": "将煮好的牛奶液倒入蛋液中，混合均匀，制成布丁液。"
+    },
+    {
+      "no": 7,
+      "text": "将布丁液过筛至另一个容器中，这样可使布丁成品的口感更细腻。"
+    },
+    {
+      "no": 8,
+      "text": "草莓切成小粒，将草莓丁逐个放入挞皮中，逐个倒入布丁液。"
+    },
+    {
+      "no": 9,
+      "text": "放入预热好的烤箱中。"
+    },
+    {
+      "no": 10,
+      "text": "选择“常规烘焙”模式，以180℃烤20分钟。"
+    },
+    {
+      "no": 11,
+      "text": "取出，再逐个放上草莓粒即可。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将牛奶倒入锅中，加入淡奶油",
+      "device_raw": "锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 1,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将牛奶倒入锅中，加入淡奶油。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "倒入细砂糖",
+      "device_raw": null,
+      "device": "灶具",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 1,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "倒入细砂糖。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "拌匀后用小火加热至细砂糖完全溶化",
+      "device_raw": null,
+      "device": "灶具",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": "小火",
+      "heat_level": 2,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 3,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "拌匀，用小火加热至细砂糖完全溶化。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将蛋黄和鸡蛋倒入容器中搅拌均匀",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "蛋黄和鸡蛋倒入容器中，搅拌均匀。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "倒入蜂蜜混合均匀",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "倒入蜂蜜，混合均匀。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "将煮好的牛奶液倒入蛋液中混合均匀，制成布丁液",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3",
+        "s5"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将煮好的牛奶液倒入蛋液中，混合均匀，制成布丁液。"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "将布丁液过筛至另一个容器中",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s6"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将布丁液过筛至另一个容器中，这样可使布丁成品的口感更细腻。"
+    },
+    {
+      "step_id": "s8",
+      "source_step_no": 8,
+      "action": "将草莓切粒后逐个放入挞皮，再逐个倒入布丁液",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s7"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "草莓切成小粒，将草莓丁逐个放入挞皮中，逐个倒入布丁液。"
+    },
+    {
+      "step_id": "s9",
+      "source_step_no": 9,
+      "action": "放入预热好的烤箱中",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": true,
+        "duration_min": 10,
+        "source": "estimated",
+        "whole_device_exclusive": true,
+        "placement": "before_step"
+      },
+      "depends_on": [
+        "s8"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "放入预热好的烤箱中。"
+    },
+    {
+      "step_id": "s10",
+      "source_step_no": 10,
+      "action": "选择常规烘焙模式，以180℃烤20分钟",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": "常规烘焙",
+      "mode": "上下火",
+      "mode_source": "normalized",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 180,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 21,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 21,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s9"
+      ],
+      "temperature_c": 180,
+      "temperature_source": "explicit",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "选择“常规烘焙”模式，以180℃烤20分钟。"
+    },
+    {
+      "step_id": "s11",
+      "source_step_no": 11,
+      "action": "取出蛋挞，再逐个放上草莓粒",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s10"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "取出，再逐个放上草莓粒即可。"
+    }
+  ]
+}

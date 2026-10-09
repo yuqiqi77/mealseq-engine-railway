@@ -1,0 +1,557 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5caf2ddbe78bfc455f2d5c96",
+  "name": "糖霜饼干",
+  "ingredients_raw": "A料：低筋面粉110g；细杏仁粉15g；黄油60g；细砂糖35g；牛奶15g；B料：蛋白粉5g；糖粉150g；凉开水25g；水溶性食用色素适量",
+  "ingredients": [
+    {
+      "name": "低筋面粉",
+      "amount_text": "110g",
+      "quantity": 110,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "A料：低筋面粉110g"
+    },
+    {
+      "name": "细杏仁粉",
+      "amount_text": "15g",
+      "quantity": 15,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "细杏仁粉15g"
+    },
+    {
+      "name": "黄油",
+      "amount_text": "60g",
+      "quantity": 60,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "黄油60g"
+    },
+    {
+      "name": "细砂糖",
+      "amount_text": "35g",
+      "quantity": 35,
+      "unit": "克",
+      "role": "主料",
+      "category": "调味品",
+      "source_text": "细砂糖35g"
+    },
+    {
+      "name": "牛奶",
+      "amount_text": "15g",
+      "quantity": 15,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "牛奶15g"
+    },
+    {
+      "name": "蛋白粉",
+      "amount_text": "5g",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "荤菜",
+      "source_text": "B料：蛋白粉5g"
+    },
+    {
+      "name": "糖粉",
+      "amount_text": "150g",
+      "quantity": 150,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "糖粉150g"
+    },
+    {
+      "name": "凉开水",
+      "amount_text": "25g",
+      "quantity": 25,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "凉开水25g"
+    },
+    {
+      "name": "水溶性食用色素",
+      "amount_text": "适量",
+      "quantity": null,
+      "unit": null,
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "水溶性食用色素适量"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "黄油切小块室温软化，加入细砂糖，用电动打蛋器打发至体积蓬松、颜色变浅。"
+    },
+    {
+      "no": 2,
+      "text": "加入牛奶，继续搅打均匀，使其呈质地细腻状。"
+    },
+    {
+      "no": 3,
+      "text": "筛入低筋面粉，加入杏仁粉，用刮刀搅拌均匀。"
+    },
+    {
+      "no": 4,
+      "text": "将面团放在烘焙纸上，盖上保鲜袋，用擀面杖擀成为厚度均匀的面片（0.5厘米），放入冰箱冷冻冻硬。"
+    },
+    {
+      "no": 5,
+      "text": "取出冻硬的面片，用饼干模刻出形状，移入垫有烘焙纸的烤盘中，刻完后剩余的面皮合并压实后参照以上步骤再次操作，直至面皮基本用完。"
+    },
+    {
+      "no": 6,
+      "text": "把烤盘放入烤箱第3层，选择“开始烹饪”按键，按屏幕提示操作。如使用的饼干模具大小有差异，烘烤时间请酌情调整，烤制完成的饼干取出放凉。"
+    },
+    {
+      "no": 7,
+      "text": "将蛋白粉、糖粉、凉开水倒入小碗中搅拌均匀，凉开水的量依据所需糖霜的稀稠度酌情加减。"
+    },
+    {
+      "no": 8,
+      "text": "将糖霜调入色素搅拌均匀（也可不加）。"
+    },
+    {
+      "no": 9,
+      "text": "裱花袋剪出合适大小的口子，装入合适的裱花嘴（常用最小号圆嘴），倒入糖霜，在饼干上画出各式图样，放在烤架上晾干至糖霜全部变硬。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "黄油切小块室温软化，加入细砂糖，用电动打蛋器打发至体积蓬松、颜色变浅",
+      "device_raw": "电动打蛋器",
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 30,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 30.0,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "human_active_min": 30.0,
+      "human_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "黄油切小块室温软化，加入细砂糖，用电动打蛋器打发至体积蓬松、颜色变浅。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "加入牛奶，继续搅打均匀至质地细腻",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "加入牛奶，继续搅打均匀，使其呈质地细腻状。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "筛入低筋面粉，加入杏仁粉，用刮刀搅拌均匀",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 4,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 4,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 4,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "筛入低筋面粉，加入杏仁粉，用刮刀搅拌均匀。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将面团放在烘焙纸上，盖上保鲜袋，擀成0.5厘米面片，放入冰箱冷冻冻硬",
+      "device_raw": "冰箱",
+      "device": "冰箱",
+      "device_source": "explicit",
+      "mode_raw": "冷冻",
+      "mode": "冷冻",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "冷冻室",
+          "value_c": -18,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 65,
+      "duration_source": "estimated",
+      "device_active_start_min": 5,
+      "device_active_min": 60,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "temperature_c": -18,
+      "temperature_source": "estimated",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "将面团放在烘焙纸上，盖上保鲜袋，用擀面杖擀成为厚度均匀的面片（0.5厘米），放入冰箱冷冻冻硬。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "取出冻硬面片，用饼干模刻出形状，移入烤盘，剩余面皮合并压实后重复操作至用完",
+      "device_raw": null,
+      "device": "冰箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 20,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 20,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 20,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "取出冻硬的面片，用饼干模刻出形状，移入垫有烘焙纸的烤盘中，刻完后剩余的面皮合并压实后参照以上步骤再次操作，直至面皮基本用完。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "将烤盘放入烤箱第3层，选择开始烹饪并烘烤，烤好后取出放凉",
+      "device_raw": null,
+      "device": "冰箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 37,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1.0,
+      "additional_device_usages": [
+        {
+          "device": "烤箱",
+          "mode": "上下火",
+          "temperature_settings": [
+            {
+              "zone": "整体",
+              "value_c": 170,
+              "source": "estimated"
+            }
+          ],
+          "start_min": 0,
+          "duration_min": 17,
+          "action": "使用烤箱：将烤盘放入烤箱第3层，选择开始烹饪并烘烤，烤好后取出放凉"
+        }
+      ],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 16,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "device_active_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "把烤盘放入烤箱第3层，选择“开始烹饪”按键，按屏幕提示操作。如使用的饼干模具大小有差异，烘烤时间请酌情调整，烤制完成的饼干取出放凉。"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "将蛋白粉、糖粉、凉开水倒入小碗搅拌均匀，依稀稠度调整水量",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "将蛋白粉、糖粉、凉开水倒入小碗中搅拌均匀，凉开水的量依据所需糖霜的稀稠度酌情加减。"
+    },
+    {
+      "step_id": "s8",
+      "source_step_no": 8,
+      "action": "将糖霜调入色素搅拌均匀，也可不加色素",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s7"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "将糖霜调入色素搅拌均匀（也可不加）。"
+    },
+    {
+      "step_id": "s9",
+      "source_step_no": 9,
+      "action": "裱花袋剪口并装入裱花嘴，倒入糖霜在饼干上画图样，放烤架上晾干至糖霜变硬",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 70,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 10,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s6",
+        "s8"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 10,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "裱花袋剪出合适大小的口子，装入合适的裱花嘴（常用最小号圆嘴），倒入糖霜，在饼干上画出各式图样，放在烤架上晾干至糖霜全部变硬。"
+    }
+  ]
+}

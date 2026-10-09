@@ -1,0 +1,462 @@
+{
+  "schema_version": 5,
+  "recipe_id": "58e70ae1a3fd4a750f4b75af",
+  "name": "双椒鳙鱼头",
+  "ingredients_raw": "A料：鳙鱼头1个；B料：大葱2段；生姜2片；盐2克；料酒30克；C料：食用油30克；生姜2片；蒜2瓣；大蒜叶1根；豆豉30克；青剁椒75克；红剁椒75克；盐2克；水30克；料酒30克；淀粉水15克；D料：辣椒油45克",
+  "ingredients": [
+    {
+      "name": "鳙鱼头",
+      "amount_text": "1个",
+      "quantity": 1,
+      "unit": "个",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "A料：鳙鱼头1个"
+    },
+    {
+      "name": "大葱",
+      "amount_text": "2段",
+      "quantity": 2,
+      "unit": "段",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "B料：大葱2段"
+    },
+    {
+      "name": "生姜",
+      "amount_text": "2片",
+      "quantity": 2,
+      "unit": "片",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生姜2片"
+    },
+    {
+      "name": "盐",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐2克"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒30克"
+    },
+    {
+      "name": "食用油",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "C料：食用油30克"
+    },
+    {
+      "name": "生姜",
+      "amount_text": "2片",
+      "quantity": 2,
+      "unit": "片",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生姜2片"
+    },
+    {
+      "name": "蒜",
+      "amount_text": "2瓣",
+      "quantity": 2,
+      "unit": "瓣",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "蒜2瓣"
+    },
+    {
+      "name": "大蒜叶",
+      "amount_text": "1根",
+      "quantity": 1,
+      "unit": "根",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "大蒜叶1根"
+    },
+    {
+      "name": "豆豉",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "豆豉30克"
+    },
+    {
+      "name": "青剁椒",
+      "amount_text": "75克",
+      "quantity": 75,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "青剁椒75克"
+    },
+    {
+      "name": "红剁椒",
+      "amount_text": "75克",
+      "quantity": 75,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "红剁椒75克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐2克"
+    },
+    {
+      "name": "水",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "水30克"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒30克"
+    },
+    {
+      "name": "淀粉水",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "淀粉水15克"
+    },
+    {
+      "name": "辣椒油",
+      "amount_text": "45克",
+      "quantity": 45,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "D料：辣椒油45克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将鳙鱼头去除鱼鳞、鱼鳃和内脏，洗净并沥干水分，再沿着背鳍将鱼头对半劈开，鱼背肉厚处片刀。"
+    },
+    {
+      "no": 2,
+      "text": "将B中的葱段、姜片放在鱼盘底部，放入鳙鱼头，将盐均匀抹在鱼头上，倒入料酒，腌制10分钟。"
+    },
+    {
+      "no": 3,
+      "text": "将C中的姜切末，蒜切片，大蒜叶切段。"
+    },
+    {
+      "no": 4,
+      "text": "将炒锅加热，加入C中食用油，倒入姜末、蒜片、大葱段、大蒜叶段煸炒出香味，再将豆豉、青剁椒、红剁椒倒入锅中翻炒，加入盐、水、料酒，最后加入淀粉水勾芡，烧好的汤料浇在鳙鱼头上。"
+    },
+    {
+      "no": 5,
+      "text": "将蒸盘放入设备中间层。开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "no": 6,
+      "text": "烹饪结束后取出，将炒锅加热，倒入D中的辣椒油烧至七成热（略微冒烟），将热油均匀地淋在鱼身上，趁热食用。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将鳙鱼头去除鱼鳞、鱼鳃和内脏，洗净沥干，沿背鳍对半劈开，鱼背肉厚处片刀",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将鳙鱼头去除鱼鳞、鱼鳃和内脏，洗净并沥干水分，再沿着背鳍将鱼头对半劈开，鱼背肉厚处片刀。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将B中葱段、姜片铺在鱼盘底部，放入鳙鱼头，抹匀盐，倒入料酒腌制10分钟",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 12,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将B中的葱段、姜片放在鱼盘底部，放入鳙鱼头，将盐均匀抹在鱼头上，倒入料酒，腌制10分钟。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将C中姜切末、蒜切片、大蒜叶切段",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将C中的姜切末，蒜切片，大蒜叶切段。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "加热炒锅，加入C中食用油，煸炒姜末、蒜片、大葱段、大蒜叶段出香味，倒入豆豉、青剁椒、红剁椒翻炒，加盐、水、料酒，加淀粉水勾芡，将汤料浇在鳙鱼头上",
+      "device_raw": "炒锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 5,
+      "humidity": null,
+      "duration_min": 6,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 6,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 6,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2",
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 6,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将炒锅加热，加入C中食用油，倒入姜末、蒜片、大葱段、大蒜叶段煸炒出香味，再将豆豉、青剁椒、红剁椒倒入锅中翻炒，加入盐、水、料酒，最后加入淀粉水勾芡，烧好的汤料浇在鳙鱼头上。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将蒸盘放入蒸箱中间层，开启电源，取出水箱加满水，选择开始烹饪，按屏幕提示蒸制",
+      "device_raw": "设备",
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "普通蒸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 18,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 18,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将蒸盘放入设备中间层。开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "烹饪结束后取出，将炒锅加热，倒入D中辣椒油烧至七成热，淋在鱼身上，趁热食用",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 4,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "device_active_source": "estimated",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "烹饪结束后取出，将炒锅加热，倒入D中的辣椒油烧至七成热（略微冒烟），将热油均匀地淋在鱼身上，趁热食用。"
+    }
+  ]
+}

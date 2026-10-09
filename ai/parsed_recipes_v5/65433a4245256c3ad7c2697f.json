@@ -1,0 +1,432 @@
+{
+  "schema_version": 5,
+  "recipe_id": "65433a4245256c3ad7c2697f",
+  "name": "金龙吐瑞",
+  "ingredients_raw": "主料：鲈鱼500克；圣女果4克；辅料：料酒10毫升；盐3克；蒸鱼豉油20毫升；葱10克；姜10克；香菜10克",
+  "ingredients": [
+    {
+      "name": "鲈鱼",
+      "amount_text": "500克",
+      "quantity": 500,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "主料：鲈鱼500克"
+    },
+    {
+      "name": "圣女果",
+      "amount_text": "4克",
+      "quantity": 4,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "圣女果4克"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "10毫升",
+      "quantity": 10,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "辅料：料酒10毫升"
+    },
+    {
+      "name": "盐",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐3克"
+    },
+    {
+      "name": "蒸鱼豉油",
+      "amount_text": "20毫升",
+      "quantity": 20,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "蒸鱼豉油20毫升"
+    },
+    {
+      "name": "葱",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "葱10克"
+    },
+    {
+      "name": "姜",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "姜10克"
+    },
+    {
+      "name": "香菜",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "香菜10克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "食材准备"
+    },
+    {
+      "no": 2,
+      "text": "鲈鱼两面横截三刀、葱切丝、姜切片备用"
+    },
+    {
+      "no": 3,
+      "text": "鱼放入碗中加入料酒和盐腌制15分钟"
+    },
+    {
+      "no": 4,
+      "text": "准备一鱼盘铺入姜片摆上腌制好的鱼，摆上葱丝、姜丝和香菜"
+    },
+    {
+      "no": 5,
+      "text": "放入方太智能烹饪设备，开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作"
+    },
+    {
+      "no": 6,
+      "text": "蒸好之后淋上蒸鱼豉油，最后将圣女果摆入鲈鱼嘴中，烹饪完成即可食用"
+    },
+    {
+      "no": 7,
+      "text": "尽情品尝吧"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "准备所有食材",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "食材准备"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将鲈鱼两面横截三刀，葱切丝，姜切片备用",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "鲈鱼两面横截三刀、葱切丝、姜切片备用"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将鲈鱼放入碗中，加入料酒和盐腌制15分钟",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 16,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "鱼放入碗中加入料酒和盐腌制15分钟"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "在鱼盘铺入姜片，摆上腌制好的鱼，再摆上葱丝、姜丝和香菜",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2",
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "准备一鱼盘铺入姜片摆上腌制好的鱼，摆上葱丝、姜丝和香菜"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将鱼盘放入方太智能烹饪设备，开启电源，水箱加满水，选择开始烹饪并按屏幕提示操作完成蒸制",
+      "device_raw": "方太智能烹饪设备",
+      "device": "蒸箱",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": "普通蒸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 12,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 12,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "放入方太智能烹饪设备，开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "取出蒸好的鲈鱼，淋上蒸鱼豉油，将圣女果摆入鲈鱼嘴中，完成即可食用",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "蒸好之后淋上蒸鱼豉油，最后将圣女果摆入鲈鱼嘴中，烹饪完成即可食用"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "品尝做好的金龙吐瑞",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s6"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "尽情品尝吧"
+    }
+  ]
+}

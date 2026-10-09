@@ -1,0 +1,331 @@
+{
+  "schema_version": 5,
+  "recipe_id": "661369554b3d03197733ac5a",
+  "name": "香烤排骨",
+  "ingredients_raw": "主料：猪肋排550克；辅料：蒜泥5克；盐2克；白糖3克；五香粉1克；孜然粉3克；辣椒粉3克；食用油10克；料酒10克；生抽10克；蚝油10克；老抽2克",
+  "ingredients": [
+    {
+      "name": "猪肋排",
+      "amount_text": "550克",
+      "quantity": 550,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "主料：猪肋排550克"
+    },
+    {
+      "name": "蒜泥",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "辅料：蒜泥5克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐2克"
+    },
+    {
+      "name": "白糖",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白糖3克"
+    },
+    {
+      "name": "五香粉",
+      "amount_text": "1克",
+      "quantity": 1,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "五香粉1克"
+    },
+    {
+      "name": "孜然粉",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "孜然粉3克"
+    },
+    {
+      "name": "辣椒粉",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "辣椒粉3克"
+    },
+    {
+      "name": "食用油",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "食用油10克"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒10克"
+    },
+    {
+      "name": "生抽",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生抽10克"
+    },
+    {
+      "name": "蚝油",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "蚝油10克"
+    },
+    {
+      "name": "老抽",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "老抽2克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "取肋排550克剁约8厘米长段。"
+    },
+    {
+      "no": 2,
+      "text": "将肋排用清水浸泡半小时泡出血水沥干。"
+    },
+    {
+      "no": 3,
+      "text": "烤排骨：取长段的排骨，加入2克盐、3克白糖、5克蒜泥、1克五香粉、3克孜然粉、3克辣椒粉、10毫升食用油、10毫升料酒、10毫升生抽、10克蚝油和2毫升老抽，抓拌均匀。放冰箱腌制2h。"
+    },
+    {
+      "no": 4,
+      "text": "在蒸烤盘上铺上铝箔，均匀地将排骨摆在盘中。将蒸烤盘放入烹饪机中间层，开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "取肋排550克剁成约8厘米长段",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "取肋排550克剁约8厘米长段。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将肋排用清水浸泡半小时泡出血水并沥干",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 31,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 30,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将肋排用清水浸泡半小时泡出血水沥干。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将排骨与所有调料抓拌均匀，放冰箱冷藏腌制2小时",
+      "device_raw": "冰箱",
+      "device": "冰箱",
+      "device_source": "explicit",
+      "mode_raw": "腌制",
+      "mode": "冷藏",
+      "mode_source": "normalized",
+      "temperature_settings": [
+        {
+          "zone": "冷藏室",
+          "value_c": 4,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 122,
+      "duration_source": "estimated",
+      "device_active_start_min": 2,
+      "device_active_min": 120,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": 4,
+      "temperature_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "烤排骨：取长段的排骨，加入2克盐、3克白糖、5克蒜泥、1克五香粉、3克孜然粉、3克辣椒粉、10毫升食用油、10毫升料酒、10毫升生抽、10克蚝油和2毫升老抽，抓拌均匀。放冰箱腌制2h。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "在蒸烤盘铺铝箔摆好排骨，放入烹饪机中间层，加水并选择开始烹饪",
+      "device_raw": "烹饪机",
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "加湿烤",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 200,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": "中",
+      "duration_min": 40,
+      "duration_source": "estimated",
+      "device_active_start_min": 3,
+      "device_active_min": 37,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "temperature_c": 200,
+      "temperature_source": "estimated",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "在蒸烤盘上铺上铝箔，均匀地将排骨摆在盘中。将蒸烤盘放入烹饪机中间层，开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作。"
+    }
+  ]
+}

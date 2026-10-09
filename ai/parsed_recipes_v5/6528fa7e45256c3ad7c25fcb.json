@@ -1,0 +1,563 @@
+{
+  "schema_version": 5,
+  "recipe_id": "6528fa7e45256c3ad7c25fcb",
+  "name": "豆沙松糕",
+  "ingredients_raw": "主料：粘米粉200克；糯米粉80克；辅料：水150克；绵白糖40克；豆沙馅150克",
+  "ingredients": [
+    {
+      "name": "粘米粉",
+      "amount_text": "200克",
+      "quantity": 200,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "主料：粘米粉200克"
+    },
+    {
+      "name": "糯米粉",
+      "amount_text": "80克",
+      "quantity": 80,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "糯米粉80克"
+    },
+    {
+      "name": "水",
+      "amount_text": "150克",
+      "quantity": 150,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "辅料：水150克"
+    },
+    {
+      "name": "绵白糖",
+      "amount_text": "40克",
+      "quantity": 40,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "绵白糖40克"
+    },
+    {
+      "name": "豆沙馅",
+      "amount_text": "150克",
+      "quantity": 150,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "豆沙馅150克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "食材准备"
+    },
+    {
+      "no": 2,
+      "text": "粘米粉、糯米粉、绵白糖混合均匀"
+    },
+    {
+      "no": 3,
+      "text": "边加水边翻拌成半湿的状态，再用双手搓成潮湿、松散的粉粒"
+    },
+    {
+      "no": 4,
+      "text": "将搓好的粉过筛"
+    },
+    {
+      "no": 5,
+      "text": "在模具底部喷上少许油，取一半细粉倒入铺平"
+    },
+    {
+      "no": 6,
+      "text": "放入方太智能烹饪设备，开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作"
+    },
+    {
+      "no": 7,
+      "text": "取出，铺上豆沙馅"
+    },
+    {
+      "no": 8,
+      "text": "将剩下的细粉倒入盖住豆沙馅，表面刮平"
+    },
+    {
+      "no": 9,
+      "text": "再次放入方太智能烹饪设备，选择蒸模式-普通蒸，100℃，25分钟，无需预热"
+    },
+    {
+      "no": 10,
+      "text": "放凉后切块即可，尽情享用美味的豆沙松糕吧"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "准备食材",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "食材准备"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将粘米粉、糯米粉、绵白糖混合均匀",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "粘米粉、糯米粉、绵白糖混合均匀"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "边加水边翻拌成半湿状态，再搓成潮湿松散的粉粒",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "边加水边翻拌成半湿的状态，再用双手搓成潮湿、松散的粉粒"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将搓好的粉过筛",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将搓好的粉过筛"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "模具底部喷少许油，取一半细粉倒入铺平",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "在模具底部喷上少许油，取一半细粉倒入铺平"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "放入蒸箱，开启电源并加满水箱，选择开始烹饪，按屏幕提示操作蒸制",
+      "device_raw": "方太智能烹饪设备",
+      "device": "蒸箱",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": "普通蒸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 12,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 12,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "放入方太智能烹饪设备，开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "取出蒸好的粉，铺上豆沙馅",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 2,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s6"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "取出，铺上豆沙馅"
+    },
+    {
+      "step_id": "s8",
+      "source_step_no": 8,
+      "action": "将剩下的细粉倒入盖住豆沙馅，表面刮平",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4",
+        "s7"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将剩下的细粉倒入盖住豆沙馅，表面刮平"
+    },
+    {
+      "step_id": "s9",
+      "source_step_no": 9,
+      "action": "再次放入蒸箱，选择普通蒸模式，100℃蒸25分钟，无需预热",
+      "device_raw": "方太智能烹饪设备",
+      "device": "蒸箱",
+      "device_source": "normalized",
+      "mode_raw": "蒸模式-普通蒸",
+      "mode": "普通蒸",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 27,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 27,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s8"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "explicit",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "再次放入方太智能烹饪设备，选择蒸模式-普通蒸，100℃，25分钟，无需预热"
+    },
+    {
+      "step_id": "s10",
+      "source_step_no": 10,
+      "action": "取出放凉后切块，享用",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 30,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 25,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s9"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 6,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "放凉后切块即可，尽情享用美味的豆沙松糕吧"
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "schema_version": 5,
+  "recipe_id": "64706f406f734220a4e24b57",
+  "name": "竹荪排骨汤",
+  "ingredients_raw": "主料：排骨300克；竹荪50克；辅料：干香菇2朵；料酒10毫升；生姜30克；小葱2根；食盐2克；香油5毫升；枸杞5克；香菜2根",
+  "ingredients": [
+    {
+      "name": "排骨",
+      "amount_text": "300克",
+      "quantity": 300,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "主料：排骨300克"
+    },
+    {
+      "name": "竹荪",
+      "amount_text": "50克",
+      "quantity": 50,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "竹荪50克"
+    },
+    {
+      "name": "干香菇",
+      "amount_text": "2朵",
+      "quantity": 2,
+      "unit": "朵",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "辅料：干香菇2朵"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "10毫升",
+      "quantity": 10,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒10毫升"
+    },
+    {
+      "name": "生姜",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生姜30克"
+    },
+    {
+      "name": "小葱",
+      "amount_text": "2根",
+      "quantity": 2,
+      "unit": "根",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "小葱2根"
+    },
+    {
+      "name": "食盐",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "食盐2克"
+    },
+    {
+      "name": "香油",
+      "amount_text": "5毫升",
+      "quantity": 5,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "香油5毫升"
+    },
+    {
+      "name": "枸杞",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "枸杞5克"
+    },
+    {
+      "name": "香菜",
+      "amount_text": "2根",
+      "quantity": 2,
+      "unit": "根",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "香菜2根"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "准备食材"
+    },
+    {
+      "no": 2,
+      "text": "竹荪、干香菇温水泡发备用"
+    },
+    {
+      "no": 3,
+      "text": "生姜切片，小葱洗净打成葱节；香菜洗净切碎备用"
+    },
+    {
+      "no": 4,
+      "text": "方太灶具调至8段火（大火），倒入开水，放入姜片及葱节，加入料酒，下排骨焯水"
+    },
+    {
+      "no": 5,
+      "text": "焯好的排骨沥干，置于大碗中"
+    },
+    {
+      "no": 6,
+      "text": "放入泡发的竹荪、香菇以及枸杞，加入清水淹没，盖上保鲜膜。将装有食材的盘子放入蒸烤架/蒸烤盘"
+    },
+    {
+      "no": 7,
+      "text": "开启电源，取出水箱加满水，将蒸烤盘/蒸烤架放入中间层，选择【开始烹饪】按键，按屏幕提示操作即可"
+    },
+    {
+      "no": 8,
+      "text": "蒸好取出，加入香油、食盐调味"
+    },
+    {
+      "no": 9,
+      "text": "烹饪结束，放上香菜碎点缀，即可享用"
+    },
+    {
+      "no": 10,
+      "text": "竹荪排骨汤就做好了"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "准备食材",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "准备食材"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将竹荪和干香菇用温水泡发备用",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 30,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "竹荪、干香菇温水泡发备用"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将生姜切片，小葱洗净打葱节，香菜洗净切碎备用",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "生姜切片，小葱洗净打成葱节；香菜洗净切碎备用"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "用方太灶具大火倒入开水，放入姜片葱节和料酒，下排骨焯水",
+      "device_raw": "方太灶具",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": "8段火（大火）",
+      "heat_level": 6,
+      "humidity": null,
+      "duration_min": 8,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 8,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1",
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "方太灶具调至8段火（大火），倒入开水，放入姜片及葱节，加入料酒，下排骨焯水"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将焯好的排骨沥干后置于大碗中",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "焯好的排骨沥干，置于大碗中"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "放入泡发的竹荪、香菇和枸杞，加清水淹没，盖上保鲜膜，将盘子放到蒸烤架/蒸烤盘上",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1",
+        "s2",
+        "s5"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "放入泡发的竹荪、香菇以及枸杞，加入清水淹没，盖上保鲜膜。将装有食材的盘子放入蒸烤架/蒸烤盘"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "开启电源，水箱加满水，将蒸烤盘/蒸烤架放入中间层，选择开始烹饪并按屏幕提示操作",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "普通蒸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 40,
+      "duration_source": "estimated",
+      "device_active_start_min": 1,
+      "device_active_min": 39,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 1,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s6"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "开启电源，取出水箱加满水，将蒸烤盘/蒸烤架放入中间层，选择【开始烹饪】按键，按屏幕提示操作即可"
+    },
+    {
+      "step_id": "s8",
+      "source_step_no": 8,
+      "action": "将蒸好的汤取出，加入香油和食盐调味",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 1,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s7"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "蒸好取出，加入香油、食盐调味"
+    },
+    {
+      "step_id": "s9",
+      "source_step_no": 9,
+      "action": "放上香菜碎点缀即可享用",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s8",
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "烹饪结束，放上香菜碎点缀，即可享用"
+    },
+    {
+      "step_id": "s10",
+      "source_step_no": 10,
+      "action": "完成竹荪排骨汤",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s9"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 0,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": false,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "竹荪排骨汤就做好了"
+    }
+  ]
+}

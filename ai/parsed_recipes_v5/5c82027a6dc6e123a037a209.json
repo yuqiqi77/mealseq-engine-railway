@@ -1,0 +1,450 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5c82027a6dc6e123a037a209",
+  "name": "荷叶蒸蟹饭",
+  "ingredients_raw": "A料：青蟹1只；荷叶1张；糯米200克；B料：猪肉50克；盐1/6t；料酒1t；生抽1/2t；C料：姜2克；葱1克；食用油1.5T；盐1/6t；生抽0.6t；干香菇15克；胡萝卜50克",
+  "ingredients": [
+    {
+      "name": "青蟹",
+      "amount_text": "1只",
+      "quantity": 1,
+      "unit": "只",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "A料：青蟹1只"
+    },
+    {
+      "name": "荷叶",
+      "amount_text": "1张",
+      "quantity": 1,
+      "unit": "张",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "荷叶1张"
+    },
+    {
+      "name": "糯米",
+      "amount_text": "200克",
+      "quantity": 200,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "糯米200克"
+    },
+    {
+      "name": "猪肉",
+      "amount_text": "50克",
+      "quantity": 50,
+      "unit": "克",
+      "role": "辅料",
+      "category": "荤菜",
+      "source_text": "B料：猪肉50克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "1/6t",
+      "quantity": 0.1667,
+      "unit": "t",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐1/6t"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "1t",
+      "quantity": 1,
+      "unit": "t",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒1t"
+    },
+    {
+      "name": "生抽",
+      "amount_text": "1/2t",
+      "quantity": 0.5,
+      "unit": "t",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生抽1/2t"
+    },
+    {
+      "name": "姜",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "C料：姜2克"
+    },
+    {
+      "name": "葱",
+      "amount_text": "1克",
+      "quantity": 1,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "葱1克"
+    },
+    {
+      "name": "食用油",
+      "amount_text": "1.5T",
+      "quantity": 1.5,
+      "unit": "T",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "食用油1.5T"
+    },
+    {
+      "name": "盐",
+      "amount_text": "1/6t",
+      "quantity": 0.1667,
+      "unit": "t",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐1/6t"
+    },
+    {
+      "name": "生抽",
+      "amount_text": "0.6t",
+      "quantity": 0.6,
+      "unit": "t",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生抽0.6t"
+    },
+    {
+      "name": "干香菇",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "干香菇15克"
+    },
+    {
+      "name": "胡萝卜",
+      "amount_text": "50克",
+      "quantity": 50,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "胡萝卜50克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将糯米泡2个小时，然后沥干，平铺在纱布上，然后将纱布放入无孔蒸盘内，放入蒸箱中间层。开启电源，取出水箱加满水，选择“普通蒸”模式，设置100℃、35分钟，按确认键，开始烹饪。"
+    },
+    {
+      "no": 2,
+      "text": "猪肉切成肉丁用B中原料腌制15分钟。"
+    },
+    {
+      "no": 3,
+      "text": "将青蟹刷洗干净，剁开，干香菇泡发切丁，胡萝卜切丁，姜切姜末，葱切葱花备用。"
+    },
+    {
+      "no": 4,
+      "text": "热锅，倒入食用油，放入C剩余原料炒熟。"
+    },
+    {
+      "no": 5,
+      "text": "将炒好的饭盛在荷叶上，然后在饭上面按照完整青蟹的模样摆放好蟹块。"
+    },
+    {
+      "no": 6,
+      "text": "将摆置好的荷叶蟹饭放在盘内，将盘子放在有孔蒸盘/蒸烤架上，放入机器中间层。开启电源，取出水箱加满水，选择“普通蒸”模式，设置100℃、18分钟，按确认键，开始烹饪，待烹饪结束后，取出趁热食用。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将糯米泡2小时沥干，平铺纱布后放入蒸箱中间层，加水并设置普通蒸100℃35分钟开始烹饪",
+      "device_raw": "蒸箱",
+      "device": "蒸箱",
+      "device_source": "explicit",
+      "mode_raw": "普通蒸",
+      "mode": "普通蒸",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 159,
+      "duration_source": "estimated",
+      "device_active_start_min": 124,
+      "device_active_min": 35,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 120,
+          "duration_min": 4,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": 100,
+      "temperature_source": "explicit",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将糯米泡2个小时，然后沥干，平铺在纱布上，然后将纱布放入无孔蒸盘内，放入蒸箱中间层。开启电源，取出水箱加满水，选择“普通蒸”模式，设置100℃、35分钟，按确认键，开始烹饪。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "猪肉切成肉丁，用B料腌制15分钟",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 17,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "猪肉切成肉丁用B中原料腌制15分钟。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将青蟹刷洗干净剁开，干香菇泡发切丁，胡萝卜切丁，姜切末，葱切花",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 12,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 12,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 12,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将青蟹刷洗干净，剁开，干香菇泡发切丁，胡萝卜切丁，姜切姜末，葱切葱花备用。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "热锅倒入食用油，放入C剩余原料炒熟",
+      "device_raw": "锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 4,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 5,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "热锅，倒入食用油，放入C剩余原料炒熟。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将炒好的饭盛在荷叶上，摆放好蟹块",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1",
+        "s3",
+        "s4"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将炒好的饭盛在荷叶上，然后在饭上面按照完整青蟹的模样摆放好蟹块。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "将荷叶蟹饭放盘放入蒸箱中间层，设置普通蒸100℃18分钟，蒸好后取出食用",
+      "device_raw": "机器",
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": "普通蒸",
+      "mode": "普通蒸",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 24,
+      "duration_source": "estimated",
+      "device_active_start_min": 3,
+      "device_active_min": 21,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        },
+        {
+          "start_min": 23,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "explicit",
+      "human_active_min": 6,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将摆置好的荷叶蟹饭放在盘内，将盘子放在有孔蒸盘/蒸烤架上，放入机器中间层。开启电源，取出水箱加满水，选择“普通蒸”模式，设置100℃、18分钟，按确认键，开始烹饪，待烹饪结束后，取出趁热食用。"
+    }
+  ]
+}

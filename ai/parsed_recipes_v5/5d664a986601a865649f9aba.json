@@ -1,0 +1,952 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5d664a986601a865649f9aba",
+  "name": "大理石饼干",
+  "ingredients_raw": "A料：低筋面粉150克；黄油80克；糖粉60克；蛋白25克；香草粉5克；B料：低筋面粉78克；可可粉12克；黄油48克；糖粉36克；鸡蛋液15克",
+  "ingredients": [
+    {
+      "name": "低筋面粉",
+      "amount_text": "150克",
+      "quantity": 150,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "A料：低筋面粉150克"
+    },
+    {
+      "name": "黄油",
+      "amount_text": "80克",
+      "quantity": 80,
+      "unit": "克",
+      "role": "主料",
+      "category": "调味品",
+      "source_text": "黄油80克"
+    },
+    {
+      "name": "糖粉",
+      "amount_text": "60克",
+      "quantity": 60,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "糖粉60克"
+    },
+    {
+      "name": "蛋白",
+      "amount_text": "25克",
+      "quantity": 25,
+      "unit": "克",
+      "role": "辅料",
+      "category": "荤菜",
+      "source_text": "蛋白25克"
+    },
+    {
+      "name": "香草粉",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "香草粉5克"
+    },
+    {
+      "name": "低筋面粉",
+      "amount_text": "78克",
+      "quantity": 78,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "B料：低筋面粉78克"
+    },
+    {
+      "name": "可可粉",
+      "amount_text": "12克",
+      "quantity": 12,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "可可粉12克"
+    },
+    {
+      "name": "黄油",
+      "amount_text": "48克",
+      "quantity": 48,
+      "unit": "克",
+      "role": "主料",
+      "category": "调味品",
+      "source_text": "黄油48克"
+    },
+    {
+      "name": "糖粉",
+      "amount_text": "36克",
+      "quantity": 36,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "糖粉36克"
+    },
+    {
+      "name": "鸡蛋液",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "辅料",
+      "category": "荤菜",
+      "source_text": "鸡蛋液15克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "把低筋面粉倒在容器中，放入香草粉。"
+    },
+    {
+      "no": 2,
+      "text": "倒入糖粉、蛋清，搅匀。"
+    },
+    {
+      "no": 3,
+      "text": "倒入黄油。"
+    },
+    {
+      "no": 4,
+      "text": "将材料混合均匀。"
+    },
+    {
+      "no": 5,
+      "text": "揉搓成香草面团。"
+    },
+    {
+      "no": 6,
+      "text": "把低筋面粉倒在另一个容器中，放入可可粉。"
+    },
+    {
+      "no": 7,
+      "text": "倒入白糖、鸡蛋，用刮板搅匀。"
+    },
+    {
+      "no": 8,
+      "text": "加入黄油。"
+    },
+    {
+      "no": 9,
+      "text": "将材料混合均匀，揉搓圆，制成巧克力面团。"
+    },
+    {
+      "no": 10,
+      "text": "将巧克力面团、香草面团混合均匀。"
+    },
+    {
+      "no": 11,
+      "text": "揉搓成直径为4厘米的长条状。"
+    },
+    {
+      "no": 12,
+      "text": "用油纸将长条面团包住，放入冰箱冷冻20分钟至定型。"
+    },
+    {
+      "no": 13,
+      "text": "取出，撕去油纸，切成直径为0.5厘米等同的片状，制成饼干生坯。"
+    },
+    {
+      "no": 14,
+      "text": "将生坯放入垫有油纸的烤盘中。"
+    },
+    {
+      "no": 15,
+      "text": "放入烤箱中。"
+    },
+    {
+      "no": 16,
+      "text": "选择“常规烘焙”模式，以180℃烤制15分钟."
+    },
+    {
+      "no": 17,
+      "text": "打开箱门，取出烤好的饼干即可。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将低筋面粉倒入容器，加入香草粉",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "把低筋面粉倒在容器中，放入香草粉。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "倒入糖粉、蛋清，搅匀",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "倒入糖粉、蛋清，搅匀。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "倒入黄油",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "倒入黄油。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将材料混合均匀",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "将材料混合均匀。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "揉搓成香草面团",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "揉搓成香草面团。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "把低筋面粉倒在另一个容器中，放入可可粉",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "把低筋面粉倒在另一个容器中，放入可可粉。"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "倒入白糖、鸡蛋，用刮板搅匀",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s6"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "倒入白糖、鸡蛋，用刮板搅匀。"
+    },
+    {
+      "step_id": "s8",
+      "source_step_no": 8,
+      "action": "加入黄油",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s7"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "加入黄油。"
+    },
+    {
+      "step_id": "s9",
+      "source_step_no": 9,
+      "action": "将材料混合均匀，揉搓圆，制成巧克力面团",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s8"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "将材料混合均匀，揉搓圆，制成巧克力面团。"
+    },
+    {
+      "step_id": "s10",
+      "source_step_no": 10,
+      "action": "将巧克力面团、香草面团混合均匀",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s9",
+        "s5"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "将巧克力面团、香草面团混合均匀。"
+    },
+    {
+      "step_id": "s11",
+      "source_step_no": 11,
+      "action": "将面团揉搓成直径4厘米的长条状",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s10"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "揉搓成直径为4厘米的长条状。"
+    },
+    {
+      "step_id": "s12",
+      "source_step_no": 12,
+      "action": "用油纸包住长条面团，放入冰箱冷冻20分钟至定型",
+      "device_raw": "冰箱",
+      "device": "冰箱",
+      "device_source": "explicit",
+      "mode_raw": "冷冻",
+      "mode": "冷冻",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "冷冻室",
+          "value_c": -18,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 21,
+      "duration_source": "estimated",
+      "device_active_start_min": 1,
+      "device_active_min": 20,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s11"
+      ],
+      "temperature_c": -18,
+      "temperature_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "用油纸将长条面团包住，放入冰箱冷冻20分钟至定型。"
+    },
+    {
+      "step_id": "s13",
+      "source_step_no": 13,
+      "action": "取出冷冻面团，撕去油纸，切成0.5厘米片状，制成饼干生坯",
+      "device_raw": null,
+      "device": "冰箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "冷冻",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "冷冻室",
+          "value_c": -18,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s12"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": -18,
+      "temperature_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "取出，撕去油纸，切成直径为0.5厘米等同的片状，制成饼干生坯。"
+    },
+    {
+      "step_id": "s14",
+      "source_step_no": 14,
+      "action": "将生坯放入垫有油纸的烤盘中",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s13"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "将生坯放入垫有油纸的烤盘中。"
+    },
+    {
+      "step_id": "s15",
+      "source_step_no": 15,
+      "action": "将烤盘放入烤箱中",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s14"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "放入烤箱中。"
+    },
+    {
+      "step_id": "s16",
+      "source_step_no": 16,
+      "action": "选择常规烘焙模式，设置180℃，烤制15分钟",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": "常规烘焙",
+      "mode": "上下火",
+      "mode_source": "normalized",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 180,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 16,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 16,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s15"
+      ],
+      "temperature_c": 180,
+      "temperature_source": "explicit",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "选择“常规烘焙”模式，以180℃烤制15分钟."
+    },
+    {
+      "step_id": "s17",
+      "source_step_no": 17,
+      "action": "打开箱门，取出烤好的饼干",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s16"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "打开箱门，取出烤好的饼干即可。"
+    }
+  ]
+}

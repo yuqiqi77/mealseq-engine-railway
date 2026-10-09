@@ -1,0 +1,489 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5dad79866601a865649f9cb7",
+  "name": "家常鲈鱼",
+  "ingredients_raw": "主料：鲈鱼600克（约1条）；辅料：干辣椒段8克；姜丝10克；姜片15克；葱段10克；葱丝10克；蒸鱼豉油20毫升；胡椒粉3克；食用油10毫升",
+  "ingredients": [
+    {
+      "name": "鲈鱼",
+      "amount_text": "600克（约1条）",
+      "quantity": 600,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "主料：鲈鱼600克（约1条）"
+    },
+    {
+      "name": "干辣椒段",
+      "amount_text": "8克",
+      "quantity": 8,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "辅料：干辣椒段8克"
+    },
+    {
+      "name": "姜丝",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "姜丝10克"
+    },
+    {
+      "name": "姜片",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "姜片15克"
+    },
+    {
+      "name": "葱段",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "葱段10克"
+    },
+    {
+      "name": "葱丝",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "葱丝10克"
+    },
+    {
+      "name": "蒸鱼豉油",
+      "amount_text": "20毫升",
+      "quantity": 20,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "蒸鱼豉油20毫升"
+    },
+    {
+      "name": "胡椒粉",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "胡椒粉3克"
+    },
+    {
+      "name": "食用油",
+      "amount_text": "10毫升",
+      "quantity": 10,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "食用油10毫升"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将宰杀处理干净的鲈鱼两面划上一字花刀。"
+    },
+    {
+      "no": 2,
+      "text": "将葱段、姜片一起铺在盘子上，然后将鲈鱼放在上面。"
+    },
+    {
+      "no": 3,
+      "text": "鱼腹中放一些葱段和姜片；鱼背上放上一些葱段和姜丝。"
+    },
+    {
+      "no": 4,
+      "text": "将鲈鱼放入蒸盘中，再放入蒸箱。"
+    },
+    {
+      "no": 5,
+      "text": "选择“普通蒸”模式，以100℃蒸8分钟至熟。"
+    },
+    {
+      "no": 6,
+      "text": "打开箱门，将蒸好的鲈鱼取出，将盘底的少量汁水慢慢地倒掉，将鱼背上的葱段和姜丝去掉，再撒上葱丝和干辣椒段。"
+    },
+    {
+      "no": 7,
+      "text": "将炒锅中倒入食用油烧热，加热至沸腾后浇在鲈鱼背上。"
+    },
+    {
+      "no": 8,
+      "text": "再浇上蒸鱼豉油即可。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将鲈鱼两面划上一字花刀",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将宰杀处理干净的鲈鱼两面划上一字花刀。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将葱段、姜片铺在盘子上，再放上鲈鱼",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将葱段、姜片一起铺在盘子上，然后将鲈鱼放在上面。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "鱼腹放葱段和姜片，鱼背放葱段和姜丝",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "鱼腹中放一些葱段和姜片；鱼背上放上一些葱段和姜丝。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将鲈鱼放入蒸盘，再放入蒸箱",
+      "device_raw": "蒸箱",
+      "device": "蒸箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将鲈鱼放入蒸盘中，再放入蒸箱。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "选择普通蒸模式，以100℃蒸8分钟至熟",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": "普通蒸",
+      "mode": "普通蒸",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 9,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 9,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "explicit",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "选择“普通蒸”模式，以100℃蒸8分钟至熟。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "打开箱门取出鲈鱼，倒掉盘底汁水，去掉葱段和姜丝，撒上葱丝和干辣椒段",
+      "device_raw": "箱门",
+      "device": "蒸箱",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "打开箱门，将蒸好的鲈鱼取出，将盘底的少量汁水慢慢地倒掉，将鱼背上的葱段和姜丝去掉，再撒上葱丝和干辣椒段。"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "炒锅倒入食用油烧热至沸腾，浇在鲈鱼背上",
+      "device_raw": "炒锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 6,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 2,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s6"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将炒锅中倒入食用油烧热，加热至沸腾后浇在鲈鱼背上。"
+    },
+    {
+      "step_id": "s8",
+      "source_step_no": 8,
+      "action": "浇上蒸鱼豉油",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s7"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "再浇上蒸鱼豉油即可。"
+    }
+  ]
+}

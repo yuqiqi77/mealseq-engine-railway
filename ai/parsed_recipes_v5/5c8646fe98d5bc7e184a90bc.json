@@ -1,0 +1,433 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5c8646fe98d5bc7e184a90bc",
+  "name": "鸡仔饼",
+  "ingredients_raw": "A料：猪肥肉100g；细砂糖60g；白酒20g；B料：中筋面粉200g；酥花生碎30g；白芝麻30g；盐3g；麦芽糖75g；五香粉1g；白胡椒粉1g；南乳汁12g；蒜蓉30g；C料：鸡蛋1个",
+  "ingredients": [
+    {
+      "name": "猪肥肉",
+      "amount_text": "100g",
+      "quantity": 100,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "A料：猪肥肉100g"
+    },
+    {
+      "name": "细砂糖",
+      "amount_text": "60g",
+      "quantity": 60,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "细砂糖60g"
+    },
+    {
+      "name": "白酒",
+      "amount_text": "20g",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白酒20g"
+    },
+    {
+      "name": "中筋面粉",
+      "amount_text": "200g",
+      "quantity": 200,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "B料：中筋面粉200g"
+    },
+    {
+      "name": "酥花生碎",
+      "amount_text": "30g",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "酥花生碎30g"
+    },
+    {
+      "name": "白芝麻",
+      "amount_text": "30g",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "白芝麻30g"
+    },
+    {
+      "name": "盐",
+      "amount_text": "3g",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐3g"
+    },
+    {
+      "name": "麦芽糖",
+      "amount_text": "75g",
+      "quantity": 75,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "麦芽糖75g"
+    },
+    {
+      "name": "五香粉",
+      "amount_text": "1g",
+      "quantity": 1,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "五香粉1g"
+    },
+    {
+      "name": "白胡椒粉",
+      "amount_text": "1g",
+      "quantity": 1,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白胡椒粉1g"
+    },
+    {
+      "name": "南乳汁",
+      "amount_text": "12g",
+      "quantity": 12,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "南乳汁12g"
+    },
+    {
+      "name": "蒜蓉",
+      "amount_text": "30g",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "蒜蓉30g"
+    },
+    {
+      "name": "鸡蛋",
+      "amount_text": "1个",
+      "quantity": 1,
+      "unit": "个",
+      "role": "辅料",
+      "category": "荤菜",
+      "source_text": "C料：鸡蛋1个"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将肥肉洗净切粒装大碗内，加入细砂糖和白酒拌匀后，包上保鲜膜，冷冻24小时以上，制成冰肉。"
+    },
+    {
+      "no": 2,
+      "text": "将中筋面粉过筛，放入料理盆中，加入冰肉和B中其它原料，揉合成面团。"
+    },
+    {
+      "no": 3,
+      "text": "将面团分成每个约重25g的剂子，再逐一搓圆，放入铺有油纸的烤盘里，压成饼状。"
+    },
+    {
+      "no": 4,
+      "text": "取鸡蛋一个磕破，分离出蛋黄，将蛋黄放入碗里，用毛刷给每个饼表面刷上蛋黄液。"
+    },
+    {
+      "no": 5,
+      "text": "打开烤箱，把烤盘放入第3层，选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "no": 6,
+      "text": "烹饪结束后取出即可。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将肥肉洗净切粒，加入细砂糖和白酒拌匀，包保鲜膜后冷冻24小时以上制成冰肉",
+      "device_raw": null,
+      "device": "冰箱",
+      "device_source": "inferred",
+      "mode_raw": "冷冻",
+      "mode": "冷冻",
+      "mode_source": "explicit",
+      "temperature_c": -18,
+      "temperature_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "冷冻室",
+          "value_c": -18,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1447,
+      "duration_source": "estimated",
+      "human_active_min": 7,
+      "human_active_source": "estimated",
+      "device_active_start_min": 7,
+      "device_active_min": 1440,
+      "device_active_source": "explicit",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 7,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将肥肉洗净切粒装大碗内，加入细砂糖和白酒拌匀后，包上保鲜膜，冷冻24小时以上，制成冰肉。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将中筋面粉过筛放入料理盆，加入冰肉和B中其它原料揉合成面团",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 10,
+      "duration_source": "estimated",
+      "human_active_min": 10,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 10,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将中筋面粉过筛，放入料理盆中，加入冰肉和B中其它原料，揉合成面团。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将面团分成每个约重25g的剂子，再逐一搓圆，放入铺有油纸的烤盘里压成饼状",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 15,
+      "duration_source": "estimated",
+      "human_active_min": 15,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 15,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将面团分成每个约重25g的剂子，再逐一搓圆，放入铺有油纸的烤盘里，压成饼状。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "取鸡蛋一个磕破并分离出蛋黄，将蛋黄放入碗里，用毛刷给每个饼表面刷上蛋黄液",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 6,
+      "duration_source": "estimated",
+      "human_active_min": 6,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 6,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "取鸡蛋一个磕破，分离出蛋黄，将蛋黄放入碗里，用毛刷给每个饼表面刷上蛋黄液。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "打开烤箱把烤盘放入第3层，选择开始烹饪按键，按屏幕提示操作至烹饪结束",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": "上下火",
+      "mode_source": "estimated",
+      "temperature_c": 170,
+      "temperature_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 170,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 19,
+      "duration_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 19,
+      "device_active_source": "estimated",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "打开烤箱，把烤盘放入第3层，选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "烹饪结束后取出即可",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "device_active_source": "estimated",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "烹饪结束后取出即可。"
+    }
+  ]
+}

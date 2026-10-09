@@ -1,0 +1,392 @@
+{
+  "schema_version": 5,
+  "recipe_id": "65795251c458a177d8438e01",
+  "name": "虾米豆豉蒸排骨",
+  "ingredients_raw": "主料：排骨300克；辅料：油豆腐20克；虾米豆豉酱20克；生抽10克；料酒10克；生粉5克；砂糖3克；麻油2克；胡椒粉2克",
+  "ingredients": [
+    {
+      "name": "排骨",
+      "amount_text": "300克",
+      "quantity": 300,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "主料：排骨300克"
+    },
+    {
+      "name": "油豆腐",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "辅料：油豆腐20克"
+    },
+    {
+      "name": "虾米豆豉酱",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "虾米豆豉酱20克"
+    },
+    {
+      "name": "生抽",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生抽10克"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒10克"
+    },
+    {
+      "name": "生粉",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生粉5克"
+    },
+    {
+      "name": "砂糖",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "砂糖3克"
+    },
+    {
+      "name": "麻油",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "麻油2克"
+    },
+    {
+      "name": "胡椒粉",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "胡椒粉2克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "食材准备"
+    },
+    {
+      "no": 2,
+      "text": "将排骨冲水10分钟，洗净沥干；油豆腐切半备用"
+    },
+    {
+      "no": 3,
+      "text": "排骨中加入虾米豆豉酱、生抽、料酒、砂糖、胡椒粉、麻油及生粉腌10分钟"
+    },
+    {
+      "no": 4,
+      "text": "在蒸碟上放上油豆腐及排骨"
+    },
+    {
+      "no": 5,
+      "text": "放入方太智能烹饪设备，开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作"
+    },
+    {
+      "no": 6,
+      "text": "尽情享用美味的虾米豆豉蒸排骨吧"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "备齐全部食材",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "食材准备"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "排骨冲水10分钟后洗净沥干，油豆腐切半备用",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 12,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 12,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 12,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将排骨冲水10分钟，洗净沥干；油豆腐切半备用"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "排骨中加入虾米豆豉酱、生抽、料酒、砂糖、胡椒粉、麻油及生粉拌匀，腌制10分钟",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 11,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "排骨中加入虾米豆豉酱、生抽、料酒、砂糖、胡椒粉、麻油及生粉腌10分钟"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "在蒸碟上放上油豆腐及排骨",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2",
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "在蒸碟上放上油豆腐及排骨"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将蒸碟放入方太智能烹饪设备，开启电源，取出水箱加满水，按“开始烹饪”键并依屏幕提示蒸制",
+      "device_raw": "方太智能烹饪设备",
+      "device": "蒸箱",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": "普通蒸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 25,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 25,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "放入方太智能烹饪设备，开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "取出蒸好的虾米豆豉蒸排骨并享用",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1.0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "device_active_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "尽情享用美味的虾米豆豉蒸排骨吧"
+    }
+  ]
+}

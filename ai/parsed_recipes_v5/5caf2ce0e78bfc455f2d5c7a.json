@@ -1,0 +1,406 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5caf2ce0e78bfc455f2d5c7a",
+  "name": "土豆焖饭",
+  "ingredients_raw": "A料：米150克；水180；B料：土豆2个；蒜3瓣；料酒5克；豆瓣酱10克；老抽5克；生抽5克；糖5克；葱1根",
+  "ingredients": [
+    {
+      "name": "米",
+      "amount_text": "150克",
+      "quantity": 150,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "A料：米150克"
+    },
+    {
+      "name": "水",
+      "amount_text": "180",
+      "quantity": 180,
+      "unit": null,
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "水180"
+    },
+    {
+      "name": "土豆",
+      "amount_text": "2个",
+      "quantity": 2,
+      "unit": "个",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "B料：土豆2个"
+    },
+    {
+      "name": "蒜",
+      "amount_text": "3瓣",
+      "quantity": 3,
+      "unit": "瓣",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "蒜3瓣"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒5克"
+    },
+    {
+      "name": "豆瓣酱",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "豆瓣酱10克"
+    },
+    {
+      "name": "老抽",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "老抽5克"
+    },
+    {
+      "name": "生抽",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生抽5克"
+    },
+    {
+      "name": "糖",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "糖5克"
+    },
+    {
+      "name": "葱",
+      "amount_text": "1根",
+      "quantity": 1,
+      "unit": "根",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "葱1根"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "米洗净，加入180g清水，放入方太蒸箱，普通蒸模式，100℃20分钟蒸熟。"
+    },
+    {
+      "no": 2,
+      "text": "大蒜切片，土豆削皮切小块泡在水里备用。"
+    },
+    {
+      "no": 3,
+      "text": "炒锅入油，油烧热后倒入大蒜片爆香。"
+    },
+    {
+      "no": 4,
+      "text": "倒入沥干后的土豆块，翻炒至边角边边略略焦黄。"
+    },
+    {
+      "no": 5,
+      "text": "转小火，放入豆瓣酱炒香，再加入料酒、生抽、老抽、糖翻炒均匀上色，关火。"
+    },
+    {
+      "no": 6,
+      "text": "把炒过的土豆、大蒜片都倒进蒸好的米饭里，搅拌均匀，继续用普通蒸模式，100℃25分钟。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "米洗净，加180g清水，放入蒸箱，普通蒸模式100℃蒸20分钟",
+      "device_raw": "方太蒸箱",
+      "device": "蒸箱",
+      "device_source": "normalized",
+      "mode_raw": "普通蒸模式",
+      "mode": "普通蒸",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 23,
+      "duration_source": "estimated",
+      "device_active_start_min": 3,
+      "device_active_min": 20,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": 100,
+      "temperature_source": "explicit",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "米洗净，加入180g清水，放入方太蒸箱，普通蒸模式，100℃20分钟蒸熟。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "大蒜切片，土豆削皮切小块泡水备用",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "大蒜切片，土豆削皮切小块泡在水里备用。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "炒锅入油烧热，倒入大蒜片爆香",
+      "device_raw": "炒锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 4,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 3,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "炒锅入油，油烧热后倒入大蒜片爆香。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "倒入沥干土豆块，翻炒至边角略焦黄",
+      "device_raw": null,
+      "device": "灶具",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 5,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 5,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2",
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "倒入沥干后的土豆块，翻炒至边角边边略略焦黄。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "转小火，放入豆瓣酱炒香，加料酒、生抽、老抽、糖翻炒上色，关火",
+      "device_raw": null,
+      "device": "灶具",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": "小火",
+      "heat_level": 2,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 3,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "转小火，放入豆瓣酱炒香，再加入料酒、生抽、老抽、糖翻炒均匀上色，关火。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "炒好的土豆和大蒜片倒入蒸好的米饭，搅拌均匀，普通蒸模式100℃蒸25分钟",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": "普通蒸模式",
+      "mode": "普通蒸",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 28,
+      "duration_source": "estimated",
+      "device_active_start_min": 3,
+      "device_active_min": 25,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1",
+        "s5"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "explicit",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "把炒过的土豆、大蒜片都倒进蒸好的米饭里，搅拌均匀，继续用普通蒸模式，100℃25分钟。"
+    }
+  ]
+}

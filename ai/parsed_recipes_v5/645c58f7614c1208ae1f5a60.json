@@ -1,0 +1,559 @@
+{
+  "schema_version": 5,
+  "recipe_id": "645c58f7614c1208ae1f5a60",
+  "name": "蒸茄龙",
+  "ingredients_raw": "主料：长茄子2根；肉糜150克；辅料：蚝油5克；料酒8毫升；姜3片；葱2根；大蒜5瓣；糖10克；盐3克；生抽10毫升；香油5毫升",
+  "ingredients": [
+    {
+      "name": "长茄子",
+      "amount_text": "2根",
+      "quantity": 2,
+      "unit": "根",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "主料：长茄子2根"
+    },
+    {
+      "name": "肉糜",
+      "amount_text": "150克",
+      "quantity": 150,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "肉糜150克"
+    },
+    {
+      "name": "蚝油",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "辅料：蚝油5克"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "8毫升",
+      "quantity": 8,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒8毫升"
+    },
+    {
+      "name": "姜",
+      "amount_text": "3片",
+      "quantity": 3,
+      "unit": "片",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "姜3片"
+    },
+    {
+      "name": "葱",
+      "amount_text": "2根",
+      "quantity": 2,
+      "unit": "根",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "葱2根"
+    },
+    {
+      "name": "大蒜",
+      "amount_text": "5瓣",
+      "quantity": 5,
+      "unit": "瓣",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "大蒜5瓣"
+    },
+    {
+      "name": "糖",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "糖10克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐3克"
+    },
+    {
+      "name": "生抽",
+      "amount_text": "10毫升",
+      "quantity": 10,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生抽10毫升"
+    },
+    {
+      "name": "香油",
+      "amount_text": "5毫升",
+      "quantity": 5,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "香油5毫升"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "食材准备"
+    },
+    {
+      "no": 2,
+      "text": "肉馅中加入葱姜末、盐、料酒、生抽、食用油、香油"
+    },
+    {
+      "no": 3,
+      "text": "朝一个方向稍稍搅打上劲"
+    },
+    {
+      "no": 4,
+      "text": "长茄子去蒂切成夹刀片"
+    },
+    {
+      "no": 5,
+      "text": "切好的茄子每片之间塞满肉馅"
+    },
+    {
+      "no": 6,
+      "text": "码好放入盘中"
+    },
+    {
+      "no": 7,
+      "text": "开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "no": 8,
+      "text": "炒锅放底油，放入葱姜蒜末、糖、蚝油爆香，倒入蒸茄子的汤汁"
+    },
+    {
+      "no": 9,
+      "text": "热好的汤汁浇在茄龙上即可"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "准备所有食材",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "食材准备"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将葱姜末、盐、料酒、生抽、食用油、香油加入肉馅中",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "肉馅中加入葱姜末、盐、料酒、生抽、食用油、香油"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将肉馅朝一个方向搅打上劲",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "朝一个方向稍稍搅打上劲"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将长茄子去蒂后切成夹刀片",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "长茄子去蒂切成夹刀片"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将肉馅塞入切好的茄子夹刀片中",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3",
+        "s4"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "切好的茄子每片之间塞满肉馅"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "将塞好肉馅的茄子码放在盘中",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "码好放入盘中"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "给蒸箱水箱加水并启动蒸制，按屏幕提示操作",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "普通蒸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 15,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 15,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s6"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "step_id": "s8",
+      "source_step_no": 8,
+      "action": "在炒锅中放底油，加入葱姜蒜末、糖、蚝油爆香，倒入蒸茄子的汤汁",
+      "device_raw": "炒锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 4,
+      "humidity": null,
+      "duration_min": 4,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 4,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 4,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1",
+        "s7"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 4,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "炒锅放底油，放入葱姜蒜末、糖、蚝油爆香，倒入蒸茄子的汤汁"
+    },
+    {
+      "step_id": "s9",
+      "source_step_no": 9,
+      "action": "将热好的汤汁浇在蒸好的茄龙上",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s7",
+        "s8"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "热好的汤汁浇在茄龙上即可"
+    }
+  ]
+}

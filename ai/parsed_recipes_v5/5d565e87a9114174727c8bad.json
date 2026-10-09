@@ -1,0 +1,636 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5d565e87a9114174727c8bad",
+  "name": "半熟芝士蛋糕",
+  "ingredients_raw": "A料：芝士200克；牛奶100毫升；玉米淀粉20克；低筋面粉25克；黄油60克；蛋黄75克；细砂糖110克；蛋白105克",
+  "ingredients": [
+    {
+      "name": "芝士",
+      "amount_text": "200克",
+      "quantity": 200,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "芝士200克"
+    },
+    {
+      "name": "牛奶",
+      "amount_text": "100毫升",
+      "quantity": 100,
+      "unit": "毫升",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "牛奶100毫升"
+    },
+    {
+      "name": "玉米淀粉",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "玉米淀粉20克"
+    },
+    {
+      "name": "低筋面粉",
+      "amount_text": "25克",
+      "quantity": 25,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "低筋面粉25克"
+    },
+    {
+      "name": "黄油",
+      "amount_text": "60克",
+      "quantity": 60,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "黄油60克"
+    },
+    {
+      "name": "蛋黄",
+      "amount_text": "75克",
+      "quantity": 75,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "蛋黄75克"
+    },
+    {
+      "name": "细砂糖",
+      "amount_text": "110克",
+      "quantity": 110,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "细砂糖110克"
+    },
+    {
+      "name": "蛋白",
+      "amount_text": "105克",
+      "quantity": 105,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "蛋白105克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "锅置火上，倒入牛奶和黄油，拌匀至溶化。"
+    },
+    {
+      "no": 2,
+      "text": "放入芝士，开小火，拌匀，略煮，至材料完全融合。"
+    },
+    {
+      "no": 3,
+      "text": "关火待凉后倒入玉米淀粉、低筋面粉和蛋黄，搅拌匀，制成蛋黄油，待用。"
+    },
+    {
+      "no": 4,
+      "text": "取一容器，倒入蛋白、细砂糖。"
+    },
+    {
+      "no": 5,
+      "text": "用电动打蛋器快速搅拌一会儿，至蛋白九分发，呈鸡尾状。"
+    },
+    {
+      "no": 6,
+      "text": "将打发好的蛋白倒入蛋黄油中。"
+    },
+    {
+      "no": 7,
+      "text": "搅拌匀，使材料完全融化。"
+    },
+    {
+      "no": 8,
+      "text": "把拌好的材料注入圆形模具中，至八九分满，即成蛋糕生坯。"
+    },
+    {
+      "no": 9,
+      "text": "将生坯放入烤盘中，再推入预热的烤箱中。"
+    },
+    {
+      "no": 10,
+      "text": "择“分控烘焙”模式，以上火180℃下火165℃烤35分钟。"
+    },
+    {
+      "no": 11,
+      "text": "打开箱门，戴上隔热手套，把烤好的蛋糕取出，脱模即可。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将锅置火上，倒入牛奶和黄油，拌匀至溶化",
+      "device_raw": "锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 4,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 3,
+      "device_active_source": "estimated",
+      "depends_on": [],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "锅置火上，倒入牛奶和黄油，拌匀至溶化。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "放入芝士，开小火，拌匀，略煮至材料完全融合",
+      "device_raw": null,
+      "device": "灶具",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": "小火",
+      "heat_level": 2,
+      "humidity": null,
+      "duration_min": 4,
+      "duration_source": "estimated",
+      "human_active_min": 4,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 4,
+      "device_active_source": "estimated",
+      "depends_on": [
+        "s1"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 4,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "放入芝士，开小火，拌匀，略煮，至材料完全融合。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "关火待凉后倒入玉米淀粉、低筋面粉和蛋黄，搅拌匀，制成蛋黄油待用",
+      "device_raw": null,
+      "device": "灶具",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 1,
+      "humidity": null,
+      "duration_min": 20,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1.0,
+      "device_active_source": "estimated",
+      "depends_on": [
+        "s2"
+      ],
+      "requires_human": true,
+      "can_run_unattended": true,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1.0,
+          "source": "estimated"
+        },
+        {
+          "start_min": 17.0,
+          "duration_min": 3.0,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "human_active_min": 4.0,
+      "human_active_source": "estimated",
+      "source_text": "关火待凉后倒入玉米淀粉、低筋面粉和蛋黄，搅拌匀，制成蛋黄油，待用。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "取一容器，倒入蛋白和细砂糖",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "depends_on": [],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "取一容器，倒入蛋白、细砂糖。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "用电动打蛋器快速搅拌蛋白和细砂糖，至蛋白九分发，呈鸡尾状",
+      "device_raw": "电动打蛋器",
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "depends_on": [
+        "s4"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "用电动打蛋器快速搅拌一会儿，至蛋白九分发，呈鸡尾状。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "将打发好的蛋白倒入蛋黄油中",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "depends_on": [
+        "s3",
+        "s5"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "将打发好的蛋白倒入蛋黄油中。"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "搅拌匀，使材料完全融化",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "depends_on": [
+        "s6"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "搅拌匀，使材料完全融化。"
+    },
+    {
+      "step_id": "s8",
+      "source_step_no": 8,
+      "action": "把拌好的材料注入圆形模具中，至八九分满，制成蛋糕生坯",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "depends_on": [
+        "s7"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "把拌好的材料注入圆形模具中，至八九分满，即成蛋糕生坯。"
+    },
+    {
+      "step_id": "s9",
+      "source_step_no": 9,
+      "action": "将生坯放入烤盘中，再推入预热的烤箱中",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "device_active_source": "estimated",
+      "depends_on": [
+        "s8"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "preheat": {
+        "required": true,
+        "duration_min": 10.0,
+        "source": "estimated",
+        "whole_device_exclusive": true,
+        "placement": "before_step"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "将生坯放入烤盘中，再推入预热的烤箱中。"
+    },
+    {
+      "step_id": "s10",
+      "source_step_no": 10,
+      "action": "择分控烘焙模式，设定上火180℃、下火165℃烤35分钟",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": "分控烘焙",
+      "mode": "上下火",
+      "mode_source": "normalized",
+      "temperature_c": 180,
+      "temperature_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "上火",
+          "value_c": 180,
+          "source": "explicit"
+        },
+        {
+          "zone": "下火",
+          "value_c": 165,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 36,
+      "duration_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 36,
+      "device_active_source": "estimated",
+      "depends_on": [
+        "s9"
+      ],
+      "requires_human": true,
+      "can_run_unattended": true,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "择“分控烘焙”模式，以上火180℃下火165℃烤35分钟。"
+    },
+    {
+      "step_id": "s11",
+      "source_step_no": 11,
+      "action": "打开箱门，戴上隔热手套，把烤好的蛋糕取出，脱模即可",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "device_active_source": "estimated",
+      "depends_on": [
+        "s10"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "additional_device_usages": [],
+      "source_text": "打开箱门，戴上隔热手套，把烤好的蛋糕取出，脱模即可。"
+    }
+  ]
+}

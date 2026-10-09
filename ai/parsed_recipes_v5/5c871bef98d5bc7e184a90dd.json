@@ -1,0 +1,382 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5c871bef98d5bc7e184a90dd",
+  "name": "香烤鲫鱼",
+  "ingredients_raw": "主料：鲫鱼220克；辅料：姜片20克；干辣椒10克；葱花5克；盐1克；胡椒粉4克；料酒5毫升；食用油15毫升",
+  "ingredients": [
+    {
+      "name": "鲫鱼",
+      "amount_text": "220克",
+      "quantity": 220,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "主料：鲫鱼220克"
+    },
+    {
+      "name": "姜片",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "辅料：姜片20克"
+    },
+    {
+      "name": "干辣椒",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "干辣椒10克"
+    },
+    {
+      "name": "葱花",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "葱花5克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "1克",
+      "quantity": 1,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐1克"
+    },
+    {
+      "name": "胡椒粉",
+      "amount_text": "4克",
+      "quantity": 4,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "胡椒粉4克"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "5毫升",
+      "quantity": 5,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒5毫升"
+    },
+    {
+      "name": "食用油",
+      "amount_text": "15毫升",
+      "quantity": 15,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "食用油15毫升"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "洗净的鲫鱼装盘，放上姜片和干辣椒。"
+    },
+    {
+      "no": 2,
+      "text": "往两面鱼身上淋入料酒，撒上盐和适量胡椒粉，抹匀，腌渍10分钟至入味。"
+    },
+    {
+      "no": 3,
+      "text": "在烤盘中铺上锡纸，将烤串放在烤架上，刷上适量食用油。"
+    },
+    {
+      "no": 4,
+      "text": "将烤盘置入烤箱中。"
+    },
+    {
+      "no": 5,
+      "text": "选择“完全烧烤”模式，以200℃烤20分钟。"
+    },
+    {
+      "no": 6,
+      "text": "取出烤盘，放上葱花即可。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将洗净的鲫鱼装盘，放上姜片和干辣椒",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "洗净的鲫鱼装盘，放上姜片和干辣椒。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "往两面鱼身上淋入料酒，撒上盐和适量胡椒粉，抹匀，腌渍10分钟至入味",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 11,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "往两面鱼身上淋入料酒，撒上盐和适量胡椒粉，抹匀，腌渍10分钟至入味。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "在烤盘中铺上锡纸，将烤串放在烤架上，刷上适量食用油",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "在烤盘中铺上锡纸，将烤串放在烤架上，刷上适量食用油。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将烤盘置入烤箱中",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将烤盘置入烤箱中。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "选择“完全烧烤”模式，以200℃烤20分钟",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": "完全烧烤",
+      "mode": "全开烤",
+      "mode_source": "normalized",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 200,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 21,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 21,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": 200,
+      "temperature_source": "explicit",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "选择“完全烧烤”模式，以200℃烤20分钟。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "取出烤盘，放上葱花即可",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "取出烤盘，放上葱花即可。"
+    }
+  ]
+}

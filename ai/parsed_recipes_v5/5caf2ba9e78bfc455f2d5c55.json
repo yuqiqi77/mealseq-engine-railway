@@ -1,0 +1,398 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5caf2ba9e78bfc455f2d5c55",
+  "name": "松子枣泥拉糕",
+  "ingredients_raw": "A料：干红枣200g；清水1000g；B料：糯米粉300g；粳米粉200g；熟猪油100g；红豆沙100g；白糖150g；松子50g",
+  "ingredients": [
+    {
+      "name": "干红枣",
+      "amount_text": "200g",
+      "quantity": 200,
+      "unit": "g",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "A料：干红枣200g"
+    },
+    {
+      "name": "清水",
+      "amount_text": "1000g",
+      "quantity": 1000,
+      "unit": "g",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "清水1000g"
+    },
+    {
+      "name": "糯米粉",
+      "amount_text": "300g",
+      "quantity": 300,
+      "unit": "g",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "B料：糯米粉300g"
+    },
+    {
+      "name": "粳米粉",
+      "amount_text": "200g",
+      "quantity": 200,
+      "unit": "g",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "粳米粉200g"
+    },
+    {
+      "name": "熟猪油",
+      "amount_text": "100g",
+      "quantity": 100,
+      "unit": "g",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "熟猪油100g"
+    },
+    {
+      "name": "红豆沙",
+      "amount_text": "100g",
+      "quantity": 100,
+      "unit": "g",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "红豆沙100g"
+    },
+    {
+      "name": "白糖",
+      "amount_text": "150g",
+      "quantity": 150,
+      "unit": "g",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白糖150g"
+    },
+    {
+      "name": "松子",
+      "amount_text": "50g",
+      "quantity": 50,
+      "unit": "g",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "松子50g"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将干红枣洗净后放入大碗中，加入1000g温热水浸泡1小时。将浸泡好的红枣连同浸泡液一起放入蒸箱，设置100℃，蒸制30分钟。"
+    },
+    {
+      "no": 2,
+      "text": "待煮熟的红枣在浸泡液中冷却后去皮、去核取肉，捣烂成泥，浸泡液保留备用。"
+    },
+    {
+      "no": 3,
+      "text": "取一炒锅，烧热后倒入原料B中的熟猪油，融化后加入枣泥、豆沙、白糖，小火炒制成均匀的糊状后即可关火，再加入500g红枣浸泡液搅拌均匀，冷却备用。"
+    },
+    {
+      "no": 4,
+      "text": "将糯米粉与粳米粉混合，加入调制好的枣泥豆沙糊，用刮刀搅拌成均匀的粉糊状。"
+    },
+    {
+      "no": 5,
+      "text": "取一方形浅口模具，铺上硅油纸，倒入搅拌均匀的粉糊，轻震两下使表面平整，将模具放入蒸箱中间层，选择“普通蒸”模式，设置100℃、40分钟，按确认键，开始烹饪。"
+    },
+    {
+      "no": 6,
+      "text": "烹饪结束后取出晾凉，用刀切成自己喜欢的形状，剥些松子仁点缀装盘即可食用。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "干红枣洗净后加1000g温热水浸泡1小时，再连同浸泡液放入蒸箱，设置100℃蒸30分钟",
+      "device_raw": "蒸箱",
+      "device": "蒸箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": "普通蒸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 100,
+      "duration_source": "estimated",
+      "device_active_start_min": 65,
+      "device_active_min": 35,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        },
+        {
+          "start_min": 65,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": 100,
+      "temperature_source": "explicit",
+      "human_active_min": 10,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将干红枣洗净后放入大碗中，加入1000g温热水浸泡1小时。将浸泡好的红枣连同浸泡液一起放入蒸箱，设置100℃，蒸制30分钟。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "煮好的红枣在浸泡液中冷却后去皮去核取肉，捣烂成泥，浸泡液保留备用",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 25,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 15,
+          "duration_min": 10,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 10,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "待煮熟的红枣在浸泡液中冷却后去皮、去核取肉，捣烂成泥，浸泡液保留备用。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "炒锅烧热倒入熟猪油融化，加入枣泥、豆沙、白糖小火炒成糊状，关火后加500g红枣浸泡液搅匀，冷却备用",
+      "device_raw": "炒锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": "小火",
+      "heat_level": 2,
+      "humidity": null,
+      "duration_min": 15,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 15,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 6,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 6,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "取一炒锅，烧热后倒入原料B中的熟猪油，融化后加入枣泥、豆沙、白糖，小火炒制成均匀的糊状后即可关火，再加入500g红枣浸泡液搅拌均匀，冷却备用。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "糯米粉与粳米粉混合，加入枣泥豆沙糊，用刮刀搅拌成均匀粉糊",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将糯米粉与粳米粉混合，加入调制好的枣泥豆沙糊，用刮刀搅拌成均匀的粉糊状。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "方形浅口模具铺硅油纸，倒入粉糊轻震平整，放入蒸箱中间层，选择普通蒸100℃40分钟并确认开始",
+      "device_raw": "蒸箱",
+      "device": "蒸箱",
+      "device_source": "explicit",
+      "mode_raw": "普通蒸",
+      "mode": "普通蒸",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 46,
+      "duration_source": "estimated",
+      "device_active_start_min": 5,
+      "device_active_min": 41,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        },
+        {
+          "start_min": 5,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "explicit",
+      "human_active_min": 6,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "取一方形浅口模具，铺上硅油纸，倒入搅拌均匀的粉糊，轻震两下使表面平整，将模具放入蒸箱中间层，选择“普通蒸”模式，设置100℃、40分钟，按确认键，开始烹饪。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "烹饪结束后取出模具晾凉，切块，剥松子仁点缀装盘",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 10,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 10,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 10,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "烹饪结束后取出晾凉，用刀切成自己喜欢的形状，剥些松子仁点缀装盘即可食用。"
+    }
+  ]
+}

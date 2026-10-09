@@ -1,0 +1,249 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5c8622ee98d5bc7e184a908b",
+  "name": "粉蒸藕丁",
+  "ingredients_raw": "A料：莲藕300克；大米粉（原味粗颗粒）80克；B料：蚝油8克；黄豆酱10克；生抽4克；蒸鱼豉油5克；白糖4克；盐1克；食用油20克",
+  "ingredients": [
+    {
+      "name": "莲藕",
+      "amount_text": "300克",
+      "quantity": 300,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "A料：莲藕300克"
+    },
+    {
+      "name": "大米粉（原味粗颗粒）",
+      "amount_text": "80克",
+      "quantity": 80,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "大米粉（原味粗颗粒）80克"
+    },
+    {
+      "name": "蚝油",
+      "amount_text": "8克",
+      "quantity": 8,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "B料：蚝油8克"
+    },
+    {
+      "name": "黄豆酱",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "黄豆酱10克"
+    },
+    {
+      "name": "生抽",
+      "amount_text": "4克",
+      "quantity": 4,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生抽4克"
+    },
+    {
+      "name": "蒸鱼豉油",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "蒸鱼豉油5克"
+    },
+    {
+      "name": "白糖",
+      "amount_text": "4克",
+      "quantity": 4,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白糖4克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "1克",
+      "quantity": 1,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐1克"
+    },
+    {
+      "name": "食用油",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "食用油20克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将莲藕清洗干净，切成2cm*2cm*2cm的丁，放入清水中浸泡，清洗干净泥沙，沥干水分，放入料理盆中。"
+    },
+    {
+      "no": 2,
+      "text": "将B中所有原料加入藕丁中，混合均匀，再加入原味粗颗粒大米粉拌匀，使莲藕均匀沾上调料和米粉，将调好味的藕丁放入盘中。"
+    },
+    {
+      "no": 3,
+      "text": "将盘放入蒸盘/蒸烤架中，放入机器中间层，选择“开始烹饪”按键，按屏幕提示操作。烹饪结束后取出，即可趁热食用。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将莲藕清洗干净、切成2厘米见方的丁，入清水浸泡洗净泥沙后沥干，放入料理盆中",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 12,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 12,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 12,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将莲藕清洗干净，切成2cm*2cm*2cm的丁，放入清水中浸泡，清洗干净泥沙，沥干水分，放入料理盆中。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将B料全部加入藕丁中混合均匀，再加入大米粉拌匀使藕丁均匀沾上调料和米粉，装入盘中",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将B中所有原料加入藕丁中，混合均匀，再加入原味粗颗粒大米粉拌匀，使莲藕均匀沾上调料和米粉，将调好味的藕丁放入盘中。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将盘放入蒸盘/蒸烤架后置于机器中间层，按开始烹饪键并按屏幕提示蒸制，结束后取出趁热食用",
+      "device_raw": "机器",
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "普通蒸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 32,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 32,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        },
+        {
+          "start_min": 30,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "human_active_min": 4,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将盘放入蒸盘/蒸烤架中，放入机器中间层，选择“开始烹饪”按键，按屏幕提示操作。烹饪结束后取出，即可趁热食用。"
+    }
+  ]
+}

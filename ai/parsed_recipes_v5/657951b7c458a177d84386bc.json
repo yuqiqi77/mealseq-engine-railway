@@ -1,0 +1,541 @@
+{
+  "schema_version": 5,
+  "recipe_id": "657951b7c458a177d84386bc",
+  "name": "芋头蛋卷",
+  "ingredients_raw": "主料：芋头3个；鸡蛋2个；食盐2克；食用油少许",
+  "ingredients": [
+    {
+      "name": "芋头",
+      "amount_text": "3个",
+      "quantity": 3,
+      "unit": "个",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "主料：芋头3个"
+    },
+    {
+      "name": "鸡蛋",
+      "amount_text": "2个",
+      "quantity": 2,
+      "unit": "个",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "鸡蛋2个"
+    },
+    {
+      "name": "食盐",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "食盐2克"
+    },
+    {
+      "name": "食用油",
+      "amount_text": "少许",
+      "quantity": null,
+      "unit": null,
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "食用油少许"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "食材准备"
+    },
+    {
+      "no": 2,
+      "text": "芋头洗干净后放入方太智能烹饪设备，开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作"
+    },
+    {
+      "no": 3,
+      "text": "鸡蛋打散加2g盐抽打均匀后用过滤网过滤一遍，这样蛋皮会更加细腻光滑"
+    },
+    {
+      "no": 4,
+      "text": "方太CS34BW磁控电磁灶小火1档，锅里用小火烧热，加一点点油、再倒入蛋液慢慢煎熟"
+    },
+    {
+      "no": 5,
+      "text": "慢慢煎熟以后用锅铲铲起翻一面，关火利用余温，一分钟后盛起"
+    },
+    {
+      "no": 6,
+      "text": "蒸熟后剥去外皮，用勺子压念成泥，越细腻越好"
+    },
+    {
+      "no": 7,
+      "text": "把煎好的蛋饼反正案板上，均匀涂抹上碾压好的芋泥"
+    },
+    {
+      "no": 8,
+      "text": "拿起一边卷向另一边"
+    },
+    {
+      "no": 9,
+      "text": "卷好后，均匀切成自己喜欢大小即可食用"
+    },
+    {
+      "no": 10,
+      "text": "清淡可口"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "准备芋头、鸡蛋、食盐、食用油等食材",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "食材准备"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将芋头洗净放入蒸箱，开启电源，水箱加满水，选择开始烹饪并按屏幕提示操作",
+      "device_raw": "方太智能烹饪设备",
+      "device": "蒸箱",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": "普通蒸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 30,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 30,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "芋头洗干净后放入方太智能烹饪设备，开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将鸡蛋打散，加2克盐抽打均匀，再用过滤网过滤一遍",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "鸡蛋打散加2g盐抽打均匀后用过滤网过滤一遍，这样蛋皮会更加细腻光滑"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "用电磁灶小火1档烧热锅，加少许油，倒入蛋液慢慢煎熟",
+      "device_raw": "方太CS34BW磁控电磁灶",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": "小火1档",
+      "heat_level": 1,
+      "humidity": null,
+      "duration_min": 8,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 8,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 8,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1",
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 8,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "方太CS34BW磁控电磁灶小火1档，锅里用小火烧热，加一点点油、再倒入蛋液慢慢煎熟"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将煎熟的蛋饼翻面，关火利用余温1分钟后盛起",
+      "device_raw": null,
+      "device": "灶具",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 1,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 2,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 0.5,
+          "source": "estimated"
+        },
+        {
+          "start_min": 1.5,
+          "duration_min": 0.5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1.0,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "慢慢煎熟以后用锅铲铲起翻一面，关火利用余温，一分钟后盛起"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "取出蒸熟的芋头，剥去外皮，用勺子碾压成细腻芋泥",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 8,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 8,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 8,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "蒸熟后剥去外皮，用勺子压念成泥，越细腻越好"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "将煎好的蛋饼放在案板上，均匀涂抹碾压好的芋泥",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5",
+        "s6"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "把煎好的蛋饼反正案板上，均匀涂抹上碾压好的芋泥"
+    },
+    {
+      "step_id": "s8",
+      "source_step_no": 8,
+      "action": "拿起蛋饼一边卷向另一边",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s7"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "拿起一边卷向另一边"
+    },
+    {
+      "step_id": "s9",
+      "source_step_no": 9,
+      "action": "将卷好的蛋卷均匀切成合适大小即可食用",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s8"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "卷好后，均匀切成自己喜欢大小即可食用"
+    },
+    {
+      "step_id": "s10",
+      "source_step_no": 10,
+      "action": "描述成品清淡可口",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 0,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": false,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "清淡可口"
+    }
+  ]
+}

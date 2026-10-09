@@ -1,0 +1,331 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5fe197285f8f38795ea6fe7a",
+  "name": "玛格丽特",
+  "ingredients_raw": "A料：鸡蛋1.5个；B料：黄油68克；糖粉32克；C料：低筋粉68克；玉米淀粉68克；盐1克",
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount_text": "1.5个",
+      "quantity": 1.5,
+      "unit": "个",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "A料：鸡蛋1.5个"
+    },
+    {
+      "name": "黄油",
+      "amount_text": "68克",
+      "quantity": 68,
+      "unit": "克",
+      "role": "主料",
+      "category": "调味品",
+      "source_text": "B料：黄油68克"
+    },
+    {
+      "name": "糖粉",
+      "amount_text": "32克",
+      "quantity": 32,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "糖粉32克"
+    },
+    {
+      "name": "低筋粉",
+      "amount_text": "68克",
+      "quantity": 68,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "C料：低筋粉68克"
+    },
+    {
+      "name": "玉米淀粉",
+      "amount_text": "68克",
+      "quantity": 68,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "玉米淀粉68克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "1克",
+      "quantity": 1,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐1克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将鸡蛋洗净放入锅中，加入冷水浸没鸡蛋，煮15 分钟，取出蛋黄，碾压过筛后备用。"
+    },
+    {
+      "no": 2,
+      "text": "将黄油室温软化后，加入糖粉拌匀，再加入过筛的蛋黄，和匀后，加入过筛的粉类和盐拌匀，揉匀成团，装入保鲜袋，冷藏0.5 ～ 1 小时至变硬。"
+    },
+    {
+      "no": 3,
+      "text": "称取15g/ 个面团，搓成圆球，用大拇指按一下中间至周围有裂缝，然后均匀放在垫有油纸的蒸烤盘上，约16 个。"
+    },
+    {
+      "no": 4,
+      "text": "放入机器中间层，选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "no": 5,
+      "text": "烘烤结束后，取出晾凉即可食用，也可装入饼干盒或密封袋密封干燥保存。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将鸡蛋洗净放入锅中，加冷水浸没，煮15分钟后取出蛋黄并碾压过筛备用",
+      "device_raw": "锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 4,
+      "humidity": null,
+      "duration_min": 21,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 21,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        },
+        {
+          "start_min": 18,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 6,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将鸡蛋洗净放入锅中，加入冷水浸没鸡蛋，煮15 分钟，取出蛋黄，碾压过筛后备用。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将黄油室温软化，加入糖粉、过筛蛋黄、过筛粉类和盐拌匀揉团，装袋冷藏至变硬",
+      "device_raw": null,
+      "device": "冰箱",
+      "device_source": "inferred",
+      "mode_raw": "冷藏",
+      "mode": "冷藏",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "冷藏室",
+          "value_c": 4,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 100,
+      "duration_source": "estimated",
+      "device_active_start_min": 40,
+      "device_active_min": 60,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 30,
+          "duration_min": 11,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": 4,
+      "temperature_source": "estimated",
+      "human_active_min": 12,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将黄油室温软化后，加入糖粉拌匀，再加入过筛的蛋黄，和匀后，加入过筛的粉类和盐拌匀，揉匀成团，装入保鲜袋，冷藏0.5 ～ 1 小时至变硬。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "称取15克每个面团，搓成圆球，用大拇指按中间至出现裂纹，放在垫油纸的蒸烤盘上，共约16个",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 10,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 10,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 10,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "称取15g/ 个面团，搓成圆球，用大拇指按一下中间至周围有裂缝，然后均匀放在垫有油纸的蒸烤盘上，约16 个。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将蒸烤盘放入烤箱中间层，选择开始烹饪，按屏幕提示操作并烘烤至结束",
+      "device_raw": "机器",
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "上下火",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 170,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 20,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 20,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "temperature_c": 170,
+      "temperature_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "放入机器中间层，选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "烘烤结束后取出饼干晾凉，可食用或密封保存",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 15,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "烘烤结束后，取出晾凉即可食用，也可装入饼干盒或密封袋密封干燥保存。"
+    }
+  ]
+}

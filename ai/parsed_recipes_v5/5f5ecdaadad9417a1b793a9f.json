@@ -1,0 +1,418 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5f5ecdaadad9417a1b793a9f",
+  "name": "广式月饼（台式）",
+  "ingredients_raw": "A料：转化糖浆105克；中筋粉153克；花生油22克；枧水3克；B料：豆沙馅630克；C料：蛋黄1个",
+  "ingredients": [
+    {
+      "name": "转化糖浆",
+      "amount_text": "105克",
+      "quantity": 105,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "A料：转化糖浆105克"
+    },
+    {
+      "name": "中筋粉",
+      "amount_text": "153克",
+      "quantity": 153,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "中筋粉153克"
+    },
+    {
+      "name": "花生油",
+      "amount_text": "22克",
+      "quantity": 22,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "花生油22克"
+    },
+    {
+      "name": "枧水",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "枧水3克"
+    },
+    {
+      "name": "豆沙馅",
+      "amount_text": "630克",
+      "quantity": 630,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "B料：豆沙馅630克"
+    },
+    {
+      "name": "蛋黄",
+      "amount_text": "1个",
+      "quantity": 1,
+      "unit": "个",
+      "role": "辅料",
+      "category": "荤菜",
+      "source_text": "C料：蛋黄1个"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将枧水加入转化糖浆中，用刮刀搅拌均匀。再加入花生油，充分搅拌乳化呈较粘稠状态。"
+    },
+    {
+      "no": 2,
+      "text": "将中筋粉加入到上述混合液中，用刮刀翻拌均匀（不要过度翻拌）。盖上保鲜膜常温静置1小时。"
+    },
+    {
+      "no": 3,
+      "text": "将月饼皮面团分割成12个小面团,每个约22g。630g豆沙馅分成12份，每份约53g，搓成球形，在成型的皮与馅上盖保鲜膜，防止干皮。"
+    },
+    {
+      "no": 4,
+      "text": "将月饼皮面团按扁，包入馅心，双手配合，推捏面团，包住整个馅料并收口。"
+    },
+    {
+      "no": 5,
+      "text": "将包好的月饼表面滚上一层面粉，放入模具中，按压成型。"
+    },
+    {
+      "no": 6,
+      "text": "将成型月饼放在垫有油纸的烤盘上，顶部均匀刷上一层薄薄的蛋黄液（1个蛋黄，5g水），将蒸烤盘放入机器中间层。"
+    },
+    {
+      "no": 7,
+      "text": "选择“开始烹饪”按键，按屏幕提示操作。烘烤结束，取出晾凉，放置一两天待回油后食用风味更佳。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将枧水加入转化糖浆中搅拌均匀，再加入花生油搅拌乳化",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将枧水加入转化糖浆中，用刮刀搅拌均匀。再加入花生油，充分搅拌乳化呈较粘稠状态。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将中筋粉加入混合液中翻拌均匀，盖保鲜膜常温静置1小时",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 61,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将中筋粉加入到上述混合液中，用刮刀翻拌均匀（不要过度翻拌）。盖上保鲜膜常温静置1小时。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将月饼皮面团分割成12个约22g小面团，豆沙馅分成12份约53g搓球，盖保鲜膜防干",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 10,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 10,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 10,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将月饼皮面团分割成12个小面团,每个约22g。630g豆沙馅分成12份，每份约53g，搓成球形，在成型的皮与馅上盖保鲜膜，防止干皮。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将月饼皮面团按扁，包入馅心，推捏收口",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 15,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 15,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 15,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将月饼皮面团按扁，包入馅心，双手配合，推捏面团，包住整个馅料并收口。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将包好的月饼表面滚面粉，放入模具按压成型",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 10,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 10,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 10,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将包好的月饼表面滚上一层面粉，放入模具中，按压成型。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "将成型月饼放在垫油纸的烤盘上，顶部刷薄蛋黄液，将蒸烤盘放入机器中间层",
+      "device_raw": "机器",
+      "device": "烤箱",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 2,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将成型月饼放在垫有油纸的烤盘上，顶部均匀刷上一层薄薄的蛋黄液（1个蛋黄，5g水），将蒸烤盘放入机器中间层。"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "按开始烹饪键并按提示操作，烘烤结束后取出晾凉，放置一两天回油",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "上下火",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 180,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2903,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 23,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 21,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s6"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": 180,
+      "temperature_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "选择“开始烹饪”按键，按屏幕提示操作。烘烤结束，取出晾凉，放置一两天待回油后食用风味更佳。"
+    }
+  ]
+}

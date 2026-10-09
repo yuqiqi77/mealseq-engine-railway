@@ -1,0 +1,414 @@
+{
+  "schema_version": 5,
+  "recipe_id": "65433a5545256c3ad7c26a5b",
+  "name": "莲藕虾肉饼",
+  "ingredients_raw": "主料：猪肉糜100克；咸鸭蛋蛋清1个；虾仁8个；莲藕150克；香菜2棵；香葱5克；咸蛋黄4个；辅料：白砂糖2克；料酒10毫升；白胡椒1克；盐3克",
+  "ingredients": [
+    {
+      "name": "猪肉糜",
+      "amount_text": "100克",
+      "quantity": 100,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "主料：猪肉糜100克"
+    },
+    {
+      "name": "咸鸭蛋蛋清",
+      "amount_text": "1个",
+      "quantity": 1,
+      "unit": "个",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "咸鸭蛋蛋清1个"
+    },
+    {
+      "name": "虾仁",
+      "amount_text": "8个",
+      "quantity": 8,
+      "unit": "个",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "虾仁8个"
+    },
+    {
+      "name": "莲藕",
+      "amount_text": "150克",
+      "quantity": 150,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "莲藕150克"
+    },
+    {
+      "name": "香菜",
+      "amount_text": "2棵",
+      "quantity": 2,
+      "unit": "棵",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "香菜2棵"
+    },
+    {
+      "name": "香葱",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "香葱5克"
+    },
+    {
+      "name": "咸蛋黄",
+      "amount_text": "4个",
+      "quantity": 4,
+      "unit": "个",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "咸蛋黄4个"
+    },
+    {
+      "name": "白砂糖",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "辅料：白砂糖2克"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "10毫升",
+      "quantity": 10,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒10毫升"
+    },
+    {
+      "name": "白胡椒",
+      "amount_text": "1克",
+      "quantity": 1,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白胡椒1克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐3克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "食材准备"
+    },
+    {
+      "no": 2,
+      "text": "莲藕切丝、芫荽切碎、虾肉切丁备用"
+    },
+    {
+      "no": 3,
+      "text": "将猪肉糜、虾肉、莲藕丝放入碗中，加入盐、糖、料酒，剁碎的香菜，少许葱花，一个咸鸭蛋的蛋清，白胡椒粉搅拌均匀"
+    },
+    {
+      "no": 4,
+      "text": "然后将咸蛋黄铺在肉上面"
+    },
+    {
+      "no": 5,
+      "text": "放入方太智能烹饪设备，开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作"
+    },
+    {
+      "no": 6,
+      "text": "尽情品尝吧"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "准备所有食材",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "食材准备"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将莲藕切丝、香菜切碎、虾肉切丁备用",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "莲藕切丝、芫荽切碎、虾肉切丁备用"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将猪肉糜、虾肉、莲藕丝与调味料及蛋清搅拌均匀",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将猪肉糜、虾肉、莲藕丝放入碗中，加入盐、糖、料酒，剁碎的香菜，少许葱花，一个咸鸭蛋的蛋清，白胡椒粉搅拌均匀"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将咸蛋黄铺在肉馅混合物上",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "然后将咸蛋黄铺在肉上面"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将食材放入蒸箱，加水并启动普通蒸约25分钟",
+      "device_raw": "方太智能烹饪设备",
+      "device": "蒸箱",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": "普通蒸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 25,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 25,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        },
+        {
+          "start_min": 24,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "human_active_min": 4,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "放入方太智能烹饪设备，开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "品尝莲藕虾肉饼",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "尽情品尝吧"
+    }
+  ]
+}

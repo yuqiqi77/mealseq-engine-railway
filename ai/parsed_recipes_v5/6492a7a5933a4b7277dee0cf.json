@@ -1,0 +1,371 @@
+{
+  "schema_version": 5,
+  "recipe_id": "6492a7a5933a4b7277dee0cf",
+  "name": "酿苦瓜",
+  "ingredients_raw": "主料：苦瓜2根；猪肉馅250克；葱5克；生粉5克；料酒8克；盐4克",
+  "ingredients": [
+    {
+      "name": "苦瓜",
+      "amount_text": "2根",
+      "quantity": 2,
+      "unit": "根",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "主料：苦瓜2根"
+    },
+    {
+      "name": "猪肉馅",
+      "amount_text": "250克",
+      "quantity": 250,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "猪肉馅250克"
+    },
+    {
+      "name": "葱",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "葱5克"
+    },
+    {
+      "name": "生粉",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生粉5克"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "8克",
+      "quantity": 8,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒8克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "4克",
+      "quantity": 4,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐4克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "食材准备"
+    },
+    {
+      "no": 2,
+      "text": "猪肉糜，生粉，料酒，葱，盐搅拌上劲"
+    },
+    {
+      "no": 3,
+      "text": "苦瓜洗净、切去头尾，切成小段，去瓤、籽，入沸水烫熟捞出，过凉"
+    },
+    {
+      "no": 4,
+      "text": "把肉糜塞入苦瓜内，压紧"
+    },
+    {
+      "no": 5,
+      "text": "放入方太智能烹饪设备第2层，开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作"
+    },
+    {
+      "no": 6,
+      "text": "尽情品尝吧"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "准备所有食材",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "食材准备"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将猪肉糜、生粉、料酒、葱、盐搅拌上劲",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "猪肉糜，生粉，料酒，葱，盐搅拌上劲"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将苦瓜洗净切段去瓤籽，入沸水烫熟捞出过凉",
+      "device_raw": null,
+      "device": "灶具",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": 5,
+      "humidity": null,
+      "duration_min": 10,
+      "duration_source": "estimated",
+      "human_active_min": 10,
+      "human_active_source": "estimated",
+      "device_active_start_min": 5,
+      "device_active_min": 5,
+      "device_active_source": "estimated",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 10,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "苦瓜洗净、切去头尾，切成小段，去瓤、籽，入沸水烫熟捞出，过凉"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将肉糜塞入苦瓜内并压紧",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2",
+        "s3"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "把肉糜塞入苦瓜内，压紧"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将酿苦瓜放入蒸箱第2层，加水并启动普通蒸制",
+      "device_raw": "方太智能烹饪设备",
+      "device": "蒸箱",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": "普通蒸",
+      "mode_source": "estimated",
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 20,
+      "duration_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 20,
+      "device_active_source": "estimated",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "放入方太智能烹饪设备第2层，开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "品尝酿苦瓜",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "尽情品尝吧"
+    }
+  ]
+}

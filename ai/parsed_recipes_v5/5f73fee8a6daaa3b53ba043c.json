@@ -1,0 +1,128 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5f73fee8a6daaa3b53ba043c",
+  "name": "美式薯条",
+  "ingredients_raw": "A料：半成品冷冻薯条200克",
+  "ingredients": [
+    {
+      "name": "半成品冷冻薯条",
+      "amount_text": "200克",
+      "quantity": 200,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "A料：半成品冷冻薯条200克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将薯条均匀的铺在垫有硅油纸的蒸烤架上，放入机器中间层。"
+    },
+    {
+      "no": 2,
+      "text": "选择“开始烹饪”按键，按屏幕提示操作。待烹饪结束后，取出薯条，即可食用。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将薯条均匀铺在垫有硅油纸的蒸烤架上，放入机器中间层",
+      "device_raw": "机器",
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 2,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将薯条均匀的铺在垫有硅油纸的蒸烤架上，放入机器中间层。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "按开始烹饪并依屏幕提示操作，待烹饪结束后取出薯条",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "空气炸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 200,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 17,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 17,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 16,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": 200,
+      "temperature_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "选择“开始烹饪”按键，按屏幕提示操作。待烹饪结束后，取出薯条，即可食用。"
+    }
+  ]
+}

@@ -1,0 +1,518 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5c860d6298d5bc7e184a907c",
+  "name": "雪媚娘",
+  "ingredients_raw": "A料：糯米粉30克；B料：糯米粉100克；鹰粟粉（玉米淀粉）30克；白砂糖50克；牛奶170克；黄油20克；C料：淡奶油170克；细砂糖17克；D料：大芒果1个",
+  "ingredients": [
+    {
+      "name": "糯米粉",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "A料：糯米粉30克"
+    },
+    {
+      "name": "糯米粉",
+      "amount_text": "100克",
+      "quantity": 100,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "B料：糯米粉100克"
+    },
+    {
+      "name": "鹰粟粉（玉米淀粉）",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "鹰粟粉（玉米淀粉）30克"
+    },
+    {
+      "name": "白砂糖",
+      "amount_text": "50克",
+      "quantity": 50,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白砂糖50克"
+    },
+    {
+      "name": "牛奶",
+      "amount_text": "170克",
+      "quantity": 170,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "牛奶170克"
+    },
+    {
+      "name": "黄油",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "黄油20克"
+    },
+    {
+      "name": "淡奶油",
+      "amount_text": "170克",
+      "quantity": 170,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "C料：淡奶油170克"
+    },
+    {
+      "name": "细砂糖",
+      "amount_text": "17克",
+      "quantity": 17,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "细砂糖17克"
+    },
+    {
+      "name": "大芒果",
+      "amount_text": "1个",
+      "quantity": 1,
+      "unit": "个",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "D料：大芒果1个"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "准备熟糯米粉（手粉）： 取糯米粉30g，用干净的炒锅慢火炒至微黄色，取出备用。（也可以微波，高火30秒，取出翻拌，继续高火微波30秒，反复操作，直到微黄有香味为止，共3分钟左右即可。）"
+    },
+    {
+      "no": 2,
+      "text": "将B中原料糯米粉、鹰粟粉、白砂糖、牛奶混合均匀成无颗粒的粉浆。"
+    },
+    {
+      "no": 3,
+      "text": "将粉浆盖保鲜膜，入机器，拿出水箱装满水，选择“开始烹饪”按键，按屏幕提示操作，蒸至熟透。"
+    },
+    {
+      "no": 4,
+      "text": "取出趁热加入黄油揉成光滑的面团，封保鲜膜入冰箱冷藏。"
+    },
+    {
+      "no": 5,
+      "text": "此时，将大芒果去皮切丁，C中原料淡奶油加白砂糖打发后装入裱花袋。"
+    },
+    {
+      "no": 6,
+      "text": "在料理台上撒上手粉，取出面团分成小块，25g每块，压平，擀成薄薄的面皮。"
+    },
+    {
+      "no": 7,
+      "text": "将面皮放在手心，挤出少量奶油在面皮中央垫底，铺上芒果肉丁，再挤一层奶油然后像包包子一样收口包好，光滑面朝上放在纸杯里即可。"
+    },
+    {
+      "no": 8,
+      "text": "包好后即可食用，冷藏后口感更好。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "取30克糯米粉用炒锅慢火炒至微黄色，取出备用，也可微波高火反复加热至微黄有香味",
+      "device_raw": "炒锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": "慢火",
+      "heat_level": 2,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 3,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "准备熟糯米粉（手粉）： 取糯米粉30g，用干净的炒锅慢火炒至微黄色，取出备用。（也可以微波，高火30秒，取出翻拌，继续高火微波30秒，反复操作，直到微黄有香味为止，共3分钟左右即可。）"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将B料糯米粉、鹰粟粉、白砂糖、牛奶混合均匀成无颗粒粉浆",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "将B中原料糯米粉、鹰粟粉、白砂糖、牛奶混合均匀成无颗粒的粉浆。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "粉浆盖保鲜膜放入蒸箱，水箱加水，按开始烹饪和屏幕提示蒸至熟透",
+      "device_raw": "机器",
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "普通蒸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 22,
+      "duration_source": "estimated",
+      "device_active_start_min": 1,
+      "device_active_min": 21,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 1,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 2,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "将粉浆盖保鲜膜，入机器，拿出水箱装满水，选择“开始烹饪”按键，按屏幕提示操作，蒸至熟透。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "取出蒸熟面团，趁热加黄油揉成光滑面团，封保鲜膜放入冰箱冷藏",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 67,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "additional_device_usages": [
+        {
+          "device": "冰箱",
+          "mode": "冷藏",
+          "temperature_settings": [
+            {
+              "zone": "冷藏室",
+              "value_c": 4,
+              "source": "estimated"
+            }
+          ],
+          "start_min": 7,
+          "duration_min": 60,
+          "action": "冷藏面团"
+        }
+      ],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 1,
+          "duration_min": 5,
+          "source": "estimated"
+        },
+        {
+          "start_min": 6,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 7,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "取出趁热加入黄油揉成光滑的面团，封保鲜膜入冰箱冷藏。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "大芒果去皮切丁，淡奶油加白砂糖打发后装入裱花袋",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 10,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 10,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 10,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "此时，将大芒果去皮切丁，C中原料淡奶油加白砂糖打发后装入裱花袋。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "在料理台撒上手粉，取出面团分成25克小块，压平擀成薄面皮",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 10,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 10,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1",
+        "s4"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 10,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "在料理台上撒上手粉，取出面团分成小块，25g每块，压平，擀成薄薄的面皮。"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "将面皮放手心，挤奶油垫底，铺芒果丁，再挤奶油，像包包子一样收口，光滑面朝上放纸杯",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 12,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 12,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5",
+        "s6"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 12,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "将面皮放在手心，挤出少量奶油在面皮中央垫底，铺上芒果肉丁，再挤一层奶油然后像包包子一样收口包好，光滑面朝上放在纸杯里即可。"
+    },
+    {
+      "step_id": "s8",
+      "source_step_no": 8,
+      "action": "包好后即可食用，冷藏后口感更佳",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s7"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 0,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": false,
+      "can_run_unattended": true,
+      "source_text": "包好后即可食用，冷藏后口感更好。"
+    }
+  ]
+}

@@ -1,0 +1,1172 @@
+{
+  "schema_version": 5,
+  "recipe_id": "66dea6480d586d528ee9dd7c",
+  "name": "烹香酷炒汇",
+  "ingredients_raw": "A料：葱花20克；小米椒3个；洋葱30克；姜丝10克；小葱20克；大蒜末15克；葱段10克；红椒40克；B料：酸汤肥牛调料1袋；生抽35克；盐7克；食用油80克；黑胡椒碎适量；纯净水370克；豆瓣酱20克；白糖4克；白酒3克；蚝油15克；孜然粉2克；辣椒粉1克；主料：熟米饭400克；蛋黄2个；火腿肠1根；胡萝卜40克；肥牛卷200克；金针菇150克；莴笋150克；对虾300克；芹菜40克；五花肉50克；豆腐100克；大白菜120克；土豆250克",
+  "ingredients": [
+    {
+      "name": "葱花",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "A料：葱花20克"
+    },
+    {
+      "name": "小米椒",
+      "amount_text": "3个",
+      "quantity": 3,
+      "unit": "个",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "小米椒3个"
+    },
+    {
+      "name": "洋葱",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "洋葱30克"
+    },
+    {
+      "name": "姜丝",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "姜丝10克"
+    },
+    {
+      "name": "小葱",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "小葱20克"
+    },
+    {
+      "name": "大蒜末",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "大蒜末15克"
+    },
+    {
+      "name": "葱段",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "葱段10克"
+    },
+    {
+      "name": "红椒",
+      "amount_text": "40克",
+      "quantity": 40,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "红椒40克"
+    },
+    {
+      "name": "酸汤肥牛调料",
+      "amount_text": "1袋",
+      "quantity": 1,
+      "unit": "袋",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "B料：酸汤肥牛调料1袋"
+    },
+    {
+      "name": "生抽",
+      "amount_text": "35克",
+      "quantity": 35,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生抽35克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "7克",
+      "quantity": 7,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐7克"
+    },
+    {
+      "name": "食用油",
+      "amount_text": "80克",
+      "quantity": 80,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "食用油80克"
+    },
+    {
+      "name": "黑胡椒碎",
+      "amount_text": "适量",
+      "quantity": null,
+      "unit": null,
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "黑胡椒碎适量"
+    },
+    {
+      "name": "纯净水",
+      "amount_text": "370克",
+      "quantity": 370,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "纯净水370克"
+    },
+    {
+      "name": "豆瓣酱",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "豆瓣酱20克"
+    },
+    {
+      "name": "白糖",
+      "amount_text": "4克",
+      "quantity": 4,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白糖4克"
+    },
+    {
+      "name": "白酒",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白酒3克"
+    },
+    {
+      "name": "蚝油",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "蚝油15克"
+    },
+    {
+      "name": "孜然粉",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "孜然粉2克"
+    },
+    {
+      "name": "辣椒粉",
+      "amount_text": "1克",
+      "quantity": 1,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "辣椒粉1克"
+    },
+    {
+      "name": "熟米饭",
+      "amount_text": "400克",
+      "quantity": 400,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "主料：熟米饭400克"
+    },
+    {
+      "name": "蛋黄",
+      "amount_text": "2个",
+      "quantity": 2,
+      "unit": "个",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "蛋黄2个"
+    },
+    {
+      "name": "火腿肠",
+      "amount_text": "1根",
+      "quantity": 1,
+      "unit": "根",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "火腿肠1根"
+    },
+    {
+      "name": "胡萝卜",
+      "amount_text": "40克",
+      "quantity": 40,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "胡萝卜40克"
+    },
+    {
+      "name": "肥牛卷",
+      "amount_text": "200克",
+      "quantity": 200,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "肥牛卷200克"
+    },
+    {
+      "name": "金针菇",
+      "amount_text": "150克",
+      "quantity": 150,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "金针菇150克"
+    },
+    {
+      "name": "莴笋",
+      "amount_text": "150克",
+      "quantity": 150,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "莴笋150克"
+    },
+    {
+      "name": "对虾",
+      "amount_text": "300克",
+      "quantity": 300,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "对虾300克"
+    },
+    {
+      "name": "芹菜",
+      "amount_text": "40克",
+      "quantity": 40,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "芹菜40克"
+    },
+    {
+      "name": "五花肉",
+      "amount_text": "50克",
+      "quantity": 50,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "五花肉50克"
+    },
+    {
+      "name": "豆腐",
+      "amount_text": "100克",
+      "quantity": 100,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "豆腐100克"
+    },
+    {
+      "name": "大白菜",
+      "amount_text": "120克",
+      "quantity": 120,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "大白菜120克"
+    },
+    {
+      "name": "土豆",
+      "amount_text": "250克",
+      "quantity": 250,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "土豆250克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "黄金炒饭制作：1根火腿肠和40g胡萝卜切丁。"
+    },
+    {
+      "no": 2,
+      "text": "米饭中加入2个鸡蛋黄、火腿肠丁、胡萝卜丁、5g生抽、3g盐和20g食用油搅拌均匀，铺入大号双耳盘中。"
+    },
+    {
+      "no": 3,
+      "text": "酸汤肥牛制作：200g肥牛卷用开水冲烫两遍，洗净血水备用。"
+    },
+    {
+      "no": 4,
+      "text": "150g金针菇切去根部，150g莴笋去皮切片，1个小米椒切碎。"
+    },
+    {
+      "no": 5,
+      "text": "将金针菇、莴笋垫入中号盘中，撒上小米椒，摆入肥牛，倒入酸汤肥牛调料包和300g纯净水。"
+    },
+    {
+      "no": 6,
+      "text": "香辣虾制作：300g对虾洗净，开背去虾线。"
+    },
+    {
+      "no": 7,
+      "text": "40g芹菜和20g小葱切段，30g洋葱切条。"
+    },
+    {
+      "no": 8,
+      "text": "对虾加入10g姜丝、小葱、25g食用油、20g豆瓣酱、2g白糖、10g生抽、3g白酒、1g盐，混匀腌制10分钟。"
+    },
+    {
+      "no": 9,
+      "text": "芹菜和洋葱铺在中号盘中，均匀摆上腌制好的对虾。"
+    },
+    {
+      "no": 10,
+      "text": "白菜炖豆腐制作：50g五花肉切片，加入3g生抽腌制5分钟。"
+    },
+    {
+      "no": 11,
+      "text": "100g豆腐和120g大白菜切块，2个小米椒切碎。"
+    },
+    {
+      "no": 12,
+      "text": "取一小碗，将15g大蒜末、小米椒碎、15g食用油、15g生抽、2g盐、5g蚝油、2g白糖、70g纯净水料混合均匀备用。"
+    },
+    {
+      "no": 13,
+      "text": "小号碗中依次铺上五花肉片、豆腐和大白菜，再将料汁倒入。"
+    },
+    {
+      "no": 14,
+      "text": "家常土豆片制作：250g土豆切薄片。"
+    },
+    {
+      "no": 15,
+      "text": "土豆中加入20g食用油、2g孜然粉、1g辣椒粉、5g生抽、1g盐和10g蚝油拌匀，放入小号碗中。"
+    },
+    {
+      "no": 16,
+      "text": "10g小葱切段，40g红椒切丝，备用。"
+    },
+    {
+      "no": 17,
+      "text": "打开设备，在设备/APP端找到并进入套餐，选择“开始烹饪”按键，按屏幕提示操作。预热结束后，将黄金炒饭、香辣虾置于蒸烤盘上放入机器第1层，酸汤肥牛、白菜炖豆腐、家常土豆片置于蒸烤架上放入第3层。待屏幕提示后，取出菜品。土豆片中加入小葱段和红椒丝，黄金炒饭翻拌均匀，并盖上锡箔纸（小心烫伤），其余菜品适当翻拌，继续放回原位烹饪。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将火腿肠和胡萝卜切丁",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "黄金炒饭制作：1根火腿肠和40g胡萝卜切丁。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将米饭与蛋黄、火腿肠丁、胡萝卜丁、生抽、盐、食用油搅拌均匀后铺入大号双耳盘",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 4,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 4,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 4,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "米饭中加入2个鸡蛋黄、火腿肠丁、胡萝卜丁、5g生抽、3g盐和20g食用油搅拌均匀，铺入大号双耳盘中。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将肥牛卷用开水冲烫两遍并洗净血水备用",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [
+        {
+          "zone": "处理用水",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "酸汤肥牛制作：200g肥牛卷用开水冲烫两遍，洗净血水备用。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将金针菇去根，莴笋去皮切片，小米椒切碎",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "150g金针菇切去根部，150g莴笋去皮切片，1个小米椒切碎。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将金针菇、莴笋垫盘，撒小米椒，摆入肥牛，倒入酸汤肥牛调料包和纯净水",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3",
+        "s4"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "将金针菇、莴笋垫入中号盘中，撒上小米椒，摆入肥牛，倒入酸汤肥牛调料包和300g纯净水。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "将对虾洗净，开背去虾线",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "香辣虾制作：300g对虾洗净，开背去虾线。"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "将芹菜和小葱切段，洋葱切条",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 4,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 4,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 4,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "40g芹菜和20g小葱切段，30g洋葱切条。"
+    },
+    {
+      "step_id": "s8",
+      "source_step_no": 8,
+      "action": "将对虾与姜丝、小葱、食用油、豆瓣酱、白糖、生抽、白酒、盐混匀，腌制10分钟",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 11,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s6",
+        "s7"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "对虾加入10g姜丝、小葱、25g食用油、20g豆瓣酱、2g白糖、10g生抽、3g白酒、1g盐，混匀腌制10分钟。"
+    },
+    {
+      "step_id": "s9",
+      "source_step_no": 9,
+      "action": "将芹菜和洋葱铺在中号盘中，均匀摆上腌制好的对虾",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s7",
+        "s8"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "芹菜和洋葱铺在中号盘中，均匀摆上腌制好的对虾。"
+    },
+    {
+      "step_id": "s10",
+      "source_step_no": 10,
+      "action": "将五花肉切片，加入生抽腌制5分钟",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 7,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "白菜炖豆腐制作：50g五花肉切片，加入3g生抽腌制5分钟。"
+    },
+    {
+      "step_id": "s11",
+      "source_step_no": 11,
+      "action": "将豆腐和大白菜切块，小米椒切碎",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s10",
+        "s5"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "100g豆腐和120g大白菜切块，2个小米椒切碎。"
+    },
+    {
+      "step_id": "s12",
+      "source_step_no": 12,
+      "action": "将大蒜末、小米椒碎、食用油、生抽、盐、蚝油、白糖、纯净水混合均匀成料汁备用",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s11"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "取一小碗，将15g大蒜末、小米椒碎、15g食用油、15g生抽、2g盐、5g蚝油、2g白糖、70g纯净水料混合均匀备用。"
+    },
+    {
+      "step_id": "s13",
+      "source_step_no": 13,
+      "action": "在小号碗中依次铺上五花肉片、豆腐和大白菜，倒入料汁",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s10",
+        "s11",
+        "s12"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "小号碗中依次铺上五花肉片、豆腐和大白菜，再将料汁倒入。"
+    },
+    {
+      "step_id": "s14",
+      "source_step_no": 14,
+      "action": "将土豆切成薄片",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "家常土豆片制作：250g土豆切薄片。"
+    },
+    {
+      "step_id": "s15",
+      "source_step_no": 15,
+      "action": "将土豆片与食用油、孜然粉、辣椒粉、生抽、盐、蚝油拌匀，放入小号碗中",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s13",
+        "s14"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "土豆中加入20g食用油、2g孜然粉、1g辣椒粉、5g生抽、1g盐和10g蚝油拌匀，放入小号碗中。"
+    },
+    {
+      "step_id": "s16",
+      "source_step_no": 16,
+      "action": "将10g小葱切段，40g红椒切丝，备用",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s8"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "10g小葱切段，40g红椒切丝，备用。"
+    },
+    {
+      "step_id": "s17",
+      "source_step_no": 17,
+      "action": "打开设备，在设备或APP端进入套餐并选择开始烹饪，预热后把黄金炒饭、香辣虾放第1层，酸汤肥牛、白菜炖豆腐、家常土豆片放第3层，按提示取出后给土豆片加小葱段和红椒丝，翻拌黄金炒饭并盖锡箔纸，其余菜品翻拌后放回原位继续烹饪",
+      "device_raw": "机器",
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "上下火",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 180,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 40,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 40,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        },
+        {
+          "start_min": 12,
+          "duration_min": 2,
+          "source": "estimated"
+        },
+        {
+          "start_min": 24,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 25,
+          "duration_min": 3,
+          "source": "estimated"
+        },
+        {
+          "start_min": 28,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": true,
+        "duration_min": 10,
+        "source": "estimated",
+        "whole_device_exclusive": true,
+        "placement": "within_step"
+      },
+      "depends_on": [
+        "s2",
+        "s5",
+        "s9",
+        "s13",
+        "s15",
+        "s16"
+      ],
+      "temperature_c": 180,
+      "temperature_source": "estimated",
+      "human_active_min": 9,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "打开设备，在设备/APP端找到并进入套餐，选择“开始烹饪”按键，按屏幕提示操作。预热结束后，将黄金炒饭、香辣虾置于蒸烤盘上放入机器第1层，酸汤肥牛、白菜炖豆腐、家常土豆片置于蒸烤架上放入第3层。待屏幕提示后，取出菜品。土豆片中加入小葱段和红椒丝，黄金炒饭翻拌均匀，并盖上锡箔纸（小心烫伤），其余菜品适当翻拌，继续放回原位烹饪。"
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5c8200d96dc6e123a037a202",
+  "name": "豆豉蒸腐竹",
+  "ingredients_raw": "A料：腐竹150克；小葱1根；B料：食用油45克；豆豉30克；蒜4瓣；红剁椒15克；C料：鸡汤100克；盐1克；白糖3克；鸡精1克",
+  "ingredients": [
+    {
+      "name": "腐竹",
+      "amount_text": "150克",
+      "quantity": 150,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "A料：腐竹150克"
+    },
+    {
+      "name": "小葱",
+      "amount_text": "1根",
+      "quantity": 1,
+      "unit": "根",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "小葱1根"
+    },
+    {
+      "name": "食用油",
+      "amount_text": "45克",
+      "quantity": 45,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "B料：食用油45克"
+    },
+    {
+      "name": "豆豉",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "豆豉30克"
+    },
+    {
+      "name": "蒜",
+      "amount_text": "4瓣",
+      "quantity": 4,
+      "unit": "瓣",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "蒜4瓣"
+    },
+    {
+      "name": "红剁椒",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "红剁椒15克"
+    },
+    {
+      "name": "鸡汤",
+      "amount_text": "100克",
+      "quantity": 100,
+      "unit": "克",
+      "role": "辅料",
+      "category": "荤菜",
+      "source_text": "C料：鸡汤100克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "1克",
+      "quantity": 1,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐1克"
+    },
+    {
+      "name": "白糖",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白糖3克"
+    },
+    {
+      "name": "鸡精",
+      "amount_text": "1克",
+      "quantity": 1,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "鸡精1克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将腐竹切成6cm长的段，用开水泡发2小时，至完全软烂无干硬状态，挤干水分，整齐的摆在盘中。"
+    },
+    {
+      "no": 2,
+      "text": "将蒜去皮切末，豆豉切碎。"
+    },
+    {
+      "no": 3,
+      "text": "将炒锅上火烧热，倒入食用油，放豆豉、蒜末、剁椒，小火炒香，然后均匀的浇在腐竹上。"
+    },
+    {
+      "no": 4,
+      "text": "鸡汤中加入C中调料，溶解后将鸡汤倒入装有腐竹的盘中。"
+    },
+    {
+      "no": 5,
+      "text": "将盘子放在附送的有孔盘或架子上，放入设备第2层。开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "no": 6,
+      "text": "烹饪结束后取出，撒上葱花即可。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将腐竹切成6cm段，用开水泡发2小时至软烂，挤干水分后整齐摆盘",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 124,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        },
+        {
+          "start_min": 120,
+          "duration_min": 4,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 6,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将腐竹切成6cm长的段，用开水泡发2小时，至完全软烂无干硬状态，挤干水分，整齐的摆在盘中。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将蒜去皮切末，豆豉切碎",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将蒜去皮切末，豆豉切碎。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "炒锅烧热倒油，放入豆豉、蒜末、剁椒小火炒香，均匀浇在腐竹上",
+      "device_raw": "炒锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": "小火",
+      "heat_level": 2,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 5,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1",
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将炒锅上火烧热，倒入食用油，放豆豉、蒜末、剁椒，小火炒香，然后均匀的浇在腐竹上。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "鸡汤中加入盐、白糖、鸡精溶解，倒入装有腐竹的盘中",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "鸡汤中加入C中调料，溶解后将鸡汤倒入装有腐竹的盘中。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将盘子放入蒸箱第2层，开启电源并加满水箱，选择开始烹饪，按提示操作至烹饪结束",
+      "device_raw": "设备",
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "普通蒸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 17,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 17,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将盘子放在附送的有孔盘或架子上，放入设备第2层。开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "烹饪结束后取出，撒上葱花",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 2,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "烹饪结束后取出，撒上葱花即可。"
+    }
+  ]
+}

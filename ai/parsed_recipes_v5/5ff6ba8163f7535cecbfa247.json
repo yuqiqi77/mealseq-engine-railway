@@ -1,0 +1,385 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5ff6ba8163f7535cecbfa247",
+  "name": "碳烤基围虾",
+  "ingredients_raw": "A料：基围虾500克；洋葱半个；B料：盐1克；料酒15克；孜然粒2克；粗辣椒粉5克；食用油30克；黑胡椒汁15克；海鲜酱10克；蚝油5克；生抽5克；老抽5克；白糖5克；鸡粉5克",
+  "ingredients": [
+    {
+      "name": "基围虾",
+      "amount_text": "500克",
+      "quantity": 500,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "A料：基围虾500克"
+    },
+    {
+      "name": "洋葱",
+      "amount_text": "半个",
+      "quantity": 0.5,
+      "unit": "个",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "洋葱半个"
+    },
+    {
+      "name": "盐",
+      "amount_text": "1克",
+      "quantity": 1,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "B料：盐1克"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒15克"
+    },
+    {
+      "name": "孜然粒",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "孜然粒2克"
+    },
+    {
+      "name": "粗辣椒粉",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "粗辣椒粉5克"
+    },
+    {
+      "name": "食用油",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "食用油30克"
+    },
+    {
+      "name": "黑胡椒汁",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "黑胡椒汁15克"
+    },
+    {
+      "name": "海鲜酱",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "海鲜酱10克"
+    },
+    {
+      "name": "蚝油",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "蚝油5克"
+    },
+    {
+      "name": "生抽",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生抽5克"
+    },
+    {
+      "name": "老抽",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "老抽5克"
+    },
+    {
+      "name": "白糖",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白糖5克"
+    },
+    {
+      "name": "鸡粉",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "鸡粉5克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "制作碳烧汁。不粘锅锅内放入孜然粒，粗辣椒粉用小火炒香，再倒入食用油烧热关火，放入黑胡椒汁、海鲜酱、蚝油、生抽、老抽、白糖、鸡粉调匀即可，取出倒入深碗内备用。"
+    },
+    {
+      "no": 2,
+      "text": "将基尾虾洗净，剪去虾须、虾脚，用剪刀剪开虾背，挑去虾线，用盐、料酒腌制10分钟。"
+    },
+    {
+      "no": 3,
+      "text": "将洋葱去掉外皮，用刀切成洋葱粗丝备用；蒸烤盘内铺上硅油纸，再将洋葱丝平铺在硅油纸上备用。"
+    },
+    {
+      "no": 4,
+      "text": "将制作好的碳烧汁酱料，与基尾虾拌匀即可，置于洋葱丝上面。"
+    },
+    {
+      "no": 5,
+      "text": "开启电源，选择“开始烹饪”按键，按屏幕提示操作。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将孜然粒和粗辣椒粉用小火炒香，倒入食用油烧热后关火，加入其余调味料调匀，取出倒入深碗备用。",
+      "device_raw": "不粘锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": "小火",
+      "heat_level": 2,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 5,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "制作碳烧汁。不粘锅锅内放入孜然粒，粗辣椒粉用小火炒香，再倒入食用油烧热关火，放入黑胡椒汁、海鲜酱、蚝油、生抽、老抽、白糖、鸡粉调匀即可，取出倒入深碗内备用。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将基围虾洗净，剪去虾须虾脚，剪开虾背挑去虾线，用盐和料酒腌制10分钟。",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 13,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将基尾虾洗净，剪去虾须、虾脚，用剪刀剪开虾背，挑去虾线，用盐、料酒腌制10分钟。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将洋葱去皮切成粗丝，在蒸烤盘内铺硅油纸后平铺洋葱丝备用。",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将洋葱去掉外皮，用刀切成洋葱粗丝备用；蒸烤盘内铺上硅油纸，再将洋葱丝平铺在硅油纸上备用。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将碳烧汁与腌制好的基围虾拌匀，放在洋葱丝上。",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将制作好的碳烧汁酱料，与基尾虾拌匀即可，置于洋葱丝上面。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将蒸烤盘放入烤箱，开启电源，选择开始烹饪按键，按屏幕提示操作。",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "上下火",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 200,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 12,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 12,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": 200,
+      "temperature_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "开启电源，选择“开始烹饪”按键，按屏幕提示操作。"
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "schema_version": 5,
+  "recipe_id": "63495f5a728bf96da1acfa3a",
+  "name": "油醋汁剁肉饼蒸和乐蟹",
+  "ingredients_raw": "主料：五花肉250克；和乐蟹2只（500克）；辅料：香菇25克；马蹄25克；菜脯7克；葱花3克；鸡蛋清10克；葱花3克；生粉4克；花生油10毫升；玉米油30毫升；陈醋12毫升；蒸鱼豉油12毫升；盐2克；鸡粉3克；白糖9克",
+  "ingredients": [
+    {
+      "name": "五花肉",
+      "amount_text": "250克",
+      "quantity": 250,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "主料：五花肉250克"
+    },
+    {
+      "name": "和乐蟹",
+      "amount_text": "2只（500克）",
+      "quantity": 2,
+      "unit": "只",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "和乐蟹2只（500克）"
+    },
+    {
+      "name": "香菇",
+      "amount_text": "25克",
+      "quantity": 25,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "辅料：香菇25克"
+    },
+    {
+      "name": "马蹄",
+      "amount_text": "25克",
+      "quantity": 25,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "马蹄25克"
+    },
+    {
+      "name": "菜脯",
+      "amount_text": "7克",
+      "quantity": 7,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "菜脯7克"
+    },
+    {
+      "name": "葱花",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "葱花3克"
+    },
+    {
+      "name": "鸡蛋清",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "荤菜",
+      "source_text": "鸡蛋清10克"
+    },
+    {
+      "name": "葱花",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "葱花3克"
+    },
+    {
+      "name": "生粉",
+      "amount_text": "4克",
+      "quantity": 4,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生粉4克"
+    },
+    {
+      "name": "花生油",
+      "amount_text": "10毫升",
+      "quantity": 10,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "花生油10毫升"
+    },
+    {
+      "name": "玉米油",
+      "amount_text": "30毫升",
+      "quantity": 30,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "玉米油30毫升"
+    },
+    {
+      "name": "陈醋",
+      "amount_text": "12毫升",
+      "quantity": 12,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "陈醋12毫升"
+    },
+    {
+      "name": "蒸鱼豉油",
+      "amount_text": "12毫升",
+      "quantity": 12,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "蒸鱼豉油12毫升"
+    },
+    {
+      "name": "盐",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐2克"
+    },
+    {
+      "name": "鸡粉",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "鸡粉3克"
+    },
+    {
+      "name": "白糖",
+      "amount_text": "9克",
+      "quantity": 9,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白糖9克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将五花肉、香菇、马蹄分别切成玉米粒大小备用，菜脯切成小粒备用。"
+    },
+    {
+      "no": 2,
+      "text": "将切好的五花肉、香菇、马蹄、菜脯放入碗中，再加入盐、2克鸡粉、1克白砂糖、2克生粉、鸡蛋清和葱花沿一个方向用力搅拌均匀至起粘稠备用。"
+    },
+    {
+      "no": 3,
+      "text": "将和乐蟹宰杀好后，将壳掀开，用刀将蟹肉斩成八件，蟹钳用刀背拍裂开，用10毫升花生油、2克生粉、1克鸡粉一起拌均匀备用。"
+    },
+    {
+      "no": 4,
+      "text": "将调好味的肉馅放入圆盘内，用手按压成圆饼状，厚度约1厘米。"
+    },
+    {
+      "no": 5,
+      "text": "将蟹肉整齐摆放在肉饼上，再将蟹膏分别均匀摆在蟹肉上，盖上蟹壳即可。"
+    },
+    {
+      "no": 6,
+      "text": "选择“开始烹饪”按键，按屏幕提示操作。待预热完成后放入。"
+    },
+    {
+      "no": 7,
+      "text": "预热完成后将蒸烤架放入第2层，继续烹饪。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将五花肉、香菇、马蹄切成玉米粒大小，菜脯切成小粒备用",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 8,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 8,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 8,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将五花肉、香菇、马蹄分别切成玉米粒大小备用，菜脯切成小粒备用。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将切好的五花肉、香菇、马蹄、菜脯与盐、鸡粉、白砂糖、生粉、鸡蛋清、葱花同向搅拌至粘稠",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将切好的五花肉、香菇、马蹄、菜脯放入碗中，再加入盐、2克鸡粉、1克白砂糖、2克生粉、鸡蛋清和葱花沿一个方向用力搅拌均匀至起粘稠备用。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "宰杀和乐蟹，掀壳，将蟹肉斩成八件，拍裂蟹钳，与花生油、生粉、鸡粉拌匀",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 8,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 8,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 8,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将和乐蟹宰杀好后，将壳掀开，用刀将蟹肉斩成八件，蟹钳用刀背拍裂开，用10毫升花生油、2克生粉、1克鸡粉一起拌均匀备用。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将调好味的肉馅放入圆盘按压成约1厘米厚圆饼",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将调好味的肉馅放入圆盘内，用手按压成圆饼状，厚度约1厘米。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将蟹肉摆放在肉饼上，蟹膏均匀铺面，盖上蟹壳",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3",
+        "s4"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将蟹肉整齐摆放在肉饼上，再将蟹膏分别均匀摆在蟹肉上，盖上蟹壳即可。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "选择开始烹饪并按屏幕提示操作，等待预热完成后放入",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "普通蒸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 6,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 6,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 5,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": true,
+        "duration_min": 5,
+        "source": "estimated",
+        "whole_device_exclusive": true,
+        "placement": "within_step"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "选择“开始烹饪”按键，按屏幕提示操作。待预热完成后放入。"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "将蒸烤架放入蒸箱第2层，继续烹饪",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "普通蒸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 16,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 16,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s6",
+        "s5"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "预热完成后将蒸烤架放入第2层，继续烹饪。"
+    }
+  ]
+}

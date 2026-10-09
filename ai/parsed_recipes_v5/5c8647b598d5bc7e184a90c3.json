@@ -1,0 +1,366 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5c8647b598d5bc7e184a90c3",
+  "name": "椰香苹果香蕉烤燕麦",
+  "ingredients_raw": "A料：燕麦片50g；B料：椰蓉30g；鸡蛋1个；苹果1个；牛奶40ml；糖浆20g；肉桂粉0.3g；香蕉1个；食盐1g；白砂糖5g；椰子油5ml",
+  "ingredients": [
+    {
+      "name": "燕麦片",
+      "amount_text": "50g",
+      "quantity": 50,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "A料：燕麦片50g"
+    },
+    {
+      "name": "椰蓉",
+      "amount_text": "30g",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "B料：椰蓉30g"
+    },
+    {
+      "name": "鸡蛋",
+      "amount_text": "1个",
+      "quantity": 1,
+      "unit": "个",
+      "role": "辅料",
+      "category": "荤菜",
+      "source_text": "鸡蛋1个"
+    },
+    {
+      "name": "苹果",
+      "amount_text": "1个",
+      "quantity": 1,
+      "unit": "个",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "苹果1个"
+    },
+    {
+      "name": "牛奶",
+      "amount_text": "40ml",
+      "quantity": 40,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "荤菜",
+      "source_text": "牛奶40ml"
+    },
+    {
+      "name": "糖浆",
+      "amount_text": "20g",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "糖浆20g"
+    },
+    {
+      "name": "肉桂粉",
+      "amount_text": "0.3g",
+      "quantity": 0.3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "肉桂粉0.3g"
+    },
+    {
+      "name": "香蕉",
+      "amount_text": "1个",
+      "quantity": 1,
+      "unit": "个",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "香蕉1个"
+    },
+    {
+      "name": "食盐",
+      "amount_text": "1g",
+      "quantity": 1,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "食盐1g"
+    },
+    {
+      "name": "白砂糖",
+      "amount_text": "5g",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白砂糖5g"
+    },
+    {
+      "name": "椰子油",
+      "amount_text": "5ml",
+      "quantity": 5,
+      "unit": "毫升",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "椰子油5ml"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将苹果洗净切丝。"
+    },
+    {
+      "no": 2,
+      "text": "香蕉半个切片、半个擦丝。香蕉丝中打入鸡蛋，搅拌均匀。再倒入牛奶、椰蓉、燕麦、糖浆，加入1克食盐、肉桂粉，搅拌均匀。随后加入苹果丝，搅拌均匀。"
+    },
+    {
+      "no": 3,
+      "text": "烤碗底部抹上一层椰子油，将一半糊状物倒入烤碗中，将其铺平。"
+    },
+    {
+      "no": 4,
+      "text": "放上一半香蕉片，倒入剩下的糊状物，铺平，放上剩下的香蕉片。表面刷上一层椰子油，撒上适量白砂糖。"
+    },
+    {
+      "no": 5,
+      "text": "将烤碗放入烤箱烤制，选择“开始烹饪”按键，按屏幕提示操作，烤好取出即可食用。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将苹果洗净切丝",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将苹果洗净切丝。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将香蕉半个切片、半个擦丝，香蕉丝中打入鸡蛋搅匀，再倒入牛奶、椰蓉、燕麦片、糖浆、食盐、肉桂粉搅匀，最后加入苹果丝搅匀成糊状物",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 8,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 8,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 8,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "香蕉半个切片、半个擦丝。香蕉丝中打入鸡蛋，搅拌均匀。再倒入牛奶、椰蓉、燕麦、糖浆，加入1克食盐、肉桂粉，搅拌均匀。随后加入苹果丝，搅拌均匀。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "烤碗底部抹椰子油，倒入一半糊状物并铺平",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "烤碗底部抹上一层椰子油，将一半糊状物倒入烤碗中，将其铺平。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "放上一半香蕉片，倒入剩余糊状物铺平，放上剩余香蕉片，表面刷椰子油并撒白砂糖",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 4,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 4,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2",
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 4,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "放上一半香蕉片，倒入剩下的糊状物，铺平，放上剩下的香蕉片。表面刷上一层椰子油，撒上适量白砂糖。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将烤碗放入烤箱烤制，选择开始烹饪并按屏幕提示操作，烤好取出食用",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": "上下火",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 180,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 35,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 35,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        },
+        {
+          "start_min": 33,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": 180,
+      "temperature_source": "estimated",
+      "human_active_min": 4,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将烤碗放入烤箱烤制，选择“开始烹饪”按键，按屏幕提示操作，烤好取出即可食用。"
+    }
+  ]
+}

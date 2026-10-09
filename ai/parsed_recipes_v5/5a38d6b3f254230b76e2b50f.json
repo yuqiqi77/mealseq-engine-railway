@@ -1,0 +1,389 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5a38d6b3f254230b76e2b50f",
+  "name": "蒜香烤茄子",
+  "ingredients_raw": "A料：粗紫茄子2个；B料：蒜瓣40克；色拉油30克；辣黄豆酱10克；海鲜酱10克；美极鲜汁2克；生抽5克；矿泉水20克；C料：孜然粉适量；辣椒粉适量；熟白芝麻适量；葱适量",
+  "ingredients": [
+    {
+      "name": "粗紫茄子",
+      "amount_text": "2个",
+      "quantity": 2,
+      "unit": "个",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "A料：粗紫茄子2个"
+    },
+    {
+      "name": "蒜瓣",
+      "amount_text": "40克",
+      "quantity": 40,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "B料：蒜瓣40克"
+    },
+    {
+      "name": "色拉油",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "色拉油30克"
+    },
+    {
+      "name": "辣黄豆酱",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "辣黄豆酱10克"
+    },
+    {
+      "name": "海鲜酱",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "海鲜酱10克"
+    },
+    {
+      "name": "美极鲜汁",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "美极鲜汁2克"
+    },
+    {
+      "name": "生抽",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生抽5克"
+    },
+    {
+      "name": "矿泉水",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "矿泉水20克"
+    },
+    {
+      "name": "孜然粉",
+      "amount_text": "适量",
+      "quantity": null,
+      "unit": null,
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "C料：孜然粉适量"
+    },
+    {
+      "name": "辣椒粉",
+      "amount_text": "适量",
+      "quantity": null,
+      "unit": null,
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "辣椒粉适量"
+    },
+    {
+      "name": "熟白芝麻",
+      "amount_text": "适量",
+      "quantity": null,
+      "unit": null,
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "熟白芝麻适量"
+    },
+    {
+      "name": "葱",
+      "amount_text": "适量",
+      "quantity": null,
+      "unit": null,
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "葱适量"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "茄子洗净后放在烤架上，开启烤箱电源，将茄子放入烤箱进行第一步烘烤。"
+    },
+    {
+      "no": 2,
+      "text": "将蒜瓣去皮后切成蒜蓉，锅中加入色拉油，加蒜末炒成浅金黄色，盛入小碗，加入辣黄豆酱、海鲜酱、美极鲜汁、生抽、矿泉水混合均匀。"
+    },
+    {
+      "no": 3,
+      "text": "将烤好的茄子从烤箱中取出，放在垫有锡纸的烤盘上，对半切开，竖划几刀使之便于入味，将步骤2中的调味料均匀地铺在茄子表面。"
+    },
+    {
+      "no": 4,
+      "text": "依据个人口味在茄子表面均匀地撒上辣椒粉、孜然粉、熟白芝麻。"
+    },
+    {
+      "no": 5,
+      "text": "将调味后茄子再放回烤箱，按照提示操作，使其继续稍加烘烤。烘烤完成后取出，撒上葱花趁热食用。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将洗净的茄子放在烤架上，开启烤箱电源，放入烤箱进行第一步烘烤",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": "上下火",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "上火",
+          "value_c": 200,
+          "source": "estimated"
+        },
+        {
+          "zone": "下火",
+          "value_c": 200,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 23,
+      "duration_source": "estimated",
+      "device_active_start_min": 3,
+      "device_active_min": 20,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": 200,
+      "temperature_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "茄子洗净后放在烤架上，开启烤箱电源，将茄子放入烤箱进行第一步烘烤。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "蒜瓣去皮切蓉，锅中加油炒蒜末至浅金黄色，盛入小碗后加入酱料和矿泉水混合均匀",
+      "device_raw": "锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 3,
+      "humidity": null,
+      "duration_min": 10,
+      "duration_source": "estimated",
+      "device_active_start_min": 4,
+      "device_active_min": 6.0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 10,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 10,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将蒜瓣去皮后切成蒜蓉，锅中加入色拉油，加蒜末炒成浅金黄色，盛入小碗，加入辣黄豆酱、海鲜酱、美极鲜汁、生抽、矿泉水混合均匀。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将烤好的茄子从烤箱取出，放在锡纸烤盘上对半切开并划刀，铺上步骤2的调味料",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1",
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将烤好的茄子从烤箱中取出，放在垫有锡纸的烤盘上，对半切开，竖划几刀使之便于入味，将步骤2中的调味料均匀地铺在茄子表面。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "在茄子表面均匀撒上辣椒粉、孜然粉和熟白芝麻",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "依据个人口味在茄子表面均匀地撒上辣椒粉、孜然粉、熟白芝麻。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将调味后茄子放回烤箱继续烘烤，烘烤完成后取出并撒葱花趁热食用",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": "上下火",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "上火",
+          "value_c": 200,
+          "source": "estimated"
+        },
+        {
+          "zone": "下火",
+          "value_c": 200,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 12,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 10,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 10,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": 200,
+      "temperature_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将调味后茄子再放回烤箱，按照提示操作，使其继续稍加烘烤。烘烤完成后取出，撒上葱花趁热食用。"
+    }
+  ]
+}

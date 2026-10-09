@@ -1,0 +1,196 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5caf2ea3e78bfc455f2d5cad",
+  "name": "快手香蕉派",
+  "ingredients_raw": "A料：印度飞饼皮2张；B料：香蕉2根；全蛋液1个",
+  "ingredients": [
+    {
+      "name": "印度飞饼皮",
+      "amount_text": "2张",
+      "quantity": 2,
+      "unit": "张",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "A料：印度飞饼皮2张"
+    },
+    {
+      "name": "香蕉",
+      "amount_text": "2根",
+      "quantity": 2,
+      "unit": "根",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "B料：香蕉2根"
+    },
+    {
+      "name": "全蛋液",
+      "amount_text": "1个",
+      "quantity": 1,
+      "unit": "个",
+      "role": "辅料",
+      "category": "荤菜",
+      "source_text": "全蛋液1个"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "香蕉切丁备用。"
+    },
+    {
+      "no": 2,
+      "text": "取出冷冻的印度飞饼皮，在饼皮一侧摆满香蕉丁，将另一侧饼皮翻面覆盖在表面，边沿捏紧，在包好的香蕉派表面均匀刷上全蛋液。"
+    },
+    {
+      "no": 3,
+      "text": "烤盘/蒸烤盘放入机器中间层，选择“开始烹饪”按键，按屏幕提示操作。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将香蕉切丁备用",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "香蕉切丁备用。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "取出冷冻印度飞饼皮，摆上香蕉丁，覆盖另一侧饼皮，捏紧边沿，表面刷全蛋液",
+      "device_raw": null,
+      "device": "冰箱",
+      "device_source": "inferred",
+      "mode_raw": "冷冻",
+      "mode": "冷冻",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "冷冻室",
+          "value_c": -18,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": -18,
+      "temperature_source": "estimated",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "取出冷冻的印度飞饼皮，在饼皮一侧摆满香蕉丁，将另一侧饼皮翻面覆盖在表面，边沿捏紧，在包好的香蕉派表面均匀刷上全蛋液。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将烤盘/蒸烤盘放入机器中间层，选择开始烹饪，按屏幕提示操作",
+      "device_raw": "机器",
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "上下火",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 180,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 18,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 18,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": 180,
+      "temperature_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "烤盘/蒸烤盘放入机器中间层，选择“开始烹饪”按键，按屏幕提示操作。"
+    }
+  ]
+}

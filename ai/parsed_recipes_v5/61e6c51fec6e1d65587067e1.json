@@ -1,0 +1,280 @@
+{
+  "schema_version": 5,
+  "recipe_id": "61e6c51fec6e1d65587067e1",
+  "name": "低温牛排",
+  "ingredients_raw": "A料：牛排2片（170g/片，厚度2cm）；B料：海盐2克；黑胡椒碎适量；C料：黄油20克；蒜瓣1片；洋葱200克；黑胡椒汁适量",
+  "ingredients": [
+    {
+      "name": "牛排",
+      "amount_text": "2片（170g/片，厚度2cm）",
+      "quantity": 2,
+      "unit": "片",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "A料：牛排2片（170g/片，厚度2cm）"
+    },
+    {
+      "name": "海盐",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "B料：海盐2克"
+    },
+    {
+      "name": "黑胡椒碎",
+      "amount_text": "适量",
+      "quantity": null,
+      "unit": null,
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "黑胡椒碎适量"
+    },
+    {
+      "name": "黄油",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "C料：黄油20克"
+    },
+    {
+      "name": "蒜瓣",
+      "amount_text": "1片",
+      "quantity": 1,
+      "unit": "片",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "蒜瓣1片"
+    },
+    {
+      "name": "洋葱",
+      "amount_text": "200克",
+      "quantity": 200,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "洋葱200克"
+    },
+    {
+      "name": "黑胡椒汁",
+      "amount_text": "适量",
+      "quantity": null,
+      "unit": null,
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "黑胡椒汁适量"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "牛排解冻清洗后用厨房纸巾吸干血水，两面撒上少许海盐、黑胡椒碎，装入专用食品密封袋并抽真空。"
+    },
+    {
+      "no": 2,
+      "text": "将牛排放入蒸烤架上，放入蒸烤箱第二层，蒸烤箱取出水箱加满水，根据屏幕提示操作。"
+    },
+    {
+      "no": 3,
+      "text": "将蒜切片，洋葱切条。"
+    },
+    {
+      "no": 4,
+      "text": "取牛排沥干表面水分，在平底锅中放入黄油、蒜片，油温上升至180℃时放入牛排及洋葱，中火（1600w）煎至两面微焦（约2min），浇上黑胡椒汁，点缀煮熟的西兰花即可。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "牛排解冻后清洗吸干血水，两面撒海盐和黑胡椒碎，装入密封袋抽真空",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 10,
+      "duration_source": "estimated",
+      "human_active_min": 10,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 10,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "牛排解冻清洗后用厨房纸巾吸干血水，两面撒上少许海盐、黑胡椒碎，装入专用食品密封袋并抽真空。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将牛排放在蒸烤架上放入蒸烤箱第二层，水箱加满水，按屏幕提示设置运行",
+      "device_raw": "蒸烤箱",
+      "device": "烤箱",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": "加湿烤",
+      "mode_source": "estimated",
+      "temperature_c": 60,
+      "temperature_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 60,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": "低",
+      "duration_min": 30,
+      "duration_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 30,
+      "device_active_source": "estimated",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将牛排放入蒸烤架上，放入蒸烤箱第二层，蒸烤箱取出水箱加满水，根据屏幕提示操作。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将蒜切片，洋葱切条",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "device_active_source": "not_applicable",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将蒜切片，洋葱切条。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "取牛排沥干水分，平底锅放黄油和蒜片，油温升至180℃后放入牛排和洋葱，中火煎至两面微焦，浇黑胡椒汁并点缀西兰花",
+      "device_raw": "平底锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_c": 180,
+      "temperature_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "锅内油温",
+          "value_c": 180,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": "中火（1600w）",
+      "heat_level": 4,
+      "humidity": null,
+      "duration_min": 6,
+      "duration_source": "estimated",
+      "human_active_min": 6,
+      "human_active_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 6,
+      "device_active_source": "estimated",
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 6,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2",
+        "s3"
+      ],
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "取牛排沥干表面水分，在平底锅中放入黄油、蒜片，油温上升至180℃时放入牛排及洋葱，中火（1600w）煎至两面微焦（约2min），浇上黑胡椒汁，点缀煮熟的西兰花即可。"
+    }
+  ]
+}

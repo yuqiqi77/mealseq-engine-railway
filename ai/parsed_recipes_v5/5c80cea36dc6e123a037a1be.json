@@ -1,0 +1,407 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5c80cea36dc6e123a037a1be",
+  "name": "香辣烤鸡爪",
+  "ingredients_raw": "A料：鸡爪750g；B料：水1400g；老抽1.5汤匙；生抽2汤匙；料酒1汤匙；盐1/8茶匙；大葱1段；生姜2片；八角1个；桂皮1块；香叶2片；C料：蚝油1T；孜然粉1g；辣椒1g",
+  "ingredients": [
+    {
+      "name": "鸡爪",
+      "amount_text": "750g",
+      "quantity": 750,
+      "unit": "g",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "A料：鸡爪750g"
+    },
+    {
+      "name": "水",
+      "amount_text": "1400g",
+      "quantity": 1400,
+      "unit": "g",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "B料：水1400g"
+    },
+    {
+      "name": "老抽",
+      "amount_text": "1.5汤匙",
+      "quantity": 1.5,
+      "unit": "汤匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "老抽1.5汤匙"
+    },
+    {
+      "name": "生抽",
+      "amount_text": "2汤匙",
+      "quantity": 2,
+      "unit": "汤匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生抽2汤匙"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "1汤匙",
+      "quantity": 1,
+      "unit": "汤匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒1汤匙"
+    },
+    {
+      "name": "盐",
+      "amount_text": "1/8茶匙",
+      "quantity": 0.125,
+      "unit": "茶匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐1/8茶匙"
+    },
+    {
+      "name": "大葱",
+      "amount_text": "1段",
+      "quantity": 1,
+      "unit": "段",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "大葱1段"
+    },
+    {
+      "name": "生姜",
+      "amount_text": "2片",
+      "quantity": 2,
+      "unit": "片",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生姜2片"
+    },
+    {
+      "name": "八角",
+      "amount_text": "1个",
+      "quantity": 1,
+      "unit": "个",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "八角1个"
+    },
+    {
+      "name": "桂皮",
+      "amount_text": "1块",
+      "quantity": 1,
+      "unit": "块",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "桂皮1块"
+    },
+    {
+      "name": "香叶",
+      "amount_text": "2片",
+      "quantity": 2,
+      "unit": "片",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "香叶2片"
+    },
+    {
+      "name": "蚝油",
+      "amount_text": "1T",
+      "quantity": 1,
+      "unit": "T",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "C料：蚝油1T"
+    },
+    {
+      "name": "孜然粉",
+      "amount_text": "1g",
+      "quantity": 1,
+      "unit": "g",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "孜然粉1g"
+    },
+    {
+      "name": "辣椒",
+      "amount_text": "1g",
+      "quantity": 1,
+      "unit": "g",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "辣椒1g"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将鸡爪清净，剪去指窝处的老茧和指甲。"
+    },
+    {
+      "no": 2,
+      "text": "锅中放入鸡爪，加清水没过鸡爪，大火煮至水开，煮约10分钟关火，捞出鸡爪用冷水冲洗干净。"
+    },
+    {
+      "no": 3,
+      "text": "锅中加入1400g水，加入B中所有调料，放入鸡爪，大火烧开，水开后转中火继续炖煮约40分钟，炖煮后期水越来越少，需间歇翻拌鸡爪，直至鸡爪用筷子可戳烂，收汁上色，关火捞出鸡爪放在大碗中。"
+    },
+    {
+      "no": 4,
+      "text": "取5T锅中剩余的浓稠汤汁加入鸡爪中；再加入蚝油、孜然粉和辣椒粉，与鸡爪拌匀，将拌匀的鸡爪摆放在垫有烘焙纸的烤盘中。"
+    },
+    {
+      "no": 5,
+      "text": "将烤盘放入烤箱第3层，选择“开始烹饪”按键，按屏幕提示操作。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将鸡爪清净，剪去指窝处的老茧和指甲",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将鸡爪清净，剪去指窝处的老茧和指甲。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "锅中放入鸡爪，加清水没过鸡爪，大火煮至水开，煮约10分钟关火，捞出鸡爪用冷水冲洗干净",
+      "device_raw": "锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": "大火",
+      "heat_level": 6,
+      "humidity": null,
+      "duration_min": 15,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 15.0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        },
+        {
+          "start_min": 13,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 4,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "锅中放入鸡爪，加清水没过鸡爪，大火煮至水开，煮约10分钟关火，捞出鸡爪用冷水冲洗干净。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "锅中加入1400g水，加入B中所有调料，放入鸡爪，大火烧开，转中火炖煮约40分钟，期间间歇翻拌，收汁上色后关火捞出鸡爪放在大碗中",
+      "device_raw": "锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": "大火转中火",
+      "heat_level": 4,
+      "humidity": null,
+      "duration_min": 50,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 50.0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        },
+        {
+          "start_min": 20,
+          "duration_min": 2,
+          "source": "estimated"
+        },
+        {
+          "start_min": 35,
+          "duration_min": 2,
+          "source": "estimated"
+        },
+        {
+          "start_min": 45,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 12,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "锅中加入1400g水，加入B中所有调料，放入鸡爪，大火烧开，水开后转中火继续炖煮约40分钟，炖煮后期水越来越少，需间歇翻拌鸡爪，直至鸡爪用筷子可戳烂，收汁上色，关火捞出鸡爪放在大碗中。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "取5T锅中剩余浓稠汤汁加入鸡爪中，加入蚝油、孜然粉和辣椒粉，与鸡爪拌匀，摆放在垫有烘焙纸的烤盘中",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "取5T锅中剩余的浓稠汤汁加入鸡爪中；再加入蚝油、孜然粉和辣椒粉，与鸡爪拌匀，将拌匀的鸡爪摆放在垫有烘焙纸的烤盘中。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将烤盘放入烤箱第3层，选择“开始烹饪”按键，按屏幕提示操作并烘烤",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": "上下火",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 200,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 16,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 16,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": 200,
+      "temperature_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将烤盘放入烤箱第3层，选择“开始烹饪”按键，按屏幕提示操作。"
+    }
+  ]
+}

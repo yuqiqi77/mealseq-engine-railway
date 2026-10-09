@@ -1,0 +1,284 @@
+{
+  "schema_version": 5,
+  "recipe_id": "6889acfbf5dd4d1e1f228e84",
+  "name": "沙参老鸭麦冬汤",
+  "ingredients_raw": "主料：老鸭1500克；沙参30克；麦冬10克；辅料：盐10克；姜片15克；大葱段20克；黄酒20克；纯净水2000克",
+  "ingredients": [
+    {
+      "name": "老鸭",
+      "amount_text": "1500克",
+      "quantity": 1500,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "主料：老鸭1500克"
+    },
+    {
+      "name": "沙参",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "沙参30克"
+    },
+    {
+      "name": "麦冬",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "麦冬10克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "辅料：盐10克"
+    },
+    {
+      "name": "姜片",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "姜片15克"
+    },
+    {
+      "name": "大葱段",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "大葱段20克"
+    },
+    {
+      "name": "黄酒",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "黄酒20克"
+    },
+    {
+      "name": "纯净水",
+      "amount_text": "2000克",
+      "quantity": 2000,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "纯净水2000克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将鸭块、姜片、葱段、料酒和没过食材的水放入锅中，开中大火进行焯水，结束后洗净鸭块。"
+    },
+    {
+      "no": 2,
+      "text": "再将焯好的鸭块进行煸炒出油，炒至微黄后，撇去多余的油脂。"
+    },
+    {
+      "no": 3,
+      "text": "将炒好的鸭块、沙参麦冬包和2000g纯净水放入砂锅中。"
+    },
+    {
+      "no": 4,
+      "text": "将其放在蒸烤架上，放入机器最底层，设置普通蒸100℃，120分钟。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将鸭块、姜片、葱段、料酒和水放入锅中，开中大火焯水，结束后洗净鸭块",
+      "device_raw": "锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": "中大火",
+      "heat_level": 5,
+      "humidity": null,
+      "duration_min": 15,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 15.0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 15,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 15,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将鸭块、姜片、葱段、料酒和没过食材的水放入锅中，开中大火进行焯水，结束后洗净鸭块。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将焯好的鸭块煸炒出油至微黄，撇去多余油脂",
+      "device_raw": null,
+      "device": "灶具",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 4,
+      "humidity": null,
+      "duration_min": 8,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 8,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 8,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 8,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "再将焯好的鸭块进行煸炒出油，炒至微黄后，撇去多余的油脂。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将炒好的鸭块、沙参麦冬包和2000g纯净水放入砂锅",
+      "device_raw": "砂锅",
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将炒好的鸭块、沙参麦冬包和2000g纯净水放入砂锅中。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将砂锅放在蒸烤架上，放入机器最底层，设置普通蒸100℃运行120分钟",
+      "device_raw": "机器",
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": "普通蒸",
+      "mode": "普通蒸",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 122,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 122,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "explicit",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将其放在蒸烤架上，放入机器最底层，设置普通蒸100℃，120分钟。"
+    }
+  ]
+}

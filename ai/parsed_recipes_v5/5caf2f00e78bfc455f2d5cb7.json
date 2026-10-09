@@ -1,0 +1,651 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5caf2f00e78bfc455f2d5cb7",
+  "name": "拿破仑酥",
+  "ingredients_raw": "A料：低筋面粉110g；高筋面粉15g；黄油20g；盐1g；水63g；酥皮油80g；B料：全脂牛奶240g；细砂糖30g；香草荚1/2条；淀粉30g；蛋黄64g；黄油20g",
+  "ingredients": [
+    {
+      "name": "低筋面粉",
+      "amount_text": "110g",
+      "quantity": 110,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "A料：低筋面粉110g"
+    },
+    {
+      "name": "高筋面粉",
+      "amount_text": "15g",
+      "quantity": 15,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "高筋面粉15g"
+    },
+    {
+      "name": "黄油",
+      "amount_text": "20g",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "黄油20g"
+    },
+    {
+      "name": "盐",
+      "amount_text": "1g",
+      "quantity": 1,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐1g"
+    },
+    {
+      "name": "水",
+      "amount_text": "63g",
+      "quantity": 63,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "水63g"
+    },
+    {
+      "name": "酥皮油",
+      "amount_text": "80g",
+      "quantity": 80,
+      "unit": "克",
+      "role": "主料",
+      "category": "调味品",
+      "source_text": "酥皮油80g"
+    },
+    {
+      "name": "全脂牛奶",
+      "amount_text": "240g",
+      "quantity": 240,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "B料：全脂牛奶240g"
+    },
+    {
+      "name": "细砂糖",
+      "amount_text": "30g",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "细砂糖30g"
+    },
+    {
+      "name": "香草荚",
+      "amount_text": "1/2条",
+      "quantity": 0.5,
+      "unit": "条",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "香草荚1/2条"
+    },
+    {
+      "name": "淀粉",
+      "amount_text": "30g",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "淀粉30g"
+    },
+    {
+      "name": "蛋黄",
+      "amount_text": "64g",
+      "quantity": 64,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "蛋黄64g"
+    },
+    {
+      "name": "黄油",
+      "amount_text": "20g",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "黄油20g"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "制作卡仕达酱：将B中淀粉和蛋黄搅拌混合均匀；将牛奶、糖、香草荚放入厚底锅中，加热煮开，冲入蛋黄糊中，边冲入边不停搅拌；再小火加热，不停搅拌直至成粘稠状态；离火加入黄油搅拌混合均匀，贴保鲜膜封面放凉冷藏备用。"
+    },
+    {
+      "no": 2,
+      "text": "将A中粉类过筛，与黄油、盐、冰水混合均匀，搓至均匀无颗粒状态，揉成团，将面团封保鲜膜放冰箱冷藏30分钟左右。"
+    },
+    {
+      "no": 3,
+      "text": "将酥皮油放烘焙纸上，擀成长10厘米宽10厘米的方形片状，放冰箱冷藏半小时。"
+    },
+    {
+      "no": 4,
+      "text": "取出冰箱的面团擀成长23厘米宽11-12厘米的方形片状，将酥皮油放置面团中间，封住接口完全包住酥皮油，此时封口为H形，然后封口向下封口为“工”字型放置，将面团擀至长36厘米宽10厘米的方形片状，将面团翻面即接口面向上，进行三折即面团为3层，放冰箱冷藏30分钟左右。"
+    },
+    {
+      "no": 5,
+      "text": "取出面团接口面向下，擀至长38厘米宽10厘米的方形片状，将面团翻面即接口面向上，进行第二次三折，放冰箱冷藏30分钟左右。"
+    },
+    {
+      "no": 6,
+      "text": "取出面团接口面向下，擀至长36厘米宽10厘米的方形片状，将面团翻面即接口面向上，头尾用刀切除，进行第三次三折，放冰箱冷藏30分钟左右。"
+    },
+    {
+      "no": 7,
+      "text": "取出面团接口面向下，擀至长36厘米宽10厘米的方形片状，四边用刀切除边沿，均匀扎孔，放入冰箱冷冻1小时。"
+    },
+    {
+      "no": 8,
+      "text": "将浅烤盘放入烤箱第3层，选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "no": 9,
+      "text": "取出放凉，用刀切成所需形状，将酥层分开，挤卡仕达酱，最外层表面挤奶油放上时令水果装饰食用。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将淀粉和蛋黄混匀；牛奶、糖、香草荚煮开后冲入蛋黄糊并搅拌，小火加热至粘稠，离火加黄油拌匀，贴保鲜膜冷藏备用",
+      "device_raw": "厚底锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": "小火",
+      "heat_level": 2,
+      "humidity": null,
+      "duration_min": 45,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 11.0,
+      "additional_device_usages": [
+        {
+          "device": "冰箱",
+          "mode": "冷藏",
+          "temperature_settings": [
+            {
+              "zone": "冷藏室",
+              "value_c": 4,
+              "source": "estimated"
+            }
+          ],
+          "start_min": 11,
+          "duration_min": 34,
+          "action": "冷藏卡仕达酱备用"
+        }
+      ],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 11,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 11,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "制作卡仕达酱：将B中淀粉和蛋黄搅拌混合均匀；将牛奶、糖、香草荚放入厚底锅中，加热煮开，冲入蛋黄糊中，边冲入边不停搅拌；再小火加热，不停搅拌直至成粘稠状态；离火加入黄油搅拌混合均匀，贴保鲜膜封面放凉冷藏备用。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将A中粉类过筛，与黄油、盐、冰水混合揉成团，封保鲜膜冷藏30分钟",
+      "device_raw": "冰箱",
+      "device": "冰箱",
+      "device_source": "explicit",
+      "mode_raw": "冷藏",
+      "mode": "冷藏",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "冷藏室",
+          "value_c": 4,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 41,
+      "duration_source": "estimated",
+      "device_active_start_min": 11,
+      "device_active_min": 30,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 11,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": 4,
+      "temperature_source": "estimated",
+      "human_active_min": 11,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "将A中粉类过筛，与黄油、盐、冰水混合均匀，搓至均匀无颗粒状态，揉成团，将面团封保鲜膜放冰箱冷藏30分钟左右。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将酥皮油放烘焙纸上擀成10厘米方形，放冰箱冷藏半小时",
+      "device_raw": "冰箱",
+      "device": "冰箱",
+      "device_source": "explicit",
+      "mode_raw": "冷藏",
+      "mode": "冷藏",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "冷藏室",
+          "value_c": 4,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 36,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 30,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 6,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": 4,
+      "temperature_source": "estimated",
+      "human_active_min": 6,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "将酥皮油放烘焙纸上，擀成长10厘米宽10厘米的方形片状，放冰箱冷藏半小时。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "取出面团擀开，包入酥皮油并封口，擀至36厘米后翻面三折，放冰箱冷藏30分钟",
+      "device_raw": "冰箱",
+      "device": "冰箱",
+      "device_source": "explicit",
+      "mode_raw": "冷藏",
+      "mode": "冷藏",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "冷藏室",
+          "value_c": 4,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 42,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "additional_device_usages": [
+        {
+          "device": "冰箱",
+          "mode": "冷藏",
+          "temperature_settings": [
+            {
+              "zone": "冷藏室",
+              "value_c": 4,
+              "source": "estimated"
+            }
+          ],
+          "start_min": 12,
+          "duration_min": 30,
+          "action": "将包好酥皮油的面团放冰箱冷藏30分钟"
+        }
+      ],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 12,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2",
+        "s3"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": 4,
+      "temperature_source": "estimated",
+      "human_active_min": 12,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "取出冰箱的面团擀成长23厘米宽11-12厘米的方形片状，将酥皮油放置面团中间，封住接口完全包住酥皮油，此时封口为H形，然后封口向下封口为“工”字型放置，将面团擀至长36厘米宽10厘米的方形片状，将面团翻面即接口面向上，进行三折即面团为3层，放冰箱冷藏30分钟左右。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "取出面团接口向下擀至38厘米，翻面进行第二次三折，放冰箱冷藏30分钟",
+      "device_raw": "冰箱",
+      "device": "冰箱",
+      "device_source": "explicit",
+      "mode_raw": "冷藏",
+      "mode": "冷藏",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "冷藏室",
+          "value_c": 4,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 39,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "additional_device_usages": [
+        {
+          "device": "冰箱",
+          "mode": "冷藏",
+          "temperature_settings": [
+            {
+              "zone": "冷藏室",
+              "value_c": 4,
+              "source": "estimated"
+            }
+          ],
+          "start_min": 9,
+          "duration_min": 30,
+          "action": "将三折后的面团放冰箱冷藏30分钟"
+        }
+      ],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 9,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": 4,
+      "temperature_source": "estimated",
+      "human_active_min": 9,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "取出面团接口面向下，擀至长38厘米宽10厘米的方形片状，将面团翻面即接口面向上，进行第二次三折，放冰箱冷藏30分钟左右。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "取出面团，接口向下擀成36×10厘米方形，翻面后切除头尾，进行第三次三折，放入冰箱冷藏30分钟",
+      "device_raw": "冰箱",
+      "device": "冰箱",
+      "device_source": "explicit",
+      "mode_raw": "冷藏",
+      "mode": "冷藏",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "冷藏室",
+          "value_c": 4,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 38,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 30,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 8,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": 4,
+      "temperature_source": "estimated",
+      "human_active_min": 8,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "取出面团接口面向下，擀至长36厘米宽10厘米的方形片状，将面团翻面即接口面向上，头尾用刀切除，进行第三次三折，放冰箱冷藏30分钟左右。"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "取出面团，接口向下擀成36×10厘米方形，切除四边并扎孔，放入冰箱冷冻1小时",
+      "device_raw": "冰箱",
+      "device": "冰箱",
+      "device_source": "explicit",
+      "mode_raw": "冷冻",
+      "mode": "冷冻",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "冷冻室",
+          "value_c": -18,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 66,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 60,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 6,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s6"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": -18,
+      "temperature_source": "estimated",
+      "human_active_min": 6,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "取出面团接口面向下，擀至长36厘米宽10厘米的方形片状，四边用刀切除边沿，均匀扎孔，放入冰箱冷冻1小时。"
+    },
+    {
+      "step_id": "s8",
+      "source_step_no": 8,
+      "action": "将浅烤盘放入烤箱第3层，选择开始烹饪并按屏幕提示操作",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": "上下火",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 200,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 21,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 21,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s7"
+      ],
+      "temperature_c": 200,
+      "temperature_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "将浅烤盘放入烤箱第3层，选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "step_id": "s9",
+      "source_step_no": 9,
+      "action": "取出烤好的酥皮放凉，切形、分开酥层，挤卡仕达酱和奶油，放时令水果装饰食用",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 20,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 15,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s8",
+        "s1"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 6,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "取出放凉，用刀切成所需形状，将酥层分开，挤卡仕达酱，最外层表面挤奶油放上时令水果装饰食用。"
+    }
+  ]
+}

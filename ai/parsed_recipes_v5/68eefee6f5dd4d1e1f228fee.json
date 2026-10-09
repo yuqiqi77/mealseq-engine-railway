@@ -1,0 +1,266 @@
+{
+  "schema_version": 5,
+  "recipe_id": "68eefee6f5dd4d1e1f228fee",
+  "name": "茯苓饼干",
+  "ingredients_raw": "主料：低筋面粉80克；玉米淀粉20克；茯苓粉50克；黄油30克；鸡蛋1个（60）；白砂糖20克",
+  "ingredients": [
+    {
+      "name": "低筋面粉",
+      "amount_text": "80克",
+      "quantity": 80,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "主料：低筋面粉80克"
+    },
+    {
+      "name": "玉米淀粉",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "玉米淀粉20克"
+    },
+    {
+      "name": "茯苓粉",
+      "amount_text": "50克",
+      "quantity": 50,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "茯苓粉50克"
+    },
+    {
+      "name": "黄油",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "黄油30克"
+    },
+    {
+      "name": "鸡蛋",
+      "amount_text": "1个（60）",
+      "quantity": 1,
+      "unit": "个",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "鸡蛋1个（60）"
+    },
+    {
+      "name": "白砂糖",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "主料",
+      "category": "调味品",
+      "source_text": "白砂糖20克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将黄油放入盆中隔热水软化，加入鸡蛋液混合均匀。"
+    },
+    {
+      "no": 2,
+      "text": "将过筛后的茯苓粉、玉米淀粉及白砂糖加入黄油和鸡蛋液中充分搅拌，再加入低筋面粉揉成面团，静置10-15分钟。"
+    },
+    {
+      "no": 3,
+      "text": "面团放在硅油纸上，上面覆盖保鲜膜，用擀面杖压成薄片，用模具刻成特定形状，放入蒸烤盘中。"
+    },
+    {
+      "no": 4,
+      "text": "将蒸烤盘置于机器中间层，设置全开烤150℃，30分钟。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将黄油隔热水软化，加入鸡蛋液混合均匀",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将黄油放入盆中隔热水软化，加入鸡蛋液混合均匀。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将过筛的茯苓粉、玉米淀粉、白砂糖加入黄油鸡蛋液搅拌，再加入低筋面粉揉成面团，静置10-15分钟",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 20,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将过筛后的茯苓粉、玉米淀粉及白砂糖加入黄油和鸡蛋液中充分搅拌，再加入低筋面粉揉成面团，静置10-15分钟。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将面团放硅油纸上覆保鲜膜擀成薄片，用模具刻形后放入蒸烤盘",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 10,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 10,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 10,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "面团放在硅油纸上，上面覆盖保鲜膜，用擀面杖压成薄片，用模具刻成特定形状，放入蒸烤盘中。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将蒸烤盘置于机器中间层，设置全开烤150℃烤30分钟",
+      "device_raw": "机器",
+      "device": "烤箱",
+      "device_source": "normalized",
+      "mode_raw": "全开烤",
+      "mode": "全开烤",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 150,
+          "source": "explicit"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 31,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 31,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "temperature_c": 150,
+      "temperature_source": "explicit",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将蒸烤盘置于机器中间层，设置全开烤150℃，30分钟。"
+    }
+  ]
+}

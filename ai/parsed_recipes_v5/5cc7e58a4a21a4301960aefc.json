@@ -1,0 +1,555 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5cc7e58a4a21a4301960aefc",
+  "name": "温州鱼饼",
+  "ingredients_raw": "主料：鮸鱼净鱼肉300g；辅料：猪肥膘60g；粗洋芋淀粉100g；葱白碎5g；蛋清10g；水20g；生姜10g；白糖1/2t(2.5克)；盐1/2t(3克)；鸡精1/2t(2克)；料酒1t(14克)",
+  "ingredients": [
+    {
+      "name": "鮸鱼净鱼肉",
+      "amount_text": "300g",
+      "quantity": 300,
+      "unit": "g",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "主料：鮸鱼净鱼肉300g"
+    },
+    {
+      "name": "猪肥膘",
+      "amount_text": "60g",
+      "quantity": 60,
+      "unit": "g",
+      "role": "辅料",
+      "category": "荤菜",
+      "source_text": "辅料：猪肥膘60g"
+    },
+    {
+      "name": "粗洋芋淀粉",
+      "amount_text": "100g",
+      "quantity": 100,
+      "unit": "g",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "粗洋芋淀粉100g"
+    },
+    {
+      "name": "葱白碎",
+      "amount_text": "5g",
+      "quantity": 5,
+      "unit": "g",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "葱白碎5g"
+    },
+    {
+      "name": "蛋清",
+      "amount_text": "10g",
+      "quantity": 10,
+      "unit": "g",
+      "role": "辅料",
+      "category": "荤菜",
+      "source_text": "蛋清10g"
+    },
+    {
+      "name": "水",
+      "amount_text": "20g",
+      "quantity": 20,
+      "unit": "g",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "水20g"
+    },
+    {
+      "name": "生姜",
+      "amount_text": "10g",
+      "quantity": 10,
+      "unit": "g",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "生姜10g"
+    },
+    {
+      "name": "白糖",
+      "amount_text": "1/2t(2.5克)",
+      "quantity": 2.5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白糖1/2t(2.5克)"
+    },
+    {
+      "name": "盐",
+      "amount_text": "1/2t(3克)",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐1/2t(3克)"
+    },
+    {
+      "name": "鸡精",
+      "amount_text": "1/2t(2克)",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "鸡精1/2t(2克)"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "1t(14克)",
+      "quantity": 14,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒1t(14克)"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "鮸鱼洗净后取净鱼肉300g。"
+    },
+    {
+      "no": 2,
+      "text": "将鱼肉与猪肥膘一起用刀剁碎备用（或料理机搅碎备用）。"
+    },
+    {
+      "no": 3,
+      "text": "生姜用刀背拍碎后加入20g清水中。"
+    },
+    {
+      "no": 4,
+      "text": "稍微按压后取10g生姜水倒入鱼肉末中。"
+    },
+    {
+      "no": 5,
+      "text": "在鱼肉末中加入白糖1/2t，盐1/2t，鸡精1/2t，料酒1t，蛋清10g，葱白碎5g及粗洋芋淀粉100g。"
+    },
+    {
+      "no": 6,
+      "text": "拌匀后用手反复摔打使其上劲。"
+    },
+    {
+      "no": 7,
+      "text": "手上沾少许水，将鱼肉馅均分成两块，整形成两个长扁形的鱼饼（约长10cm*宽5cm*厚3cm）。"
+    },
+    {
+      "no": 8,
+      "text": "放入锅中煎至两面金黄色，放入盘后放入有孔蒸盘中。"
+    },
+    {
+      "no": 9,
+      "text": "将有孔蒸盘（或蒸烤架）放入烹饪机中间层，选择“开始烹饪”按键，按屏幕提示操作。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将鮸鱼洗净，取净鱼肉300g",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 10,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 10,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 10,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "鮸鱼洗净后取净鱼肉300g。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将鱼肉与猪肥膘一起剁碎或用料理机搅碎备用",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 8,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 8,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 8,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将鱼肉与猪肥膘一起用刀剁碎备用（或料理机搅碎备用）。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将生姜用刀背拍碎后加入20g清水",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "生姜用刀背拍碎后加入20g清水中。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "稍微按压后取10g生姜水倒入鱼肉末中",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2",
+        "s3"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "稍微按压后取10g生姜水倒入鱼肉末中。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "在鱼肉末中加入白糖、盐、鸡精、料酒、蛋清、葱白碎及粗洋芋淀粉",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "在鱼肉末中加入白糖1/2t，盐1/2t，鸡精1/2t，料酒1t，蛋清10g，葱白碎5g及粗洋芋淀粉100g。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "拌匀后用手反复摔打鱼肉馅使其上劲",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 8,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 8,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 8,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "拌匀后用手反复摔打使其上劲。"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "手上沾少许水，将鱼肉馅均分成两块，整形成两个长扁形鱼饼",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s6"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "手上沾少许水，将鱼肉馅均分成两块，整形成两个长扁形的鱼饼（约长10cm*宽5cm*厚3cm）。"
+    },
+    {
+      "step_id": "s8",
+      "source_step_no": 8,
+      "action": "将鱼饼放入锅中煎至两面金黄色，放入盘后再放入有孔蒸盘中",
+      "device_raw": "锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 4,
+      "humidity": null,
+      "duration_min": 10,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 10,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 10,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s7"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 10,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "放入锅中煎至两面金黄色，放入盘后放入有孔蒸盘中。"
+    },
+    {
+      "step_id": "s9",
+      "source_step_no": 9,
+      "action": "将有孔蒸盘放入烹饪机中间层，选择开始烹饪按键，按屏幕提示操作",
+      "device_raw": "烹饪机",
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "普通蒸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 11,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 11,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s8"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将有孔蒸盘（或蒸烤架）放入烹饪机中间层，选择“开始烹饪”按键，按屏幕提示操作。"
+    }
+  ]
+}

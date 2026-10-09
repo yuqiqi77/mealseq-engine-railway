@@ -1,0 +1,660 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5c80d49c6dc6e123a037a1c5",
+  "name": "珍珠爆浆蛋糕",
+  "ingredients_raw": "A料：鸡蛋4个；细砂糖50克；柠檬汁10滴；B料：牛奶80克；红茶包3包；食用油30克；低筋面粉80克；玉米淀粉15克；盐0.5g；C料：黑珍珠120克；红糖50克；水适量；D料：淡奶油400克；细砂糖20克",
+  "ingredients": [
+    {
+      "name": "鸡蛋",
+      "amount_text": "4个",
+      "quantity": 4,
+      "unit": "个",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "A料：鸡蛋4个"
+    },
+    {
+      "name": "细砂糖",
+      "amount_text": "50克",
+      "quantity": 50,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "细砂糖50克"
+    },
+    {
+      "name": "柠檬汁",
+      "amount_text": "10滴",
+      "quantity": 10,
+      "unit": "滴",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "柠檬汁10滴"
+    },
+    {
+      "name": "牛奶",
+      "amount_text": "80克",
+      "quantity": 80,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "B料：牛奶80克"
+    },
+    {
+      "name": "红茶包",
+      "amount_text": "3包",
+      "quantity": 3,
+      "unit": "包",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "红茶包3包"
+    },
+    {
+      "name": "食用油",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "食用油30克"
+    },
+    {
+      "name": "低筋面粉",
+      "amount_text": "80克",
+      "quantity": 80,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "低筋面粉80克"
+    },
+    {
+      "name": "玉米淀粉",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "玉米淀粉15克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "0.5g",
+      "quantity": 0.5,
+      "unit": "g",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐0.5g"
+    },
+    {
+      "name": "黑珍珠",
+      "amount_text": "120克",
+      "quantity": 120,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "C料：黑珍珠120克"
+    },
+    {
+      "name": "红糖",
+      "amount_text": "50克",
+      "quantity": 50,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "红糖50克"
+    },
+    {
+      "name": "水",
+      "amount_text": "适量",
+      "quantity": null,
+      "unit": null,
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "水适量"
+    },
+    {
+      "name": "淡奶油",
+      "amount_text": "400克",
+      "quantity": 400,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "D料：淡奶油400克"
+    },
+    {
+      "name": "细砂糖",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "细砂糖20克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "在炖锅中加入80g牛奶，放入茶包，煮沸后关火焖出茶香。"
+    },
+    {
+      "no": 2,
+      "text": "将蛋黄和蛋清分开，分别装入两个料理盆中。"
+    },
+    {
+      "no": 3,
+      "text": "依次将浸泡出茶香的牛奶、盐、食用油、过筛的低筋面粉加入放有蛋黄的料理盆中，注意每加一种原料需要翻拌至完全混合后再加下一种原料，最后将浸泡过牛奶的2包茶包撕开，将茶叶加入面糊中拌匀。"
+    },
+    {
+      "no": 4,
+      "text": "在蛋清中加入柠檬汁，用打蛋器中高档搅打蛋清至粗泡状态时加入三分之一细砂糖，继续搅打，分两次加入剩下的细砂糖，直至将蛋白打发成中性发泡状态（提起打蛋器，蛋白呈鸟嘴状即略弯曲的状态）。"
+    },
+    {
+      "no": 5,
+      "text": "取三分之一的蛋白加入到蛋黄糊中，翻拌均匀（刮刀从底部往上翻拌，不要画圈搅拌），再将面糊倒入到剩余的蛋白中，翻拌均匀，倒入8寸戚风蛋糕模具中，将模具轻震两下，把内部大气泡震出。"
+    },
+    {
+      "no": 6,
+      "text": "将烤盘放入烤箱第2层，选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "no": 7,
+      "text": "烘烤完成后，取出倒扣晾凉，脱模备用。"
+    },
+    {
+      "no": 8,
+      "text": "炖锅中加入适量水，煮沸后放入黑珍珠，煮约8分钟，倒入碗中焖3分钟。锅中放入红糖，加少许水，加热使红糖融化，捞出黑珍珠放入红糖中拌匀，浸泡约20分钟，若此时蛋糕还未准备好，可将红糖珍珠水浴保温。"
+    },
+    {
+      "no": 9,
+      "text": "将淡奶油加入细砂糖打发至六成发，如老酸奶状。"
+    },
+    {
+      "no": 10,
+      "text": "在晾凉的蛋糕中间挖一圆柱状坑，直径约8厘米，注意底不要挖穿，在坑的底部挤少许打发的淡奶油，加入浸泡红糖的珍珠。将剩余的淡奶油由中间向四周挤满蛋糕胚，再将剩余的红糖黑珍珠放在蛋糕正中间，切块即可食用。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "在炖锅中加入80g牛奶和茶包，煮沸后关火焖出茶香",
+      "device_raw": "炖锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 6,
+      "humidity": null,
+      "duration_min": 10,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 10.0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 5,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "在炖锅中加入80g牛奶，放入茶包，煮沸后关火焖出茶香。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将鸡蛋的蛋黄和蛋清分离，分别装入两个料理盆",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将蛋黄和蛋清分开，分别装入两个料理盆中。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将茶香牛奶、盐、食用油、过筛低筋面粉依次加入蛋黄盆中翻拌，最后加入茶包茶叶拌匀",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 8,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 8,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1",
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 8,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "依次将浸泡出茶香的牛奶、盐、食用油、过筛的低筋面粉加入放有蛋黄的料理盆中，注意每加一种原料需要翻拌至完全混合后再加下一种原料，最后将浸泡过牛奶的2包茶包撕开，将茶叶加入面糊中拌匀。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "在蛋清中加入柠檬汁，用打蛋器分次加细砂糖打发至中性发泡",
+      "device_raw": "打蛋器",
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": "中高档",
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 6,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 6,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 6,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "在蛋清中加入柠檬汁，用打蛋器中高档搅打蛋清至粗泡状态时加入三分之一细砂糖，继续搅打，分两次加入剩下的细砂糖，直至将蛋白打发成中性发泡状态（提起打蛋器，蛋白呈鸟嘴状即略弯曲的状态）。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将蛋白分次与蛋黄糊翻拌，倒入8寸模具并轻震去气泡",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3",
+        "s4"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "取三分之一的蛋白加入到蛋黄糊中，翻拌均匀（刮刀从底部往上翻拌，不要画圈搅拌），再将面糊倒入到剩余的蛋白中，翻拌均匀，倒入8寸戚风蛋糕模具中，将模具轻震两下，把内部大气泡震出。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "将烤盘放入烤箱第2层，按开始烹饪键并按屏幕提示烘烤",
+      "device_raw": "烤箱",
+      "device": "烤箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": "上下火",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 150,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 45,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 45,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s5"
+      ],
+      "temperature_c": 150,
+      "temperature_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将烤盘放入烤箱第2层，选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "烘烤完成后取出蛋糕，倒扣晾凉后脱模",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 63,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 61,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s6"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "烘烤完成后，取出倒扣晾凉，脱模备用。"
+    },
+    {
+      "step_id": "s8",
+      "source_step_no": 8,
+      "action": "将水煮沸后放黑珍珠煮8分钟焖3分钟，另用红糖水煮融后与黑珍珠拌匀并浸泡20分钟",
+      "device_raw": "炖锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": 5,
+      "humidity": null,
+      "duration_min": 39,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 39,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 4,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 12,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 15,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 18,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "炖锅中加入适量水，煮沸后放入黑珍珠，煮约8分钟，倒入碗中焖3分钟。锅中放入红糖，加少许水，加热使红糖融化，捞出黑珍珠放入红糖中拌匀，浸泡约20分钟，若此时蛋糕还未准备好，可将红糖珍珠水浴保温。"
+    },
+    {
+      "step_id": "s9",
+      "source_step_no": 9,
+      "action": "将淡奶油加细砂糖打发至六成发",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将淡奶油加入细砂糖打发至六成发，如老酸奶状。"
+    },
+    {
+      "step_id": "s10",
+      "source_step_no": 10,
+      "action": "在晾凉蛋糕中挖坑，挤入淡奶油和红糖珍珠，再用剩余淡奶油覆盖并放剩余珍珠，切块",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 10,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 10,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s7",
+        "s8",
+        "s9"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 10,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "在晾凉的蛋糕中间挖一圆柱状坑，直径约8厘米，注意底不要挖穿，在坑的底部挤少许打发的淡奶油，加入浸泡红糖的珍珠。将剩余的淡奶油由中间向四周挤满蛋糕胚，再将剩余的红糖黑珍珠放在蛋糕正中间，切块即可食用。"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Test and analysis caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Runtime state and generated artifacts
+scheduler/runtime/
+scheduler/demo_output/
+scheduler/experiment_runtime/
+
+# IDE and document-review scratch files
+.idea/
+.vscode/
+.codex_doc_review/
+docx_review/
+
+# Logs and operating-system files
+*.log
+.DS_Store
+Thumbs.db
+

@@ -1,0 +1,363 @@
+{
+  "schema_version": 5,
+  "recipe_id": "5fc5f9e15f8f38795ea6fca6",
+  "name": "广式叉烧",
+  "ingredients_raw": "A料：猪眉子肉（猪里脊肉）400克；B料：老抽10克；生抽15克；红腐乳40克；细砂糖40克；五香粉1克；蒜蓉5克；蚝油25克；红糟或红腐乳汁18克；酸梅酱10克",
+  "ingredients": [
+    {
+      "name": "猪眉子肉（猪里脊肉）",
+      "amount_text": "400克",
+      "quantity": 400,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "A料：猪眉子肉（猪里脊肉）400克"
+    },
+    {
+      "name": "老抽",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "B料：老抽10克"
+    },
+    {
+      "name": "生抽",
+      "amount_text": "15克",
+      "quantity": 15,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生抽15克"
+    },
+    {
+      "name": "红腐乳",
+      "amount_text": "40克",
+      "quantity": 40,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "红腐乳40克"
+    },
+    {
+      "name": "细砂糖",
+      "amount_text": "40克",
+      "quantity": 40,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "细砂糖40克"
+    },
+    {
+      "name": "五香粉",
+      "amount_text": "1克",
+      "quantity": 1,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "五香粉1克"
+    },
+    {
+      "name": "蒜蓉",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "蒜蓉5克"
+    },
+    {
+      "name": "蚝油",
+      "amount_text": "25克",
+      "quantity": 25,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "蚝油25克"
+    },
+    {
+      "name": "红糟或红腐乳汁",
+      "amount_text": "18克",
+      "quantity": 18,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "红糟或红腐乳汁18克"
+    },
+    {
+      "name": "酸梅酱",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "酸梅酱10克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "用肉针（肉锤）在猪肉的正反两面扎孔（捶打），再将猪肉切成厚约 2cm，宽约 6cm 的长条肉。"
+    },
+    {
+      "no": 2,
+      "text": "将B中所有酱料全部倒入碗内，搅拌至完全均匀即成叉烧酱,均匀涂抹在肉块表面。"
+    },
+    {
+      "no": 3,
+      "text": "将肉块与腌料 B 揉捏均匀。装入保鲜袋中放入冰箱冷藏24小时以上使之充分入味。"
+    },
+    {
+      "no": 4,
+      "text": "将腌制好的肉块从冰箱中取出，沥去多余的腌制汤汁，恢复至常温。烤架放在垫有锡纸的烤盘上，将肉块放在烤架上。"
+    },
+    {
+      "no": 5,
+      "text": "选择“开始烹饪”按键，按屏幕提示操作。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "用肉针在猪肉正反两面扎孔，再将猪肉切成厚约2cm、宽约6cm的长条肉",
+      "device_raw": "肉针（肉锤）",
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "用肉针（肉锤）在猪肉的正反两面扎孔（捶打），再将猪肉切成厚约 2cm，宽约 6cm 的长条肉。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将B料全部倒入碗内搅拌成叉烧酱，并均匀涂抹在肉块表面",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 5,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将B中所有酱料全部倒入碗内，搅拌至完全均匀即成叉烧酱,均匀涂抹在肉块表面。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将肉块与腌料B揉捏均匀，装入保鲜袋后放入冰箱冷藏24小时以上充分入味",
+      "device_raw": "冰箱",
+      "device": "冰箱",
+      "device_source": "explicit",
+      "mode_raw": "冷藏",
+      "mode": "冷藏",
+      "mode_source": "explicit",
+      "temperature_settings": [
+        {
+          "zone": "冷藏室",
+          "value_c": 4,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 1445,
+      "duration_source": "estimated",
+      "device_active_start_min": 5,
+      "device_active_min": 1440,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": 4,
+      "temperature_source": "estimated",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将肉块与腌料 B 揉捏均匀。装入保鲜袋中放入冰箱冷藏24小时以上使之充分入味。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "从冰箱取出腌制好的肉块，沥去多余汤汁并恢复至常温，再将肉块放在垫有锡纸烤盘的烤架上",
+      "device_raw": "冰箱",
+      "device": "冰箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": "冷藏",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "冷藏室",
+          "value_c": 4,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 35,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": 4,
+      "temperature_source": "estimated",
+      "human_active_min": 5,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "将腌制好的肉块从冰箱中取出，沥去多余的腌制汤汁，恢复至常温。烤架放在垫有锡纸的烤盘上，将肉块放在烤架上。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "选择开始烹饪按键并按屏幕提示操作，启动烤箱烤制叉烧",
+      "device_raw": null,
+      "device": "烤箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "上下火",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 200,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 30,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 30,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s4"
+      ],
+      "temperature_c": 200,
+      "temperature_source": "estimated",
+      "human_active_min": 1,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "选择“开始烹饪”按键，按屏幕提示操作。"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 5,
+  "recipe_id": "662e07388b2aa2265e115477",
+  "name": "法式羊排",
+  "ingredients_raw": "主料：调味法式羊排4块",
+  "ingredients": [
+    {
+      "name": "调味法式羊排",
+      "amount_text": "4块",
+      "quantity": 4,
+      "unit": "块",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "主料：调味法式羊排4块"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "取冷藏解冻后的调味法式羊排，放在垫有油纸的烤盘上，放入蒸烤一体机第2层，开启电源，选择“开始烹饪”按键，按屏幕提示操作。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "取冷藏解冻后的调味法式羊排放在垫有油纸的烤盘上，放入蒸烤一体机第2层，开启电源，选择“开始烹饪”按键，按屏幕提示操作",
+      "device_raw": "蒸烤一体机",
+      "device": "烤箱",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": "上下火",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 200,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 20,
+      "duration_source": "estimated",
+      "device_active_start_min": 2,
+      "device_active_min": 18,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": 200,
+      "temperature_source": "estimated",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "取冷藏解冻后的调味法式羊排，放在垫有油纸的烤盘上，放入蒸烤一体机第2层，开启电源，选择“开始烹饪”按键，按屏幕提示操作。"
+    }
+  ]
+}

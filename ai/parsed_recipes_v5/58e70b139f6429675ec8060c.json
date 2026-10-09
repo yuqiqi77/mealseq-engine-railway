@@ -1,0 +1,334 @@
+{
+  "schema_version": 5,
+  "recipe_id": "58e70b139f6429675ec8060c",
+  "name": "葱香土豆泥",
+  "ingredients_raw": "A料：土豆400~500g；B料：小葱2根；大葱半根；食用油2汤匙；盐1/2茶匙；黑胡椒粉1/4茶匙；鸡精1/2茶匙",
+  "ingredients": [
+    {
+      "name": "土豆",
+      "amount_text": "400~500g",
+      "quantity": null,
+      "unit": "g",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "A料：土豆400~500g"
+    },
+    {
+      "name": "小葱",
+      "amount_text": "2根",
+      "quantity": 2,
+      "unit": "根",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "B料：小葱2根"
+    },
+    {
+      "name": "大葱",
+      "amount_text": "半根",
+      "quantity": 0.5,
+      "unit": "根",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "大葱半根"
+    },
+    {
+      "name": "食用油",
+      "amount_text": "2汤匙",
+      "quantity": 2,
+      "unit": "汤匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "食用油2汤匙"
+    },
+    {
+      "name": "盐",
+      "amount_text": "1/2茶匙",
+      "quantity": 0.5,
+      "unit": "茶匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐1/2茶匙"
+    },
+    {
+      "name": "黑胡椒粉",
+      "amount_text": "1/4茶匙",
+      "quantity": 0.25,
+      "unit": "茶匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "黑胡椒粉1/4茶匙"
+    },
+    {
+      "name": "鸡精",
+      "amount_text": "1/2茶匙",
+      "quantity": 0.5,
+      "unit": "茶匙",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "鸡精1/2茶匙"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将A中的土豆洗净，削皮，切成约0.2cm的薄片，均匀铺在附送的无孔盘中。"
+    },
+    {
+      "no": 2,
+      "text": "放入设备第2层，开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "no": 3,
+      "text": "烹饪结束后取出，待土豆片晾凉后，捣成土豆泥。"
+    },
+    {
+      "no": 4,
+      "text": "将B中的小葱切成葱花，大葱切成4段。"
+    },
+    {
+      "no": 5,
+      "text": "将炒锅烧热，倒入B中的食用油，待油温升至七成热（略微冒烟）时放入大葱煸炒，葱香味出来后夹出，改用小火，将土豆泥倒入锅中，加入盐、黑胡椒粉、鸡精翻炒均匀即可，最后加入葱花，起锅装盘，趁热食用。"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将土豆洗净、削皮，切成约0.2cm薄片，均匀铺在无孔盘中",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 8,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 8,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 8,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将A中的土豆洗净，削皮，切成约0.2cm的薄片，均匀铺在附送的无孔盘中。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "将土豆盘放入蒸箱第2层，开启电源，取出水箱加满水，选择开始烹饪并按屏幕提示操作",
+      "device_raw": "设备",
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": "普通蒸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 16,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 16,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "放入设备第2层，开启电源，取出水箱加满水，选择“开始烹饪”按键，按屏幕提示操作。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "烹饪结束后取出土豆片，待晾凉后捣成土豆泥",
+      "device_raw": null,
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 15,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 1,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 1,
+          "source": "estimated"
+        },
+        {
+          "start_min": 10,
+          "duration_min": 5,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "device_active_source": "estimated",
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 6,
+      "human_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "additional_device_usages": [],
+      "source_text": "烹饪结束后取出，待土豆片晾凉后，捣成土豆泥。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将小葱切成葱花，大葱切成4段",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将B中的小葱切成葱花，大葱切成4段。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将炒锅烧热倒油，油温七成热时煸炒大葱后夹出，转小火倒入土豆泥并加盐、黑胡椒粉、鸡精翻炒，最后加葱花，起锅装盘",
+      "device_raw": "炒锅",
+      "device": "灶具",
+      "device_source": "normalized",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [
+        {
+          "zone": "锅内油温",
+          "value_c": 210,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": "小火",
+      "heat_level": 2,
+      "humidity": null,
+      "duration_min": 8,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 8,
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 8,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s3",
+        "s4"
+      ],
+      "temperature_c": 210,
+      "temperature_source": "estimated",
+      "human_active_min": 8,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "additional_device_usages": [],
+      "source_text": "将炒锅烧热，倒入B中的食用油，待油温升至七成热（略微冒烟）时放入大葱煸炒，葱香味出来后夹出，改用小火，将土豆泥倒入锅中，加入盐、黑胡椒粉、鸡精翻炒均匀即可，最后加入葱花，起锅装盘，趁热食用。"
+    }
+  ]
+}

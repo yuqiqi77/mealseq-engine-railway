@@ -1,0 +1,602 @@
+{
+  "schema_version": 5,
+  "recipe_id": "66cec69b1142545e3856e07e",
+  "name": "亲朋欢聚套餐",
+  "ingredients_raw": "A料：猪肋排550克；蒜泥5克；盐2克；白糖3克；五香粉1克；孜然粉3克；辣椒粉3克；食用油10克；料酒10克；生抽10克；蚝油10克；老抽2克；B料：小龙虾500克；姜片30克；小葱段20克；啤酒50克；白灼汁60克；C料：土豆丝100克；胡萝卜丝100克；茼蒿叶50克；大米粉20克；盐3克；十三香3克；主料：嫩仔鸡1只（（净重1000g内））；奥尔良腌料80克；水70克",
+  "ingredients": [
+    {
+      "name": "猪肋排",
+      "amount_text": "550克",
+      "quantity": 550,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "A料：猪肋排550克"
+    },
+    {
+      "name": "蒜泥",
+      "amount_text": "5克",
+      "quantity": 5,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "蒜泥5克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐2克"
+    },
+    {
+      "name": "白糖",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白糖3克"
+    },
+    {
+      "name": "五香粉",
+      "amount_text": "1克",
+      "quantity": 1,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "五香粉1克"
+    },
+    {
+      "name": "孜然粉",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "孜然粉3克"
+    },
+    {
+      "name": "辣椒粉",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "辣椒粉3克"
+    },
+    {
+      "name": "食用油",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "食用油10克"
+    },
+    {
+      "name": "料酒",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "料酒10克"
+    },
+    {
+      "name": "生抽",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "生抽10克"
+    },
+    {
+      "name": "蚝油",
+      "amount_text": "10克",
+      "quantity": 10,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "蚝油10克"
+    },
+    {
+      "name": "老抽",
+      "amount_text": "2克",
+      "quantity": 2,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "老抽2克"
+    },
+    {
+      "name": "小龙虾",
+      "amount_text": "500克",
+      "quantity": 500,
+      "unit": "克",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "B料：小龙虾500克"
+    },
+    {
+      "name": "姜片",
+      "amount_text": "30克",
+      "quantity": 30,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "姜片30克"
+    },
+    {
+      "name": "小葱段",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "小葱段20克"
+    },
+    {
+      "name": "啤酒",
+      "amount_text": "50克",
+      "quantity": 50,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "啤酒50克"
+    },
+    {
+      "name": "白灼汁",
+      "amount_text": "60克",
+      "quantity": 60,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "白灼汁60克"
+    },
+    {
+      "name": "土豆丝",
+      "amount_text": "100克",
+      "quantity": 100,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "C料：土豆丝100克"
+    },
+    {
+      "name": "胡萝卜丝",
+      "amount_text": "100克",
+      "quantity": 100,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "胡萝卜丝100克"
+    },
+    {
+      "name": "茼蒿叶",
+      "amount_text": "50克",
+      "quantity": 50,
+      "unit": "克",
+      "role": "主料",
+      "category": "素菜",
+      "source_text": "茼蒿叶50克"
+    },
+    {
+      "name": "大米粉",
+      "amount_text": "20克",
+      "quantity": 20,
+      "unit": "克",
+      "role": "辅料",
+      "category": "素菜",
+      "source_text": "大米粉20克"
+    },
+    {
+      "name": "盐",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "盐3克"
+    },
+    {
+      "name": "十三香",
+      "amount_text": "3克",
+      "quantity": 3,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "十三香3克"
+    },
+    {
+      "name": "嫩仔鸡",
+      "amount_text": "1只（（净重1000g内））",
+      "quantity": 1,
+      "unit": "只",
+      "role": "主料",
+      "category": "荤菜",
+      "source_text": "主料：嫩仔鸡1只（（净重1000g内））"
+    },
+    {
+      "name": "奥尔良腌料",
+      "amount_text": "80克",
+      "quantity": 80,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "奥尔良腌料80克"
+    },
+    {
+      "name": "水",
+      "amount_text": "70克",
+      "quantity": 70,
+      "unit": "克",
+      "role": "辅料",
+      "category": "调味品",
+      "source_text": "水70克"
+    }
+  ],
+  "source_steps": [
+    {
+      "no": 1,
+      "text": "将腌制好的鸡放入大号双耳盘中铺开，并将鸡翅用锡纸包裹好。"
+    },
+    {
+      "no": 2,
+      "text": "取沥干的排骨，加入2g盐、3g白糖、5g蒜泥、1g五香粉、3g孜然粉、3g辣椒粉、10g食用油、10g料酒、10g生抽、10g蚝油和2g老抽，抓拌均匀放入盘中，放冰箱腌制2小时备用。"
+    },
+    {
+      "no": 3,
+      "text": "将腌制好的排骨均匀码放在中号碗中。"
+    },
+    {
+      "no": 4,
+      "text": "将处理好的小龙虾放入中号碗中，摆上30g姜片、20g小葱段，淋入50g啤酒。"
+    },
+    {
+      "no": 5,
+      "text": "将100g土豆丝、100g胡萝卜丝、50g茼蒿叶与20g米粉、3g盐、3g十三香粉充分混合均匀，放入小号碗中。"
+    },
+    {
+      "no": 6,
+      "text": "将200g大米洗净沥干放入小号碗中，再加入240g水，使米水充分混合均匀。"
+    },
+    {
+      "no": 7,
+      "text": "将奥尔良烤鸡和香烤排骨置于蒸烤盘上放入机器第4层，蒸米饭置于蒸烤架上放入第1层。取出水箱加满水，在设备/APP端找到并进入“亲朋欢聚套餐”，选择“开始烹饪”按键，按屏幕提示操作。当时间还剩15min时，将粉蒸三丝和清蒸小龙虾放入机器第1层的烤架上并关门"
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "s1",
+      "source_step_no": 1,
+      "action": "将腌制好的鸡放入大号双耳盘中铺开并用锡纸包裹鸡翅",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "将腌制好的鸡放入大号双耳盘中铺开，并将鸡翅用锡纸包裹好。"
+    },
+    {
+      "step_id": "s2",
+      "source_step_no": 2,
+      "action": "取沥干排骨加调料抓拌均匀，装盘放冰箱冷藏腌制2小时备用",
+      "device_raw": "冰箱",
+      "device": "冰箱",
+      "device_source": "explicit",
+      "mode_raw": null,
+      "mode": "冷藏",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "冷藏室",
+          "value_c": 4,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 122,
+      "duration_source": "estimated",
+      "device_active_start_min": 2,
+      "device_active_min": 120,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": 4,
+      "temperature_source": "estimated",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "取沥干的排骨，加入2g盐、3g白糖、5g蒜泥、1g五香粉、3g孜然粉、3g辣椒粉、10g食用油、10g料酒、10g生抽、10g蚝油和2g老抽，抓拌均匀放入盘中，放冰箱腌制2小时备用。"
+    },
+    {
+      "step_id": "s3",
+      "source_step_no": 3,
+      "action": "将腌制好的排骨均匀码放在中号碗中",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 2,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 2,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "将腌制好的排骨均匀码放在中号碗中。"
+    },
+    {
+      "step_id": "s4",
+      "source_step_no": 4,
+      "action": "将处理好的小龙虾放入中号碗中，摆上姜片、小葱段并淋入啤酒",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s2"
+      ],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "将处理好的小龙虾放入中号碗中，摆上30g姜片、20g小葱段，淋入50g啤酒。"
+    },
+    {
+      "step_id": "s5",
+      "source_step_no": 5,
+      "action": "将土豆丝、胡萝卜丝、茼蒿叶与米粉、盐、十三香粉混合均匀后放入小号碗中",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "将100g土豆丝、100g胡萝卜丝、50g茼蒿叶与20g米粉、3g盐、3g十三香粉充分混合均匀，放入小号碗中。"
+    },
+    {
+      "step_id": "s6",
+      "source_step_no": 6,
+      "action": "将200克大米洗净沥干放入小号碗，加入240克水混合均匀",
+      "device_raw": null,
+      "device": null,
+      "device_source": "unknown",
+      "mode_raw": null,
+      "mode": null,
+      "mode_source": "unknown",
+      "temperature_settings": [],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 3,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 0,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 3,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [],
+      "temperature_c": null,
+      "temperature_source": "unknown",
+      "human_active_min": 3,
+      "human_active_source": "estimated",
+      "device_active_source": "not_applicable",
+      "requires_human": true,
+      "can_run_unattended": false,
+      "source_text": "将200g大米洗净沥干放入小号碗中，再加入240g水，使米水充分混合均匀。"
+    },
+    {
+      "step_id": "s7",
+      "source_step_no": 7,
+      "action": "将奥尔良烤鸡和香烤排骨放机器第4层、蒸米饭放第1层，水箱加满水，选择亲朋欢聚套餐开始烹饪，剩余15分钟时放入粉蒸三丝和清蒸小龙虾并关门",
+      "device_raw": "机器",
+      "device": "蒸箱",
+      "device_source": "inferred",
+      "mode_raw": "亲朋欢聚套餐",
+      "mode": "多层蒸",
+      "mode_source": "estimated",
+      "temperature_settings": [
+        {
+          "zone": "整体",
+          "value_c": 100,
+          "source": "estimated"
+        }
+      ],
+      "heat_level_raw": null,
+      "heat_level": null,
+      "humidity": null,
+      "duration_min": 45,
+      "duration_source": "estimated",
+      "device_active_start_min": 0,
+      "device_active_min": 45,
+      "additional_device_usages": [],
+      "human_intervals": [
+        {
+          "start_min": 0,
+          "duration_min": 5,
+          "source": "estimated"
+        },
+        {
+          "start_min": 30,
+          "duration_min": 2,
+          "source": "estimated"
+        }
+      ],
+      "preheat": {
+        "required": false,
+        "duration_min": 0,
+        "source": "not_applicable",
+        "whole_device_exclusive": false,
+        "placement": "none"
+      },
+      "depends_on": [
+        "s1",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ],
+      "temperature_c": 100,
+      "temperature_source": "estimated",
+      "human_active_min": 7,
+      "human_active_source": "estimated",
+      "device_active_source": "estimated",
+      "requires_human": true,
+      "can_run_unattended": true,
+      "source_text": "将奥尔良烤鸡和香烤排骨置于蒸烤盘上放入机器第4层，蒸米饭置于蒸烤架上放入第1层。取出水箱加满水，在设备/APP端找到并进入“亲朋欢聚套餐”，选择“开始烹饪”按键，按屏幕提示操作。当时间还剩15min时，将粉蒸三丝和清蒸小龙虾放入机器第1层的烤架上并关门"
+    }
+  ]
+}
