@@ -226,7 +226,7 @@ Content-Type: application/json
 
 ## 11. 部署与运行
 
-Windows 本地演示时双击项目根目录的 `start_demo.bat`。脚本优先使用项目 `.venv`，其次使用系统 Python，启动 HTTP 服务并打开 `http://127.0.0.1:8000/`。根目录 `requirements.txt` 是统一安装入口，并引用 `scheduler/requirements.txt`；完整安装 OR-Tools 后，遗传算法才能在需要时使用 CP-SAT 短时修复。
+Windows 本地演示时双击项目根目录的 `start_demo.bat`。脚本优先使用项目 `.venv`，其次使用系统 Python，启动 HTTP 服务并打开 `http://127.0.0.1:8000/`。根目录 `requirements.txt` 直接声明 OR-Tools 版本；完整安装 OR-Tools 后，遗传算法才能在需要时使用 CP-SAT 短时修复。
 
 公网演示使用 Railway 单实例部署：Railpack 根据根目录 `requirements.txt` 安装依赖，进程监听平台注入的 `$PORT`，并把状态、通知和导出物写入挂载到 `/data` 的持久化 Volume。推荐启动命令为：
 
