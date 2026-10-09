@@ -21,6 +21,7 @@
 | `para/` | 设备配置及原始接口规范 |
 | `scheduler/` | 排程算法、HTTP 服务、页面、导出器和测试 |
 | `start_demo.bat` | Windows 本地一键启动入口 |
+| `Procfile` | Railway 自动识别的 Web 启动入口 |
 | `智能烹饪调度Agent接口文档.md` | HTTP 接口与字段说明 |
 | `智能烹饪调度Agent技术方案.md` | 建模、算法、动态重调度与安全校验说明 |
 | `部署运行文档.md` | 本地、Linux 和 Railway 部署步骤 |
